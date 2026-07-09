@@ -18,10 +18,19 @@ npm install html-to-image
 <link href="https://fonts.googleapis.com/css2?family=Alexandria:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 ```
 
-## 3. دمج ألوان الهوية بـ Tailwind
+## 3. دمج ألوان الهوية بـ Tailwind (v4 — بدون tailwind.config.js)
 
-انسخ محتوى `tailwind.config.snippet.js` وادمجه داخل `theme.extend` بملف
-`tailwind.config.js` عندك.
+عندك `@tailwindcss/vite`، يعني Tailwind v4 وما تحتاج ملف config. بس ضيف
+استيراد `rawi-theme.css` بأعلى ملف الـ CSS الرئيسي عندك (اللي فيه
+`@import "tailwindcss";`، عادة `src/index.css`):
+
+```css
+@import "tailwindcss";
+@import "./rawi-theme.css";
+```
+
+بعدها الكلاسات زي `bg-rawi-primary` و `font-arabic` و `rounded-rawi` تشتغل
+تلقائيًا بأي مكون. التفاصيل والقيم كلها داخل `src/rawi-theme.css`.
 
 ## 4. نسخ الملفات
 
@@ -29,6 +38,7 @@ npm install html-to-image
 
 ```
 src/design/tokens.js
+src/rawi-theme.css
 src/components/WordCardTemplate.jsx
 src/components/ControlPanel.jsx
 src/utils/exportImage.js

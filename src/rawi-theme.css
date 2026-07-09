@@ -1,0 +1,47 @@
+/* src/rawi-theme.css
+   Tailwind v4 ما يحتاج tailwind.config.js — التوكنز تتعرّف بملف CSS مباشرة
+   عبر @theme. استورد هذا الملف بأعلى ملف الـ CSS الرئيسي عندك (اللي فيه
+   @import "tailwindcss";)، مثال:
+
+   src/index.css:
+   -----------------------------
+   @import "tailwindcss";
+   @import "./rawi-theme.css";
+   -----------------------------
+*/
+
+@theme {
+  /* ألوان RAWI الأساسية — البنفسجي ثابت عبر كل الحسابات */
+  --color-rawi-primary: #6D3BFF;
+  --color-rawi-primary-hover: #5A2EE6;
+  --color-rawi-bg: #FFFFFF;
+  --color-rawi-surface: #F8F9FC;
+  --color-rawi-text-primary: #1F2937;
+  --color-rawi-text-secondary: #6B7280;
+  --color-rawi-border: #E5E7EB;
+
+  /* الأكسنت يتغير حسب الحساب الفرعي فقط */
+  --color-accent-turkish: #E53935;
+  --color-accent-english: #3B82F6;
+  --color-accent-quran: #22C55E;
+  --color-accent-code: #06B6D4;
+
+  /* الخطوط */
+  --font-arabic: 'Alexandria', sans-serif;
+  --font-latin: 'Inter', sans-serif;
+
+  /* الاستدارة والظل المعتمدين بالبطاقات */
+  --radius-rawi: 24px;
+  --shadow-rawi: 0 8px 30px rgba(31, 41, 55, 0.06);
+}
+
+/*
+بعد الاستيراد، هذي الكلاسات تصير جاهزة تلقائيًا بأي مكان بالمشروع:
+
+  bg-rawi-primary        text-rawi-text-primary     border-rawi-border
+  bg-rawi-surface        text-rawi-text-secondary   bg-accent-turkish
+  font-arabic            font-latin                 rounded-rawi
+  shadow-rawi
+
+مثال: <div className="rounded-rawi bg-rawi-surface shadow-rawi font-latin">
+*/
