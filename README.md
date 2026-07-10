@@ -1,80 +1,387 @@
-# RAWI — Template Generator (كود جاهز للدمج)
+# RAWI Generator — راوي
 
-هذي الملفات مبنية عشان تنسخها داخل مشروعك الحالي (React + Vite + Tailwind).
-ما فيها أي إعداد مشروع جديد — بس مكونات.
+مولّد قوالب سوشال ميديا لتعليم التركية. تدخل بيانات (عنوان، كلمات، خلفية...)
+ويطلع لك تصميم جاهز بمقاس Instagram (1080×1080) قابل للتصدير كصورة PNG.
 
-## 1. تثبيت المكتبة المطلوبة للتصدير
+**الفلسفة الأساسية:** ما نصمم صورة، نبني **مكوّنات (Layers)** قابلة لإعادة
+الاستخدام. أي منشور جديد = تغيير بيانات فقط، بدون أي لمسة تصميم يدوية.
+
+---
+
+## المكدس التقني (Tech Stack)
+
+- **React 19** + **Vite**
+- **TypeScript**
+- **Tailwind CSS v4** (بدون `tailwind.config.js` — الإعداد عبر `@theme` في CSS)
+- **html-to-image** لتصدير القوالب كـ PNG بمقاس حقيقي
+
+---
+
+## التثبيت والتشغيل
 
 ```bash
+npm install
+npm run dev
+```
+
+الحزم الأساسية المطلوبة إذا ناقصة:
+
+```bash
+npm install -D typescript @types/react @types/react-dom
 npm install html-to-image
 ```
 
-## 2. إضافة الخطوط
+---
 
-ضيف هذا السطر داخل `<head>` بملف `index.html`:
-
-```html
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Alexandria:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-```
-
-## 3. دمج ألوان الهوية بـ Tailwind (v4 — بدون tailwind.config.js)
-
-عندك `@tailwindcss/vite`، يعني Tailwind v4 وما تحتاج ملف config. بس ضيف
-استيراد `rawi-theme.css` بأعلى ملف الـ CSS الرئيسي عندك (اللي فيه
-`@import "tailwindcss";`، عادة `src/index.css`):
-
-```css
-@import "tailwindcss";
-@import "./rawi-theme.css";
-```
-
-بعدها الكلاسات زي `bg-rawi-primary` و `font-arabic` و `rounded-rawi` تشتغل
-تلقائيًا بأي مكون. التفاصيل والقيم كلها داخل `src/rawi-theme.css`.
-
-## 4. نسخ الملفات
-
-انسخ هذي المجلدات/الملفات لمشروعك بنفس المسار:
+## هيكل المشروع
 
 ```
-src/design/tokens.js
-src/rawi-theme.css
-src/components/WordCardTemplate.jsx
-src/components/ControlPanel.jsx
-src/utils/exportImage.js
-src/RawiGeneratorExample.jsx   ← مثال تجميع، اختياري
+public/
+└── assets/                          ← صور متغيّرة حسب كل منشور (JSON-driven)
+    └── tea-simit.png                  ← مثال: صورة توضيحية لمنشور معيّن
+
+src/
+├── assets/
+│   └── logos/
+│       ├── logo-original.png       ← اللوجو الأصلي بالألوان الكاملة
+│       ├── logo-white.png          ← نسخة بيضاء (للخلفيات الداكنة)
+│       └── logo-dark.png           ← نسخة داكنة (للخلفيات الفاتحة)
+│
+├── design/
+│   └── tokens.ts                    ← مصدر واحد لكل الألوان/الخطوط/المقاسات
+│
+├── types/
+│   └── index.ts                      ← الأنواع المشتركة (WordItem, PostData...)
+│
+├── components/                        ← عناصر بناء صغيرة قابلة لإعادة الاستخدام
+│   ├── Background.tsx                  ← نظام الخلفيات الديناميكي (4 أنماط)
+│   ├── Logo.tsx                         ← شعار راوي (3 نسخ حسب الخلفية)
+│   ├── Title.tsx                         ← الرقم الكبير + العنوان
+│   ├── Badge.tsx                          ← بادج أحمر بيضاوي
+│   ├── WordIcon.tsx                        ← دائرة/شكل أيقونة لكل كلمة
+│   ├── WordCard.tsx                         ← بطاقة الكلمة (تدرج + رقم + نص)
+│   ├── TipBox.tsx                            ← صندوق "نصيحة اليوم"
+│   ├── IllustrationTea.tsx                    ← رسمة كوب الشاي (SVG، احتياطي)
+│   └── Footer.tsx                              ← حساب السوشال ميديا
+│
+├── templates/                          ← كل قالب نهائي = ملف مستقل هنا
+│   ├── ThreeWords.tsx                    ← القالب الأول (3 كلمات تركية)
+│   └── ThreeWordsExample.tsx              ← معاينة + تصدير + اختيار خلفية
+│
+├── data/
+│   └── three-words-example.json        ← مثال بيانات JSON لمنشور جاهز
+│
+├── utils/
+│   └── exportImage.ts                   ← تصدير أي قالب لصورة PNG
+│
+├── index.css                           ← استيراد Tailwind + rawi-theme.css
+├── rawi-theme.css                      ← متغيرات CSS لهوية راوي
+└── main.tsx                            ← نقطة الدخول
 ```
 
-## 5. الاستخدام
+---
 
-```jsx
-import RawiGeneratorExample from './RawiGeneratorExample'
+## 1. نظام التصميم (`design/tokens.ts`)
 
-function App() {
-  return <RawiGeneratorExample />
+كل قيمة بصرية (لون، خط، مقاس) تُستورد من هنا فقط. **ممنوع أي مكون أو قالب
+يكتب Hex يدوي.**
+
+```ts
+colors.bgTop / colors.bgBottom   // تدرج خلفية القوالب الداكنة
+colors.primary                    // الأحمر الأساسي (البادج، أيقونة النصيحة)
+colors.surface / colors.ink       // أسطح فاتحة + نصوص داكنة (تُستخدم خارج WordCard)
+wordAccentPalette                 // ألوان تتكرر على كل كلمة (بنفسجي/أحمر بالتناوب)
+fonts.arabic / fonts.latin        // Alexandria (عربي) / Inter (لاتيني)
+layout.canvasSize                 // 1080 — ثابت لكل قالب
+layout.padding                    // 64 — المسافة من الحواف
+```
+
+> **ملاحظة:** `WordCard` الحالي ما يستخدم `colors.surface` كخلفية —
+> خلفيته بالكامل تدرج مبني من `getWordAccent()` (انظر القسم 2).
+
+---
+
+## 2. المكونات (`components/`)
+
+| المكون | الوصف |
+|---|---|
+| `Background` | نظام خلفيات ديناميكي — انظر القسم 3 |
+| `Logo` | يقبل `variant`: `"white"` \| `"dark"` \| `"original"`، و `height` |
+| `Title` | يعرض رقم أحمر كبير (عدد الكلمات) + عنوان أبيض |
+| `Badge` | بادج أحمر بيضاوي (مثلاً "تستخدمها كل يوم") |
+| `WordIcon` | أيقونة SVG بلون ديناميكي (`heart`, `handshake`/`hand-up`, `sun`, `star`, `book`) |
+| `WordCard` | بطاقة الكلمة — تصميم بتدرج موحّد كامل (انظر تفاصيل التصميم أدناه) |
+| `TipBox` | صندوق "نصيحة اليوم" — شريط لوني صلد + نص، يظهر دائمًا أسفل القالب |
+| `IllustrationTea` | رسمة SVG احتياطية لكوب شاي (لا تُستخدم حاليًا في `ThreeWords`؛ استُبدلت بـ `teaImage` من JSON) |
+| `Footer` | نص حساب السوشال ميديا (`@rawi.turkish`) |
+
+### تصميم `WordCard` بالتفصيل
+
+البطاقة **بالكامل تدرج واحد موحّد** (مصدر واحد، بدون طبقتين تدرج منفصلتين
+تسببان اختلاف لون) — مبني هيك:
+
+```
+┌─────────────────────────────────────────────┐
+│ [تدرج accent كامل الكرت — نفس الاتجاه للكرت والرقم]│
+│  ┌────────┐  ⬤ ← دائرة بيضاء (أيقونة) متراكبة   │
+│  │   1    │     على حافة منطقة الرقم/النص      │
+│  │(رقم أبيض)│  Teşekkürler   (أبيض)              │
+│  └────────┘  شكراً           (أبيض شفاف 85%)     │
+└─────────────────────────────────────────────┘
+```
+
+- **الخلفية الكاملة للكرت** (`background: gradient`) — تدرج `150deg` من
+  `accent` إلى نسخة أغمق منه عبر `color-mix(in srgb, accent 65%, black)`.
+- **صندوق النص شفاف بالكامل** (بدون أي خلفية بيضاء) — يبين التدرج من ورا
+  النص مباشرة، بدون أي قطع لوني.
+- **النصوص بيضاء** (مو داكنة) لأن الخلفية صارت ملوّنة بالكامل — التركية
+  أبيض 100%، الترجمة العربية أبيض بشفافية 85%.
+- **الدائرة البيضاء** (`ICON_SIZE = 80px`) هي العنصر الأبيض الوحيد في
+  البطاقة، تحتوي على `WordIcon` بلون الـ accent.
+- **النقاط الزخرفية** يمين البطاقة بيضاء شفافة (`opacity: 0.3`)، مو بلون
+  accent (لأنها كانت تختفي فوق خلفية بنفس اللون تقريبًا).
+
+```tsx
+<WordCard index={1} turkish="Teşekkürler" arabic="شكراً" icon="heart" />
+```
+
+### تصميم `TipBox` بالتفصيل
+
+بعد رفض تصميمين أوليين (Glassmorphism + دائرة تدرج مع `blur` — نمط شائع
+جدًا في تصاميم AI العامة)، التصميم الحالي مبني بنفس **لغة WordCard** بدل
+عناصر زخرفية عامة:
+
+- شريط لوني صلد رفيع (`8px`) بلون `colors.primary`، ملاصق بزاوية دائرية
+  من جهة واحدة فقط.
+- بدون أي دائرة تدرج، بدون `backdrop-filter`/`blur`.
+- عنوان صغير ("نصيحة اليوم") بحجم *eyebrow* فوق النص الأساسي — نمط
+  تحريري بدل بطاقة تنبيه عامة.
+
+```tsx
+<TipBox text="احفظ كلمة واحدة واستخدمها اليوم في محادثتك" />
+```
+
+---
+
+## 3. نظام الخلفيات الديناميكي (`components/Background.tsx`)
+
+4 أنماط جاهزة، كلها CSS/SVG خالص بدون أي صورة خارجية:
+
+| النمط | الوصف |
+|---|---|
+| `aurora` | توهجات ملونة متعددة (بنفسجي/أحمر) — الافتراضي |
+| `orbit` | دوائر متحدة المركز أعلى الزاوية |
+| `waves` | موجات منحنية متدرجة أسفل القالب |
+| `dots` | شبكة نقاط كثيفة كعنصر رئيسي |
+
+```tsx
+<Background variant="orbit" />
+```
+
+اختيار عشوائي (مفيد لاحقًا بالـ Engine):
+
+```ts
+import { getRandomBackgroundVariant } from "../components/Background";
+const bg = getRandomBackgroundVariant();
+```
+
+كل الأنماط تشترك بقاعدة تدرج واحدة (`BaseGradient`) + فينييت خفيف بالحواف،
+وتستخدم عناصر زخرفية قابلة لإعادة الاستخدام: `Glow`, `DotGrid`, `Squiggle`,
+`Sparkle`, `DashedRing`.
+
+---
+
+## 4. القوالب (`templates/`)
+
+### ThreeWords
+
+القالب الأول — يعرض 3 (أو أي عدد) كلمات تركية بترتيب:
+
+```
+Logo (أعلى يسار، قريب من الحافة)
+  → Title + Badge (عمود واحد، منزاح شوي يسار عن المنتصف)
+  → قائمة WordCard (كلمة تلو الثانية، بتدرج موحّد لكل بطاقة)
+  → TipBox (أسفل يسار — يظهر دائمًا إذا تم تمرير `tip`)
+  → صورة توضيحية (`teaImage`, أسفل يمين — ملتصقة بالحافة تمامًا، بدون
+    أي padding/margin، خارج حاوية `layout.padding`)
+  → Footer (أسفل المنتصف)
+```
+
+```tsx
+<ThreeWords
+  title="كلمات تركية"
+  badge="تستخدمها كل يوم"
+  background="aurora"
+  footerHandle="@rawi.turkish"
+  tip="احفظ كلمة واحدة واستخدمها اليوم في محادثتك"
+  teaImage="/assets/tea-simit.png"
+  words={[
+    { turkish: "Teşekkürler", arabic: "شكراً", icon: "heart" },
+    { turkish: "Rica ederim", arabic: "العفو", icon: "handshake" },
+    { turkish: "İyi günler", arabic: "يوم سعيد", icon: "sun" },
+  ]}
+/>
+```
+
+> **مهم — طبقات الـ z-index بـ `ThreeWords`:**
+> الصورة التوضيحية (`teaImage`) على `z-index: 20`، والمحتوى الرئيسي
+> (اللوجو، البطاقات، الفوتر) على `z-index: 10` داخل حاوية منفصلة.
+> بمعنى: الصورة تعوم **فوق** المحتوى بصريًا إذا تداخلوا مكانيًا. لو تبي
+> العكس (المحتوى فوق الصورة دائمًا)، بدّل الرقمين.
+
+### ThreeWordsExample
+
+معاينة جاهزة تقرأ من `data/three-words-example.json`، فيها أزرار لتبديل
+نمط الخلفية حيًا، وزر "تصدير PNG".
+
+**قاعدة مهمة:** مرّر بيانات الـ JSON للقالب بصيغة **spread كامل**
+(`{...data}`) بدل استخراج كل حقل يدويًا — لأنه أي حقل جديد تضيفه بالـ
+JSON مستقبلاً (زي `teaImage`) ينوصل تلقائيًا للقالب بدون ما تحتاج تعدّل
+`ThreeWordsExample.tsx` كل مرة وتنسى حقل:
+
+```tsx
+// ✅ صح — يوصل كل حقل تلقائيًا
+<ThreeWords {...data} background={background} />
+
+// ❌ خطأ شائع — لازم تتذكر تضيف كل حقل جديد يدويًا، وسهل تنسى وحد
+<ThreeWords
+  title={data.title}
+  badge={data.badge}
+  words={data.words}
+  footerHandle={data.footerHandle}
+  tip={data.tip}
+  // teaImage نسيته هنا مثلاً → الصورة ما تطلع أبدًا رغم وجودها بالـ JSON
+/>
+```
+
+---
+
+## 5. البيانات (JSON-driven)
+
+كل منشور = ملف JSON واحد، بدون لمس أي كود:
+
+```json
+{
+  "type": "three-words",
+  "title": "كلمات تركية",
+  "badge": "تستخدمها كل يوم",
+  "footerHandle": "@rawi.turkish",
+  "background": "aurora",
+  "tip": "احفظ كلمة واحدة واستخدمها اليوم في محادثتك",
+  "teaImage": "/assets/tea-simit.png",
+  "words": [
+    { "turkish": "Teşekkürler", "arabic": "شكراً", "icon": "heart" },
+    { "turkish": "Rica ederim", "arabic": "العفو", "icon": "handshake" },
+    { "turkish": "İyi günler", "arabic": "يوم سعيد", "icon": "sun" }
+  ]
 }
 ```
 
-أو استورد `WordCardTemplate` مباشرة بأي مكان تبيه، وابنِ عليه Control Panel خاص فيك.
+النوع المطابق بـ TypeScript موجود بـ `types/index.ts` باسم `PostData`،
+ولازم يتضمن كل حقل جديد تضيفه بالـ JSON (`tip?`, `teaImage?`...) وإلا
+TypeScript ما يعطيك تحذير عند الاستخدام وبيصير الحقل يوصل `undefined`
+بصمت.
 
-## كيف تضيف قالب جديد (Quote card, Quran ayah, Code snippet...)
+### ⚠️ قاعدة ذهبية: مسارات الصور حسب المصدر
 
-كل قالب = ملف مستقل بـ `src/components/` بنفس بنية `WordCardTemplate.jsx`:
+فيه فرق جوهري بين نوعين من الصور بالمشروع، ولازم تختار المسار الصح حسب
+النوع وإلا الصورة **ما تظهر أبدًا** حتى لو الملف موجود فعليًا على القرص:
 
-1. نفس الأبعاد الثابتة `1080×1080` ونفس الـ padding `72px`.
-2. نفس ترتيب البلوكات: `LOGO → TITLE → IMAGE → CONTENT → FOOTER`.
-3. الألوان والخطوط تُستورد دايمًا من `src/design/tokens.js` — ممنوع نكتب Hex
-   يدوي بأي قالب جديد.
-4. الأكسنت يتغير بس حسب الحساب (`turkish`, `english`, `quran`, `code`)
-   والبنفسجي `#6D3BFF` يضل ثابت في الكل — هذي القاعدة الذهبية من وثيقة
-   الهوية.
+| نوع الصورة | وين تُحفظ | كيف تُستخدم | مثال |
+|---|---|---|---|
+| **ثابتة بالتصميم نفسه** (لوجو، أيقونات مكوّنات) | `src/assets/...` | `import` عادي بالكود | `import logo from "../assets/logos/logo-white.png"` |
+| **متغيّرة حسب كل منشور** (صور جايه من JSON) | `public/assets/...` | مسار نصي مطلق يبدأ بـ `/` | `"teaImage": "/assets/tea-simit.png"` |
 
-بمجرد ما القالب يصير جاهز ومطابق لهذي القواعد، تعبّيه بالبيانات بس —
-بدون أي لمسة تصميم يدوية بعدها.
+**السبب التقني:** أي مسار نص عادي (string) جاي من JSON ما يمر على Vite
+وقت البناء (`import` هو الوحيد اللي Vite يتعرف عليه ويحوّله)، فلازم يكون
+مسار جاهز يفهمه المتصفح مباشرة من جذر الموقع — وهذا بالضبط اللي يوفره
+مجلد `public/`، لأن Vite يخدمه مباشرة من `/` بدون أي معالجة.
 
-## ملاحظة على جودة التصدير
+**قبل ما تفتح تذكرة مشكلة "الصورة ما تطلع"، تأكد بالترتيب:**
+1. الصورة تفتح لحالها بالمتصفح على `http://localhost:5173/assets/xxx.png`؟
+2. المكوّن يستقبل الـ prop فعليًا (افحص بـ Inspector إذا `<img src=...>`
+   موجود بالـ DOM وقيمة `src` مو فاضية/`undefined`)؟
+3. الملف اللي يمرر البيانات للقالب (`ThreeWordsExample.tsx` مثلاً) يمرر
+   الحقل فعليًا — أفضل حل: استخدم `{...data}` بدل استخراج يدوي (انظر
+   القسم 4).
 
-`exportNodeAsPng` يصدّر بمقاس `1080×1080` الحقيقي (`pixelRatio: 1`) لأن
-القالب مبني أصلًا بهذا المقاس. إذا احتجت دقة أعلى لطباعة أو استخدام تاني،
-زيد `pixelRatio` بملف `src/utils/exportImage.js` (مثلاً `2`) وبس تذكر إن
-حجم الملف النهائي بيكبر بنفس النسبة.
+> **المرحلة القادمة (Engine):** محرك يقرأ `type` من ملف JSON ويختار القالب
+> المناسب تلقائيًا (`three-words` → `ThreeWords`, وقوالب مستقبلية زي
+> `word-of-the-day`, `quote`, `quiz`...)، يملأه بالبيانات، ويصدّر PNG.
+> حاليًا كل قالب يُستدعى يدويًا بملف Example خاص فيه.
+
+---
+
+## 6. تصدير الصورة (`utils/exportImage.ts`)
+
+```ts
+import { exportNodeAsPng } from "../utils/exportImage";
+
+exportNodeAsPng(cardRef.current, "three-words.png");
+```
+
+يصدّر بمقاس `1080×1080` حقيقي (`pixelRatio: 1`) لأن القالب مبني أصلًا
+بهذا المقاس. لدقة أعلى (طباعة مثلًا)، زوّد `pixelRatio` بالخيارات:
+
+```ts
+exportNodeAsPng(node, "file.png", { pixelRatio: 2 });
+```
+
+> **تنبيه توافق:** إذا أي مكوّن مستقبلي يستخدم `backdrop-filter`/`blur`
+> (تم تجنّبه عمدًا بـ `TipBox` الحالي لهذا السبب بالضبط)، تأكد يظهر صح
+> بالـ PNG المصدّر — بعض مكتبات التصدير ما تدعمه بشكل كامل بكل المتصفحات.
+
+---
+
+## 7. اللوجو (`components/Logo.tsx`)
+
+3 نسخ لازم تكون موجودة فعليًا بـ `src/assets/logos/` بنفس الأسماء:
+
+```
+logo-original.png   ← الأصلي
+logo-white.png       ← للخلفيات الداكنة (شفاف PNG)
+logo-dark.png        ← للخلفيات الفاتحة (شفاف PNG)
+```
+
+```tsx
+<Logo />                     // white افتراضيًا
+<Logo variant="dark" />
+<Logo variant="original" height={50} />
+```
+
+---
+
+## القاعدة الذهبية — إضافة قالب جديد
+
+أي قالب جديد (Quote card، كلمة اليوم، آية، اختبار...) لازم يلتزم بـ:
+
+1. أبعاد ثابتة `1080×1080` ونفس الـ `padding` من `layout.padding` (إلا
+   للعناصر المقصود إلصاقها بالحافة تمامًا، زي `teaImage` — تُبنى خارج
+   حاوية الـ padding عمدًا).
+2. نفس فلسفة الطبقات: `Background → Logo → Title/Badge → Content → TipBox/Illustration → Footer`.
+3. الألوان والخطوط تُستورد دايمًا من `design/tokens.ts` — **ممنوع Hex
+   يدوي**. الاستثناء الوحيد المقبول: تدرجات مبنية ديناميكيًا من token
+   موجود عبر `color-mix()` (زي `WordCard`).
+4. القالب يُبنى من مكونات `components/` الموجودة قدر الإمكان (Logo,
+   Badge, WordCard, TipBox...) بدل تكرار الكود.
+5. أي حقل بيانات جديد للقالب يُضاف لنوعه بـ `types/index.ts` كـ اختياري
+   (`?`) أول ما يُنشأ، وتُستخدم `{...data}` بدل تمرير حقول يدويًا.
+6. تجنّب عناصر زخرفية "عامة" (دوائر تدرج + `blur` زجاجي) بدون مبرر مرتبط
+   بهوية راوي تحديدًا — استخدم نفس لغة التصميم الموجودة (تدرجات
+   `WordCard`، الأشرطة اللونية الصلدة، الدوائر المتقطعة حوالين اللوجو).
+7. بمجرد ما القالب يصير جاهز ومطابق لهذي القواعد، تعبّيه بالبيانات بس —
+   بدون أي لمسة تصميم يدوية بعدها.
+
+---
+
+## خارطة الطريق (Roadmap)
+
+- [x] Design System: Logo, Title, Badge, WordCard, Background, Footer
+- [x] القالب الأول: ThreeWords
+- [x] نظام خلفيات ديناميكي (4 أنماط)
+- [x] تصدير PNG
+- [x] WordCard بتدرج موحّد (بدون طبقتين تدرج منفصلتين)
+- [x] TipBox — صندوق نصيحة بلغة تصميم راوي (بدون عناصر AI عامة)
+- [x] دعم صور متغيّرة حسب المنشور عبر `public/assets` + مسارات JSON
+- [ ] Engine: قراءة JSON واختيار القالب المناسب تلقائيًا
+- [ ] قوالب إضافية: كلمة اليوم، عبارة اليوم، اختبار، محادثة

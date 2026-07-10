@@ -1,1 +1,13 @@
 @import "tailwindcss";
+@import "./rawi-theme.css";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', 'Alexandria', sans-serif;
+}

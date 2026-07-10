@@ -1,0 +1,14 @@
+{
+  "type": "three-words",
+  "title": "كلمات تركية",
+  "badge": "تستخدمها كل يوم",
+  "footerHandle": "@rawi.turkish",
+  "background": "aurora",
+  "tip": "احفظ كلمة واحدة واستخدمها اليوم في محادثتك",
+  "teaImage": "/assets/tea-simit.png",
+  "words": [
+    { "turkish": "Teşekkürler", "arabic": "شكراً", "icon": "heart" },
+    { "turkish": "Rica ederim", "arabic": "العفو", "icon": "handshake" },
+    { "turkish": "İyi günler", "arabic": "يوم سعيد", "icon": "sun" }
+  ]
+}
