@@ -1,0 +1,12 @@
+{
+  "type": "word-of-day",
+  "turkish": "Günaydın",
+  "phonetic": "gün-ay-dın",
+  "meaning": "صباح الخير",
+  "exampleTurkish": "Günaydın, nasılsın?",
+  "exampleArabic": "صباح الخير، كيف حالك؟",
+  "tip": "استخدمها في الصباح عند التحدث مع الأصدقاء أو شراء شيء.",
+  "image": "/assets/istanbul-tea.png",
+  "footerHandle": "@rawi.turkish",
+  "background": "orbit"
+}

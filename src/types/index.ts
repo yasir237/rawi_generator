@@ -37,3 +37,16 @@ export interface ThreeWordsProps {
   tip?: string;
   teaImage?: string;
 }
+
+export interface WordOfDayData {
+  type: "word-of-day";
+  turkish: string;
+  phonetic: string;
+  meaning: string;
+  exampleTurkish: string; 
+  exampleArabic: string;
+  tip: string;
+  image: string;             // من public/assets — دائرة الصورة
+  footerHandle?: string;
+  background?: BackgroundVariant;
+}
