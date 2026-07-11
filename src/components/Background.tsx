@@ -1,9 +1,9 @@
 import type { ReactNode } from "react";
 import { colors } from "../design/tokens";
 
-export type BackgroundVariant = "aurora" | "orbit" | "waves" | "dots";
+export type BackgroundVariant = "aurora" | "orbit" | "waves" | "dots" | "swoosh";
 
-export const backgroundVariants: BackgroundVariant[] = ["aurora", "orbit", "waves", "dots"];
+export const backgroundVariants: BackgroundVariant[] = ["aurora", "orbit", "waves", "dots", "swoosh"];
 
 export function getRandomBackgroundVariant(): BackgroundVariant {
   return backgroundVariants[Math.floor(Math.random() * backgroundVariants.length)];
@@ -22,6 +22,8 @@ export default function Background({ variant = "aurora" }: BackgroundProps) {
       return <WavesBackground />;
     case "dots":
       return <DotsBackground />;
+    case "swoosh":
+      return <SwooshBackground />;
     case "aurora":
     default:
       return <AuroraBackground />;
@@ -332,5 +334,74 @@ function GrainTexture() {
       </filter>
       <rect width="100%" height="100%" filter="url(#rawi-grain)" />
     </svg>
+  );
+}
+
+
+function SwooshBackground() {
+  return (
+    <>
+      {/* التدرج الأساسي — نفس bgTop/bgBottom الموجودين بالتوكنز */}
+      <div
+        style={{
+          position: "absolute",
+          inset: 0,
+          background: `linear-gradient(160deg, ${colors.bgTop}, ${colors.bgBottom})`,
+        }}
+      />
+ 
+      {/* قوس علوي-يمين */}
+      <svg
+        width="1080"
+        height="1080"
+        viewBox="0 0 1080 1080"
+        style={{ position: "absolute", top: 0, left: 0, opacity: 0.5 }}
+      >
+        <path
+          d="M1080,0 A700,700 0 0,0 620,520"
+          stroke={colors.purpleTop}
+          strokeWidth={140}
+          fill="none"
+          opacity={0.35}
+        />
+      </svg>
+ 
+      {/* قوس سفلي-يسار */}
+      <svg
+        width="1080"
+        height="1080"
+        viewBox="0 0 1080 1080"
+        style={{ position: "absolute", bottom: 0, left: 0, opacity: 0.5 }}
+      >
+        <path
+          d="M0,1080 A500,500 0 0,0 380,650"
+          stroke={colors.purpleTop}
+          strokeWidth={100}
+          fill="none"
+          opacity={0.3}
+        />
+        {/* حلقات متحدة المركز خفيفة أسفل-يسار */}
+        {[80, 130, 180].map((r) => (
+          <circle
+            key={r}
+            cx={40}
+            cy={1040}
+            r={r}
+            stroke={colors.purpleTop}
+            strokeWidth={1.5}
+            fill="none"
+            opacity={0.25}
+          />
+        ))}
+      </svg>
+ 
+      {/* شبكات نقاط بالزوايا — إعادة استخدام DotGrid الموجود */}
+      <div style={{ position: "absolute", top: 60, right: 40, opacity: 0.5 }}>
+        {/* <DotGrid rows={5} cols={5} /> استخدم مكوّن DotGrid الموجود فعليًا هنا */}
+      </div>
+      <div style={{ position: "absolute", bottom: 200, right: 30, opacity: 0.4 }}>
+        {/* <DotGrid rows={6} cols={4} /> */}
+      </div>
+    </>
   );
 }

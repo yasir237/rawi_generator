@@ -1,4 +1,13 @@
-export type UiIconKey = "star" | "translate" | "chat" | "speaker" | "calendar" | "lightbulb";
+export type UiIconKey =
+  | "star"
+  | "translate"
+  | "chat"
+  | "speaker"
+  | "calendar"
+  | "lightbulb"
+  | "heart"
+  | "sun-cloud"
+  | "quote";
 
 function path(icon: UiIconKey) {
   switch (icon) {
@@ -14,10 +23,19 @@ function path(icon: UiIconKey) {
       return "M3 5H17V17H3Z M3 8H17 M6 3V6 M14 3V6";
     case "lightbulb":
       return "M10 2C7 2 5 4 5 7C5 9 6 10 7 11.5V14H13V11.5C14 10 15 9 15 7C15 4 13 2 10 2Z M8 16H12 M8.5 18H11.5";
+    // ⬇️ إضافات جديدة لأجل قالب SentenceOfDay — بنفس مقياس viewBox 20x20
+    case "heart":
+      return "M10 17.5C10 17.5 2.5 11.3 2.5 6.8C2.5 4.1 4.6 2 7.2 2C8.8 2 10 3.1 10 4.8C10 3.1 11.2 2 12.8 2C15.4 2 17.5 4.1 17.5 6.8C17.5 11.3 10 17.5 10 17.5Z";
+    case "sun-cloud":
+      return "M9.5 1.5V3 M13 2.3L12.4 3.6 M6 2.3L6.6 3.6 M4.5 13.5C3 13.5 2 12.3 2 11C2 9.7 3 8.6 4.3 8.5C4.6 6.3 6.5 4.7 8.7 5C10.5 5.2 11.9 6.5 12.2 8.2C13.8 8.4 15 9.7 15 11.3C15 12.6 14 13.5 12.5 13.5H4.5Z";
+    case "quote":
+      return "M4 6.5C4 4.6 5.6 3 7.5 3V5C6.7 5 6 5.7 6 6.5H7.5V10H4V6.5Z M11.5 6.5C11.5 4.6 13.1 3 15 3V5C14.2 5 13.5 5.7 13.5 6.5H15V10H11.5V6.5Z";
     default:
       return "";
   }
 }
+
+const filledIcons: UiIconKey[] = ["star", "heart"]; // الأيقونات الممتلئة (بدون stroke)
 
 export default function UiIcon({ icon, color, size = 18 }: { icon: UiIconKey; color: string; size?: number }) {
   return (
@@ -28,7 +46,7 @@ export default function UiIcon({ icon, color, size = 18 }: { icon: UiIconKey; co
         strokeWidth="1.6"
         strokeLinecap="round"
         strokeLinejoin="round"
-        fill={icon === "star" ? color : "none"}
+        fill={filledIcons.includes(icon) ? color : "none"}
       />
     </svg>
   );
