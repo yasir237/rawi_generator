@@ -1,0 +1,9 @@
+{
+  "type": "dont-say",
+  "wrongPhrase": "Bu güzel",
+  "correctPhrase": "Bu harika!",
+  "translationWrong": "هذا جميل",
+  "translationCorrect": "هذا رائع!",
+  "footerHandle": "@rawi.turkish",
+  "background": "/assets/backgrounds/kiz_kulesi.png"
+}

@@ -71,3 +71,41 @@ export interface SentenceOfDayData extends Omit<SentenceOfDayProps, "background"
   background?: BackgroundVariant;
 }
  
+
+
+// ----------------- Question Answer -----------------
+
+ 
+export interface QuestionAnswerProps {
+  question: string;
+  questionHighlight: string;
+  turkishAnswer: string;
+  turkishHighlight: string; // ← جديد: الجزء المطلوب تمييزه من الجملة التركية
+  arabicTranslation: string;
+  illustration: string;
+  footerHandle: string;
+  background: BackgroundVariant;
+}
+ 
+export interface QuestionAnswerData
+  extends Omit<QuestionAnswerProps, "background"> {
+  type: "question-answer";
+  background?: BackgroundVariant;
+}
+
+
+// -------------- dontSay ------------------
+export interface DontSayProps {
+  wrongPhrase: string;
+  correctPhrase: string;
+  translationWrong: string;
+  translationCorrect: string;
+  wrongLabel?: string;
+  correctLabel?: string;
+  footerHandle?: string;
+  background: string;       // مسار من public/assets، مثال: "/assets/dont-say-bg.png"
+}
+
+export interface DontSayData extends DontSayProps {
+  type: "dont-say";
+}

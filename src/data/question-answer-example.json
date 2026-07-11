@@ -1,0 +1,11 @@
+{
+  "type": "question-answer",
+  "question": "كيف تطلب قهوة في تركيا؟",
+  "questionHighlight": "قهوة",
+  "turkishAnswer": "Bir kahve lütfen.",
+  "turkishHighlight": "lütfen.",
+  "arabicTranslation": "قهوة واحدة من فضلك.",
+  "illustration": "/assets/svgs/coffee-cup-pana.svg",
+  "footerHandle": "@rawi.turkish",
+  "background": "aurora"
+}
