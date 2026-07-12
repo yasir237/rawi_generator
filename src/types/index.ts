@@ -132,3 +132,22 @@ export interface GramerOfDayProps {
 export interface GramerOfDayData extends GramerOfDayProps {
   type: "gramer-of-day";
 }
+
+// ----------------- Sentence Of Day ----------------
+export interface SentenceOfDayItem {
+  turkish: string;
+  arabic: string;
+}
+
+export interface SentenceOfDayProps {
+  turkish: string;
+  arabic: string;
+  badgeText?: string;      // افتراضي: "عبارة اليوم"
+  sectionTitle?: string;   // افتراضي: "الردود الشائعة" — عنوان عام، تقدر تغيّره (مرادفات/مواقف استخدام...)
+  items: SentenceOfDayItem[];
+  footerHandle?: string;
+}
+
+export interface SentenceOfDayData extends SentenceOfDayProps {
+  type: "sentence-of-day";
+}

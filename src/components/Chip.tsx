@@ -35,7 +35,7 @@ export default function Chip({
       {emoji && <span style={{ fontSize: fontSize, lineHeight: 1 }}>{emoji}</span>}
       <span
         className="font-bold"
-        style={{ fontFamily: fonts.arabic, color: textColor, fontSize: fontSize }}
+        style={{ fontFamily: fonts.arabic, color: textColor, fontSize: 26 }}
       >
         {text}
       </span>

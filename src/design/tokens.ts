@@ -16,18 +16,19 @@ export const colors = {
   ink: "#1A1233",
   inkMuted: "#7A7590",
   white: "#FFFFFF",
-  purpleTop: "#8261e2",
   
   // الأحمر الأساسي (الرقم، البادج، خط جانب البطاقة)
   primary: "#E63950",
+  
   purple: "#6939F5",
-
+  purpleSoft: "#F2EEFC",
+  purpleTop: "#8261e2",
 
   accent: "#FF9F45",      // البرتقالي — نجمة، كلمة "هافا"، كلمة "الآن" بالـ CTA
   noteInk: "#1E1440",      // كتابة داكنة فوق الورقة الممزقة (أغمق من ink العادي، بنفسجي مطفي)
   bgDeep: "#2B145E",  
   
-  success: "#22C55E"
+  success: "#22C55E",
 } as const;
 
 // لون دائرة الأيقونة + بادج الرقم لكل كلمة، بالتناوب حسب الترتيب

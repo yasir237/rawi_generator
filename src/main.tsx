@@ -8,6 +8,7 @@ import DontSayExample from "./templates/DontSayExample";
 import GramerOfDayExample from "./templates/GramerOfDayExample";
 import FeaturedWordExample from "./templates/FeaturedWordExample";
 import WordOfDayExample from "./templates/WordOfDayExample";
+import SentenceOfDayExample from "./templates/SentenceOfDayExample";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
@@ -18,7 +19,8 @@ createRoot(document.getElementById("root")!).render(
       {/* <GramerOfDayExample /> */}
       {/* <FeaturedWordExample /> */}
       {/* <FeaturedSentenceExample /> */}
-      <WordOfDayExample />
+      {/* <WordOfDayExample /> */}
+      <SentenceOfDayExample />
     </div>
   </StrictMode>
 );

@@ -1,0 +1,11 @@
+{
+  "type": "sentence-of-day",
+  "turkish": "Nasılsın?",
+  "arabic": "كيف حالك؟",
+  "sectionTitle": "الردود الشائعة",
+  "items": [
+    { "turkish": "İyiyim, teşekkürler.", "arabic": "بخير، شكراً." },
+    { "turkish": "Fena değil.", "arabic": "لست سيئاً." }
+  ],
+  "footerHandle": "@rawi.turkish"
+}
