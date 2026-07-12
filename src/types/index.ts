@@ -38,8 +38,10 @@ export interface ThreeWordsProps {
   teaImage?: string;
 }
 
-export interface WordOfDayData {
-  type: "word-of-day";
+// ------------ Featured Word ------------
+
+export interface FeaturedWordData {
+  type: "featured-word";
   turkish: string;
   phonetic: string;
   meaning: string;

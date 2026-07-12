@@ -1,4 +1,4 @@
-import type { WordOfDayData } from "../types";
+import type { FeaturedWordData } from "../types";
 import { layout, colors, fonts } from "../design/tokens";
 import Background from "../components/Background";
 import Logo from "../components/Logo";
@@ -7,11 +7,11 @@ import WordOfDayCard from "../components/WordOfDayCard";
 import TipBanner from "../components/TipBanner";
 import Footer from "../components/Footer";
 
-type WordOfDayProps = Omit<WordOfDayData, "type">;
+type FeaturedWordProps = Omit<FeaturedWordData, "type">;
 
-export default function WordOfDay({
+export default function FeaturedWord({
   turkish, phonetic, meaning, exampleTurkish, exampleArabic, tip, image, footerHandle, background,
-}: WordOfDayProps) {
+}: FeaturedWordProps) {
   return (
     <div className="relative" style={{ width: layout.canvasSize, height: layout.canvasSize }}>
       <Background variant={background ?? "orbit"} />
@@ -23,10 +23,10 @@ export default function WordOfDay({
 
         <div className="flex flex-col items-center gap-4" style={{ marginTop: 20 }}>
           <div className="font-extrabold text-white" style={{ fontFamily: fonts.arabic, fontSize: 72 }}>
-            كلمة اليوم
+            كلمة مميزة
           </div>
           <IconPill icon="calendar" color={colors.purple}>
-            Günün Kelimesi
+            Öne Çıkan Kelime
           </IconPill>
         </div>
 
