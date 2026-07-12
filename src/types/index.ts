@@ -55,9 +55,9 @@ export interface FeaturedWordData {
 
 // ------------- SentenceOfDayData -------------
 
-export interface SentenceOfDayProps {
-  turkishSentence: string; // الجملة التركية كاملة، مثال: "Bugün hava çok güzel."
-  turkishHighlight: string; // الكلمة الملونة بالبنفسجي داخلها، مثال: "hava"
+export interface FeaturedSentenceProps {
+  turkishSentence: string;
+  turkishHighlight: string;
   phonetic: string;
   phoneticHighlight: string;
   translation: string;
@@ -68,11 +68,11 @@ export interface SentenceOfDayProps {
   background: BackgroundVariant;
 }
 
-export interface SentenceOfDayData extends Omit<
-  SentenceOfDayProps,
+export interface FeaturedSentenceData extends Omit<
+  FeaturedSentenceProps,
   "background"
 > {
-  type: "sentence-of-day";
+  type: "featured-sentence";
   background?: BackgroundVariant;
 }
 

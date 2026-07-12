@@ -1,13 +1,13 @@
 import { useRef, useState } from "react";
-import SentenceOfDay from "./SentenceOfDay";
-import postData from "../data/sentence-of-day-example.json";
+import FeaturedSentence from "./FeaturedSentence";
+import postData from "../data/featured-sentence-example.json";
 import { exportNodeAsPng } from "../utils/exportImage";
 import { backgroundVariants, type BackgroundVariant } from "../components/Background";
-import type { SentenceOfDayData } from "../types";
+import type { FeaturedSentenceData } from "../types";
 
-const data = postData as SentenceOfDayData;
+const data = postData as FeaturedSentenceData;
 
-export default function SentenceOfDayExample() {
+export default function FeaturedSentenceExample() {
   const cardRef = useRef<HTMLDivElement>(null);
   const [background, setBackground] = useState<BackgroundVariant>(
     data.background ?? "swoosh"
@@ -15,7 +15,7 @@ export default function SentenceOfDayExample() {
 
   const handleExport = () => {
     if (cardRef.current) {
-      exportNodeAsPng(cardRef.current, "sentence-of-day.png");
+      exportNodeAsPng(cardRef.current, "featured-sentence.png");
     }
   };
 
@@ -38,7 +38,7 @@ export default function SentenceOfDayExample() {
       </div>
 
       <div ref={cardRef}>
-        <SentenceOfDay {...data} background={background} />
+        <FeaturedSentence {...data} background={background} />
       </div>
 
       <button

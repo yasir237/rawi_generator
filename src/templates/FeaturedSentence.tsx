@@ -1,4 +1,4 @@
-import type { SentenceOfDayProps } from "../types";
+import type { FeaturedSentenceProps } from "../types";
 import { colors, fonts, layout } from "../design/tokens";
 import Background from "../components/Background";
 import Logo from "../components/Logo";
@@ -7,8 +7,9 @@ import PaintedBadge from "../components/PaintedBadge";
 import UiIcon from "../components/UiIcon";
 import PhoneticCapsule from "../components/PhoneticCapsule";
 import TornNote from "../components/TornNote";
+import badgeImage from "../assets/badges/featured-sentence-badge.png";
 
-export default function SentenceOfDay({
+export default function FeaturedSentence({
   turkishSentence,
   turkishHighlight,
   phonetic,
@@ -19,7 +20,7 @@ export default function SentenceOfDay({
   ctaHighlight,
   footerHandle,
   background,
-}: SentenceOfDayProps) {
+}: FeaturedSentenceProps) {
   const [ctaBefore, ctaAfter] = cta.split(ctaHighlight);
   const [turkishBefore, turkishAfter] = turkishSentence.split(turkishHighlight);
   return (
@@ -44,7 +45,11 @@ export default function SentenceOfDay({
         <div className="flex-1 flex flex-col items-center justify-center gap-9 -mt-6">
           {/* البادج + النجمة */}
           <div className="flex items-center gap-3">
-            <PaintedBadge  height={120} />
+            <img
+                  src={badgeImage}
+                  alt="جملة مميزة"
+                  style={{ height: 120, width: "auto" }}
+                />
           </div>
 
           {/* الجملة التركية — أكبر عنصر، بدون Card ولا إطار */}
