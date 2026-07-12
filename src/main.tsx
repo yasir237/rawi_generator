@@ -7,6 +7,7 @@ import QuestionAnswerExample from "./templates/QuestionAnswerExample";
 import DontSayExample from "./templates/DontSayExample";
 import GramerOfDayExample from "./templates/GramerOfDayExample";
 import FeaturedWordExample from "./templates/FeaturedWordExample";
+import WordOfDayExample from "./templates/WordOfDayExample";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
@@ -16,7 +17,8 @@ createRoot(document.getElementById("root")!).render(
       {/* <DontSayExample /> */}
       {/* <GramerOfDayExample /> */}
       {/* <FeaturedWordExample /> */}
-      <FeaturedSentenceExample />
+      {/* <FeaturedSentenceExample /> */}
+      <WordOfDayExample />
     </div>
   </StrictMode>
 );

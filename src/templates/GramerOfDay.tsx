@@ -51,7 +51,7 @@ export default function GramerOfDay({
           {gramerType && (
             <Badge
               children={gramerType}
-              fontSize={56}
+              fontSize={50}
               color={colors.purple}
               padding="4px 70px"
             />
@@ -60,7 +60,7 @@ export default function GramerOfDay({
           <span
             dir="rtl"
             style={{ color: colors.bgTop }}
-            className={`text-5xl`}
+            className={`text-4xl`}
           >
             {whyUsed}
           </span>
