@@ -43,10 +43,10 @@ export interface WordOfDayData {
   turkish: string;
   phonetic: string;
   meaning: string;
-  exampleTurkish: string; 
+  exampleTurkish: string;
   exampleArabic: string;
   tip: string;
-  image: string;             // من public/assets — دائرة الصورة
+  image: string; // من public/assets — دائرة الصورة
   footerHandle?: string;
   background?: BackgroundVariant;
 }
@@ -54,8 +54,8 @@ export interface WordOfDayData {
 // ------------- SentenceOfDayData -------------
 
 export interface SentenceOfDayProps {
-  turkishSentence: string;           // الجملة التركية كاملة، مثال: "Bugün hava çok güzel."
-  turkishHighlight: string;          // الكلمة الملونة بالبنفسجي داخلها، مثال: "hava"
+  turkishSentence: string; // الجملة التركية كاملة، مثال: "Bugün hava çok güzel."
+  turkishHighlight: string; // الكلمة الملونة بالبنفسجي داخلها، مثال: "hava"
   phonetic: string;
   phoneticHighlight: string;
   translation: string;
@@ -65,17 +65,17 @@ export interface SentenceOfDayProps {
   footerHandle: string;
   background: BackgroundVariant;
 }
- 
-export interface SentenceOfDayData extends Omit<SentenceOfDayProps, "background"> {
+
+export interface SentenceOfDayData extends Omit<
+  SentenceOfDayProps,
+  "background"
+> {
   type: "sentence-of-day";
   background?: BackgroundVariant;
 }
- 
-
 
 // ----------------- Question Answer -----------------
 
- 
 export interface QuestionAnswerProps {
   question: string;
   questionHighlight: string;
@@ -86,13 +86,14 @@ export interface QuestionAnswerProps {
   footerHandle: string;
   background: BackgroundVariant;
 }
- 
-export interface QuestionAnswerData
-  extends Omit<QuestionAnswerProps, "background"> {
+
+export interface QuestionAnswerData extends Omit<
+  QuestionAnswerProps,
+  "background"
+> {
   type: "question-answer";
   background?: BackgroundVariant;
 }
-
 
 // -------------- dontSay ------------------
 export interface DontSayProps {
@@ -103,9 +104,29 @@ export interface DontSayProps {
   wrongLabel?: string;
   correctLabel?: string;
   footerHandle?: string;
-  background: string;       // مسار من public/assets، مثال: "/assets/dont-say-bg.png"
+  background: string; // مسار من public/assets، مثال: "/assets/dont-say-bg.png"
 }
 
 export interface DontSayData extends DontSayProps {
   type: "dont-say";
+}
+
+// -------------------- Gramer of Day --------------------
+export interface ExampleItem {
+  turkish?: string;
+  arabic?: string;
+}
+
+export interface GramerOfDayProps {
+  gramerName: string;
+  gramerType?: string;
+  whyUsed: string;
+  examples: ExampleItem[];
+  cta: string;
+
+  footerHandle?: string;
+}
+
+export interface GramerOfDayData extends GramerOfDayProps {
+  type: "gramer-of-day";
 }

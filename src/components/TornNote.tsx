@@ -6,84 +6,84 @@ import middleTile from "../assets/note/note-middle-tile.png";
 import tape from "../assets/note/note-tape.png";
 
 interface TornNoteProps {
-  text: string;
-  highlightWord?: string;
-  minWidth?: number; // أقل عرض ممكن للورقة — يكبر تلقائيًا لو النص أطول
+  text: string; // أسطر متعددة تُفصل بـ "\n" — كل سطر يُرسم لحاله
+  highlightWord?: string; // لو موجودة بأي سطر، تتلوّن + تسطير فرشاة تحتها بذاك السطر فقط
+  minWidth?: number;
 }
 
-/**
- * "ورقة ممزقة" حقيقية (صورة مقصوصة 3-slice) بدل SVG zigzag يدوي:
- * - leftCap / rightCap: صورتان ثابتتا العرض تحتويان الحافة الممزقة الفعلية
- *   (يمين/يسار)، ما تتمطط أبدًا.
- * - middleTile: شريحة نظيفة من نفس الورقة تتكرر أفقيًا (repeat-x) لتملأ أي
- *   عرض إضافي — بما إن حواف فوق/تحت شبه مستقيمة، التكرار غير ملحوظ.
- * - tape: صورة الشريط اللاصق البنفسجي، توضع فوق بموضع ثابت (لا تتمطط ولا
- *   تتحرك مع طول النص) — بنفس ميلان والحجم الأصلي من التصميم المرجعي.
- *
- * العرض الكلي = leftCap + rightCap + (عرض المنتصف المطلوب حسب طول النص)،
- * فـ الجملة ما تطلع أبدًا خارج إطار الورقة.
- */
+const BASE_HEIGHT = 210; // ارتفاع الورقة الأصلي لسطر واحد — نفس القيمة القديمة بالضبط (بدون أي تغيير بصري لـ SentenceOfDay)
+const EXTRA_PER_LINE = 54; // ⚠️ تقدير تقريبي (fontSize 36 × lineHeight 1.4 + gap) لكل سطر إضافي بعد الأول — يحتاج ضبط بصري بعد أول تصدير فعلي
+
 export default function TornNote({ text, highlightWord, minWidth = 600 }: TornNoteProps) {
-  const [before, after] = highlightWord ? text.split(highlightWord) : [text, ""];
+  const lines = text.split("\n");
+  const paperHeight =
+    lines.length <= 1 ? BASE_HEIGHT : BASE_HEIGHT + (lines.length - 1) * EXTRA_PER_LINE;
 
   return (
     <div className="relative inline-flex" style={{ minWidth }}>
-      {/* القطعة اليسار — ثابتة، فيها الحافة الممزقة */}
-      <img src={leftCap} alt="" style={{ height: 210, display: "block", flexShrink: 0 }} />
+      {/* القطعة اليسار — تتمدد عموديًا حسب عدد الأسطر (تكبير تناسبي، الحافة الممزقة تكبر معه بدون تشوّه) */}
+      <img src={leftCap} alt="" style={{ height: paperHeight, display: "block", flexShrink: 0 }} />
 
-      {/* المنتصف المرن — يتمدد تلقائيًا حسب طول النص */}
+      {/* المنتصف المرن — يتمدد أفقيًا حسب طول أطول سطر، وعموديًا حسب paperHeight */}
       <div
-        className="flex items-center justify-center gap-5 flex-1"
+        className="flex flex-col items-center justify-center gap-2 flex-1"
         style={{
           backgroundImage: `url(${middleTile})`,
           backgroundRepeat: "repeat-x",
-          backgroundSize: "auto 210px",
+          backgroundSize: `auto ${paperHeight}px`,
           padding: "0 24px",
         }}
       >
-        <UiIcon icon="heart" color={colors.purple} size={40} />
-        <span
-          className="whitespace-nowrap"
-          style={{
-            fontFamily: fonts.arabic,
-            fontSize: 36,
-            fontWeight: 700,
-            letterSpacing: "-0.3px",
-            lineHeight: 1.4,
-            color: colors.noteInk ?? colors.ink,
-            fontFeatureSettings: '"kern" 1, "liga" 1, "calt" 1',
-            textShadow: "0 1px 0 rgba(0,0,0,0.06)",
-          }}
-        >
-          {before}
-          {highlightWord && (
-            <span className="relative inline-block">
-              {highlightWord}
-              <svg
-                className="absolute"
-                style={{ left: -4, right: -4, bottom: -10, width: "calc(100% + 8px)" }}
-                height={12}
-                viewBox="0 0 100 12"
-                preserveAspectRatio="none"
-              >
-                <path
-                  d="M2,6 C20,2 35,9 50,5 C65,1 80,8 98,4"
-                  stroke={colors.purple}
-                  strokeWidth={4}
-                  fill="none"
-                  strokeLinecap="round"
-                />
-              </svg>
+        {lines.map((line, i) => {
+          const hasHighlight = highlightWord && line.includes(highlightWord);
+          const [before, after] = hasHighlight ? line.split(highlightWord!) : [line, ""];
+
+          return (
+            <span
+              key={i}
+              className="whitespace-nowrap"
+              style={{
+                fontFamily: fonts.arabic,
+                fontSize: 36,
+                fontWeight: 700,
+                letterSpacing: "-0.3px",
+                lineHeight: 1.4,
+                color: colors.noteInk ?? colors.ink,
+                fontFeatureSettings: '"kern" 1, "liga" 1, "calt" 1',
+                textShadow: "0 1px 0 rgba(0,0,0,0.06)",
+              }}
+            >
+              {before}
+              {hasHighlight && (
+                <span className="relative inline-block">
+                  {highlightWord}
+                  <svg
+                    className="absolute"
+                    style={{ left: -4, right: -4, bottom: -10, width: "calc(100% + 8px)" }}
+                    height={12}
+                    viewBox="0 0 100 12"
+                    preserveAspectRatio="none"
+                  >
+                    <path
+                      d="M2,6 C20,2 35,9 50,5 C65,1 80,8 98,4"
+                      stroke={colors.purple}
+                      strokeWidth={4}
+                      fill="none"
+                      strokeLinecap="round"
+                    />
+                  </svg>
+                </span>
+              )}
+              {after}
             </span>
-          )}
-          {after}
-        </span>
+          );
+        })}
       </div>
 
-      {/* القطعة اليمين — ثابتة، فيها الحافة الممزقة */}
-      <img src={rightCap} alt="" style={{ height: 210, display: "block", flexShrink: 0 }} />
+      {/* القطعة اليمين — نفس منطق اليسار */}
+      <img src={rightCap} alt="" style={{ height: paperHeight, display: "block", flexShrink: 0 }} />
 
-      {/* الشريط اللاصق — موضع ثابت فوق منتصف الورقة تقريبًا، ما يتأثر بطول النص */}
+      {/* الشريط اللاصق — موضعه ثابت بأعلى الورقة بغض النظر عن الارتفاع (نفس القيم القديمة) */}
       <img
         src={tape}
         alt=""

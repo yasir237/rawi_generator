@@ -1,0 +1,18 @@
+{
+    "type": "gramer-of-day",
+    "gramerName": "لاحقة الملكية",
+    "gramerType": "-im / -m",
+    "whyUsed": "تستخدم لاٍضافة (لي) في نهاية الكلمة.",
+    "examples": [
+        {
+            "turkish": "kitap + m = kitabım",
+            "arabic" : "كتابي"
+        },
+        {
+            "turkish": "ev + im = evim",
+            "arabic" : "بيتي"
+        }
+    ],
+    "cta": "احفظ القاعدة وطبقها دائماً",
+    "footerHandle": "@rawi.turkish"
+}
