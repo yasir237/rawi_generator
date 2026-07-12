@@ -16,7 +16,7 @@ import TranslateChallengeExample from './templates/TranslateChallengeExample';
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
     <div className="min-h-screen flex items-center justify-center bg-neutral-100">
-      {/* <ThreeWordsExample /> */}
+      <ThreeWordsExample />
       {/* <QuestionAnswerExample />  */}
       {/* <DontSayExample /> */}
       {/* <GramerOfDayExample /> */}
@@ -26,7 +26,7 @@ createRoot(document.getElementById("root")!).render(
       {/* <SentenceOfDayExample /> */}
       {/* <QuizQuestionExample /> */}
       {/* <DoYouKnowExample /> */}
-      <TranslateChallengeExample />
+      {/* <TranslateChallengeExample /> */}
     </div>
   </StrictMode>
 );
