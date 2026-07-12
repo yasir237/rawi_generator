@@ -29,6 +29,9 @@ export const colors = {
   bgDeep: "#2B145E",  
   
   success: "#22C55E",
+  bgSuccess: "#e1ffc2",
+
+  bgWrong: "#ffc2c2",
 } as const;
 
 // لون دائرة الأيقونة + بادج الرقم لكل كلمة، بالتناوب حسب الترتيب

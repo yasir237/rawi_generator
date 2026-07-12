@@ -29,8 +29,14 @@ export default function SentenceOfDay({
       }}
     >
       {/* زخرفة اقتباس أعلى-يمين */}
-      <div style={{ position: "absolute", top: 90, right: 50,          transform: "rotate(180deg)",
- }}>
+      <div
+        style={{
+          position: "absolute",
+          top: 90,
+          right: 50,
+          transform: "rotate(180deg)",
+        }}
+      >
         <UiIcon icon="quote" color={colors.purpleSoft} size={210} />
       </div>
 
@@ -56,12 +62,17 @@ export default function SentenceOfDay({
         }}
       >
         {/* اللوجو أعلى يسار — النمط القياسي */}
-        <div className="absolute flex items-start" style={{ marginTop: -24, marginLeft: -20 }}>
+        <div
+          className="absolute flex items-start"
+          style={{ marginTop: -24, marginLeft: -20 }}
+        >
           <Logo variant="dark" height={130} />
         </div>
 
         {/* البادج */}
-        <div style={{ display: "flex", justifyContent: "center", marginTop: 20 }}>
+        <div
+          style={{ display: "flex", justifyContent: "center", marginTop: 20 }}
+        >
           <Badge color={colors.primary} fontSize={30} padding="14px 40px">
             {badgeText}
           </Badge>
@@ -79,10 +90,24 @@ export default function SentenceOfDay({
             textAlign: "center",
           }}
         >
-          <div style={{ fontFamily: fonts.latin, fontWeight: 800, fontSize: 76, color: colors.ink }}>
+          <div
+            style={{
+              fontFamily: fonts.latin,
+              fontWeight: 800,
+              fontSize: 76,
+              color: colors.ink,
+            }}
+          >
             {turkish}
           </div>
-          <div style={{ fontFamily: fonts.arabic, fontWeight: 800, fontSize: 64, color: colors.ink }}>
+          <div
+            style={{
+              fontFamily: fonts.arabic,
+              fontWeight: 800,
+              fontSize: 64,
+              color: colors.ink,
+            }}
+          >
             {arabic}
           </div>
         </div>
@@ -115,7 +140,14 @@ export default function SentenceOfDay({
               </div>
             )}
             {items.map((item, i) => (
-              <div key={i} style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+              <div
+                key={i}
+                style={{
+                  display: "flex",
+                  justifyContent: "space-between",
+                  alignItems: "center",
+                }}
+              >
                 <div
                   style={{
                     display: "flex",
@@ -130,7 +162,15 @@ export default function SentenceOfDay({
                   <span style={{ color: colors.purple, fontSize: 24 }}>•</span>
                   {item.turkish}
                 </div>
-                <div dir="rtl" style={{ fontFamily: fonts.arabic, fontWeight: 700, fontSize: 28, color: colors.ink }}>
+                <div
+                  dir="rtl"
+                  style={{
+                    fontFamily: fonts.arabic,
+                    fontWeight: 700,
+                    fontSize: 28,
+                    color: colors.ink,
+                  }}
+                >
                   {item.arabic}
                 </div>
               </div>
@@ -139,7 +179,9 @@ export default function SentenceOfDay({
         )}
 
         {/* الفوتر */}
-        <div style={{ marginTop: 20, display: "flex", justifyContent: "center" }}>
+        <div
+          style={{ marginTop: 20, display: "flex", justifyContent: "center" }}
+        >
           <Footer handle={footerHandle} dark fontSize={13} />
         </div>
       </div>

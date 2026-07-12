@@ -1,0 +1,25 @@
+{
+  "type": "quiz-question",
+  "background": "/assets/backgrounds/quizzes/quiz-question.png",
+  "questions": [
+    {
+      "question": "ما معنى كلمة \"teşekkür ederim\"؟",
+      "options": [
+        { "text": "من فضلك" },
+        { "text": "عفواً" },
+        { "text": "شكراً لك" },
+        { "text": "نعم" }
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "ما معنى كلمة \"günaydın\"؟",
+      "options": [
+        { "text": "مساء الخير" },
+        { "text": "صباح الخير" },
+        { "text": "تصبح على خير" }
+      ],
+      "correctAnswerIndex": 1
+    }
+  ]
+}

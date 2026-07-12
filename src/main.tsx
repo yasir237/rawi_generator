@@ -9,6 +9,7 @@ import GramerOfDayExample from "./templates/GramerOfDayExample";
 import FeaturedWordExample from "./templates/FeaturedWordExample";
 import WordOfDayExample from "./templates/WordOfDayExample";
 import SentenceOfDayExample from "./templates/SentenceOfDayExample";
+import QuizQuestionExample from "./templates/QuizQuestionExample";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
@@ -20,7 +21,8 @@ createRoot(document.getElementById("root")!).render(
       {/* <FeaturedWordExample /> */}
       {/* <FeaturedSentenceExample /> */}
       {/* <WordOfDayExample /> */}
-      <SentenceOfDayExample />
+      {/* <SentenceOfDayExample /> */}
+      <QuizQuestionExample />
     </div>
   </StrictMode>
 );

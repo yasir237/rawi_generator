@@ -151,3 +151,36 @@ export interface SentenceOfDayProps {
 export interface SentenceOfDayData extends SentenceOfDayProps {
   type: "sentence-of-day";
 }
+
+
+// -------------------- Quizzes -------------
+
+export interface QuizOption {
+  text: string;
+}
+
+export interface QuizQuestionItem {
+  question: string;
+  options: QuizOption[];
+  correctAnswerIndex: number; // index الخيار الصحيح بمصفوفة options (0 = A, 1 = B...)
+}
+
+// props القالب لسلايد سؤال وحد
+export interface QuizQuestionProps {
+  questionNumber: number;
+  question: string;
+  options: QuizOption[];
+  correctAnswerIndex: number; // يوصل للقالب بس ما يُعرض بهالسلايد (زي ما تريد التصميم يضل نفسه)
+  background: string;
+}
+
+// بيانات الـ JSON الكاملة (كل الأسئلة بمنشور واحد)
+export interface QuizSetData {
+  type: "quiz-question";
+  badgeText?: string;
+  background: string;
+  questions: QuizQuestionItem[];
+}
+
+
+
