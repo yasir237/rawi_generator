@@ -1,0 +1,9 @@
+{
+    "type": "do-you-know",
+    "background": "/assets/backgrounds/doYouKnow/kiz_kulesi.png",
+    "text1": "ان اللغة التركية معظمها من اللغة العربية والفارسية والانجليزية",
+    "text2": "والادبيات التركية تعتمد اعتماد كبير على اللغة العربية",
+    "word1Highlight": "اللغة العربية",
+    "word2Highlight": "التركية",
+    "footerHandle": "@rawi.turkish"
+}

@@ -183,4 +183,29 @@ export interface QuizSetData {
 }
 
 
+// ----------------- Do You Know -----------------
 
+
+export interface DoYouKnowProps {
+  type: "do-you-know";
+  background: string;
+  text1: string;
+  text2?: string;
+  word1Highlight?: string;
+  word2Highlight?: string;
+  footerHandle: string;
+}
+
+
+
+// ----------  ranslateChallenge ----------
+
+export interface TranslateChallengeProps {
+  turkishSentence: string; // الجملة التركية، تدعم سطرين لو طويلة
+  level?: string;          // "A2", "B1"... النص بس فوق الشارة الموجودة بالخلفية
+  footerHandle?: string;
+}
+
+export interface TranslateChallengeData extends TranslateChallengeProps {
+  type: "translate-challenge";
+}
