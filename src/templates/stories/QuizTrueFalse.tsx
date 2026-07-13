@@ -19,6 +19,10 @@ import { colors, fonts } from "../../design/tokens";
 import { storyLayout } from "../../design/layoutStory";
 import Logo from "../../components/Logo";
 import Footer from "../../components/Footer";
+import { DotGrid } from "../../components/ui/DotGrid";
+import { GlowCorner } from "../../components/ui/GlowCorner";
+import { SparkleBurst } from "../../components/ui/SparkleBurst";
+import { ArrowSquiggle } from "../../components/ui/ArrowSquiggle";
 
 export interface QuizTrueFalseProps {
   turkishSentence: string; // الجملة التركية المطلوب الحكم على صحتها
@@ -31,101 +35,15 @@ export interface QuizTrueFalseProps {
 }
 
 /** شبكة نقاط زخرفية صغيرة — محلية، غير مُصدَّرة (أول استخدام) */
-function DotGrid({
-  x,
-  y,
-  rows = 6,
-  cols = 3,
-  gap = 16,
-}: {
-  x: number;
-  y: number;
-  rows?: number;
-  cols?: number;
-  gap?: number;
-}) {
-  const dots = [];
-  for (let r = 0; r < rows; r++) {
-    for (let c = 0; c < cols; c++) {
-      dots.push(
-        <circle
-          key={`${r}-${c}`}
-          cx={c * gap}
-          cy={r * gap}
-          r={3.5}
-          fill={colors.purple}
-          opacity={0.35}
-        />,
-      );
-    }
-  }
-  return (
-    <svg
-      style={{ position: "absolute", left: x, top: y, zIndex: 0 }}
-      width={cols * gap}
-      height={rows * gap}
-    >
-      {dots}
-    </svg>
-  );
-}
 
 /** توهج دائري خفيف بزاوية الكانفاس */
-function GlowCorner() {
-  return (
-    <div
-      style={{
-        position: "absolute",
-        top: -80,
-        right: -80,
-        width: 260,
-        height: 260,
-        borderRadius: "50%",
-        background:
-          "radial-gradient(circle, rgba(124,92,219,0.16) 0%, rgba(124,92,219,0) 70%)",
-        zIndex: 0,
-      }}
-    />
-  );
-}
+
 
 /** شرطات زخرفية صغيرة (انفجار/بريق) حوالين البادج */
-function SparkleBurst({ flip = false }: { flip?: boolean }) {
-  return (
-    <svg
-      width="60"
-      height="60"
-      viewBox="0 0 60 60"
-      style={{ transform: flip ? "scaleX(-1)" : undefined }}
-    >
-      <path d="M10 20 L18 10 L14 24 Z" fill={colors.purple} opacity={0.6} />
-      <path d="M28 4 L30 16 L34 4 Z" fill={colors.purple} opacity={0.5} />
-      <path d="M42 22 L48 30 L36 26 Z" fill={colors.purple} opacity={0.5} />
-    </svg>
-  );
-}
+
 
 /** سهم صغير منحني — يشير لنص التلميح أسفل الأزرار */
-function ArrowSquiggle() {
-  return (
-    <svg width="46" height="46" viewBox="0 0 46 46" fill="none">
-      <path
-        d="M40 6 C34 18 20 20 10 30"
-        stroke={colors.purple}
-        strokeWidth={3}
-        strokeLinecap="round"
-      />
-      <path
-        d="M18 26 L10 30 L14 38"
-        stroke={colors.purple}
-        strokeWidth={3}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        fill="none"
-      />
-    </svg>
-  );
-}
+
 
 export default function QuizTrueFalse({
   turkishSentence,

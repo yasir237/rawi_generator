@@ -14,6 +14,8 @@ import DoYouKnowExample from "./templates/DoYouKnowExample";
 import TranslateChallengeExample from './templates/TranslateChallengeExample';
 import QuizTrueFalseExample from "./templates/stories/QuizTrueFalseExample";
 import NewWordExample from "./templates/stories/NewWordExample";
+import ReverseTranslateExample from "./templates/stories/ReverseTranslateExample";
+import WordChallengeExample from "./templates/stories/WordChallengeExample";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
@@ -21,7 +23,7 @@ createRoot(document.getElementById("root")!).render(
       {/* <ThreeWordsExample /> */}
       {/* <QuestionAnswerExample />  */}
       {/* <DontSayExample /> */}
-      <GramerOfDayExample />
+      {/* <GramerOfDayExample /> */}
       {/* <FeaturedWordExample /> */}
       {/* <FeaturedSentenceExample /> */}
       {/* <WordOfDayExample /> */}
@@ -34,6 +36,8 @@ createRoot(document.getElementById("root")!).render(
       
       {/* <QuizTrueFalseExample /> */}
       {/* <NewWordExample /> */}
+      {/* <ReverseTranslateExample /> */}
+      <WordChallengeExample />
       
       
     </div>

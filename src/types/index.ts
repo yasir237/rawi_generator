@@ -252,3 +252,46 @@ export interface NewWordData
   extends NewWordProps {
   type: "new-word";
 }
+
+
+// --------------------------  ReverseTranslate  ----------------------------------
+
+// Stories — ReverseTranslate
+export interface ReverseTranslateProps {
+  arabicSentence: string;   // الجملة العربية، مثال: "أنا ذاهب للمدرسة."
+  textBefore?: string;       
+  textHiglit?: string;       
+  textAfter?: string;       
+  footerHandle?: string;
+}
+
+export interface ReverseTranslateData extends ReverseTranslateProps {
+  type: "reverse-translate";
+}
+
+
+// ----------------- WordChallengeWordItem ---------------
+
+export interface WordChallengeWordItem {
+  turkish: string;
+  emoji: string;
+}
+
+export interface WordChallengeProps {
+  title?: string;
+  badgeText?: string;
+  subtitle?: string;
+  words: WordChallengeWordItem[]; // مرن — أي عدد
+  ratingQuestion?: string;
+  ratingSubtitle?: string;
+  lowEmoji?: string;
+  lowLabel?: string;
+  highEmoji?: string;
+  highLabel?: string;
+  tipText?: string;
+  footerHandle?: string;
+}
+
+export interface WordChallengeData extends WordChallengeProps {
+  type: "word-challenge";
+}

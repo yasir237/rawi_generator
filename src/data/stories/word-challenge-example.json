@@ -1,0 +1,14 @@
+{
+  "type": "word-challenge",
+  "title": "كم كلمة تعرف؟",
+  "badgeText": "تحدي الكلمات",
+  "subtitle": "اقرأ الكلمات التالية",
+  "words": [
+    { "turkish": "Ev", "emoji": "🏠" },
+    { "turkish": "Kitap", "emoji": "📖" },
+    { "turkish": "Masa", "emoji": "🪑" },
+    { "turkish": "Koltuk", "emoji": "🛋️" },
+    { "turkish": "Araba", "emoji": "🚗" }
+  ],
+  "footerHandle": "@rawi.turkish"
+}

@@ -8,7 +8,8 @@ export type UiIconKey =
   | "heart"
   | "sun-cloud"
   | "quote"
-  | "coffee";
+  | "coffee"
+  | "brain"; 
 
 function path(icon: UiIconKey) {
   switch (icon) {
@@ -33,6 +34,8 @@ function path(icon: UiIconKey) {
       return "M4 6.5C4 4.6 5.6 3 7.5 3V5C6.7 5 6 5.7 6 6.5H7.5V10H4V6.5Z M11.5 6.5C11.5 4.6 13.1 3 15 3V5C14.2 5 13.5 5.7 13.5 6.5H15V10H11.5V6.5Z";
     case "coffee":
       return "M4 8h10v5a3 3 0 0 1-3 3H7a3 3 0 0 1-3-3V8z M14 9h1.5a2 2 0 0 1 0 4H14";
+    case "brain":
+      return "M6 3C4 3 3 5 3 7 1.5 7.5 1 9 2 10.5 1.5 12 2.5 13.5 4 13.5 4 15 5.5 16 7 15.5 8 17 11 17 12.5 15.8 14.5 16 16.5 14.5 16 12.5 17.5 11.5 17.5 9 16 8 16.5 6 15 4 13 4.5 12 3 9.5 2.5 8 3.5 7.3 3.1 6.6 3 6 3Z";
     
       default:
       return "";

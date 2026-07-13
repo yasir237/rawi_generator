@@ -54,3 +54,10 @@ export const layout = {
   padding: 64,
   radius: 24,
 } as const;
+
+
+export const storyLayout = {
+  canvasWidth: 1080,
+  canvasHeight: 1920,
+  padding: 64, // نفس قيمة layout.padding بالمربعات، للاتساق البصري بمسافة الحواف
+}as const;
