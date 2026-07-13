@@ -1,5 +1,6 @@
 import type { ReactNode } from "react";
 import type { BackgroundVariant } from "../components/Background";
+import { UiIconKey } from "../components/UiIcon";
 
 /** أيقونة كل كلمة — تقدر تضيف مفاتيح جديدة وتربطها بأيقونة بملف WordIcon.tsx */
 export type WordIconKey = "heart" | "handshake" | "sun" | "star" | "book";
@@ -294,4 +295,22 @@ export interface WordChallengeProps {
 
 export interface WordChallengeData extends WordChallengeProps {
   type: "word-challenge";
+}
+
+
+// ------------------- Challenge --------------
+
+export interface ChallengeCardProps {
+  icon?: UiIconKey;        // أيقونة الدائرة العلوية — افتراضي "lightbulb"
+  badgeText?: string;      // نص البادج (BrushBadge) — افتراضي "تحدي اليوم"
+  title: string;           // العنوان الرئيسي — "أخطأت؟" / "أي كلمة تُستخدم أكثر؟"
+  highlightText?: string;  // المحتوى التركي كنص واحد (جملة أو كلمة) — كرت وحيد
+  highlightWord?: string;  // كلمة مميزة داخل highlightText (نفس ميكانيزم split() الموحّد)
+  items?: string[];        // ⭐ بديل عن highlightText — لعرض كذا عنصر جنب بعض (مقارنة كلمتين مثلاً)
+  question: string;        // السؤال الختامي — "أين الخطأ؟"
+  footerHandle?: string;
+}
+
+export interface ChallengeCardData extends ChallengeCardProps {
+  type: "challenge-card";
 }

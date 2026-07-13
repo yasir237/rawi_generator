@@ -1,6 +1,7 @@
 import { colors, fonts, storyLayout } from "../../design/tokens";
 import Footer from "../../components/Footer";
 import UiIcon from "../../components/UiIcon";
+import Logo from "../../components/Logo";
 import { DotGrid } from "../../components/ui/DotGrid";
 import CornerBlob from "../../components/ui/CornerBlob";
 import SparkMark from "../../components/ui/SparkMark";
@@ -33,20 +34,30 @@ export default function WordChallenge({
         overflow: "hidden",
       }}
     >
+      <div
+        className="absolute flex items-center"
+        style={{ marginBottom: 24, marginLeft: 24 }}
+      >
+        <Logo variant="dark" height={180}  />
+      </div>
       {/* زخارف الزوايا — bleed مقصود خارج المحتوى */}
       <div style={{ position: "absolute", top: 40, left: 40 }}>
-        <DotGrid rows={5} cols={3} x={130} y={120} />
+        <DotGrid rows={5} cols={3} x={130} y={180} />
       </div>
       <CornerBlob corner="top-right" size={260} opacity={0.9} />
       <CornerBlob corner="bottom-left" size={260} opacity={0.9} />
+      
       <div style={{ position: "absolute", bottom: 70, right: 60 }}>
         <CurlyArrow size={64} rotation={-20} />
       </div>
-
+      
       {/* المحتوى */}
       <div
         className="flex flex-col items-center"
-        style={{ padding: `70px ${storyLayout.padding}px 0`, position: "relative" }}
+        style={{
+          padding: `70px ${storyLayout.padding}px 0`,
+          position: "relative",
+        }}
       >
         <IconCircleBadge icon="brain" size={100} />
 
@@ -67,7 +78,14 @@ export default function WordChallenge({
           {title}
         </h1>
 
-        <p style={{ fontFamily: fonts.arabic, fontSize: 28, color: colors.purple, marginTop: 20 }}>
+        <p
+          style={{
+            fontFamily: fonts.arabic,
+            fontSize: 28,
+            color: colors.purple,
+            marginTop: 20,
+          }}
+        >
           {subtitle}
         </p>
 
@@ -119,7 +137,14 @@ export default function WordChallenge({
               >
                 {word.emoji}
               </div>
-              <span style={{ fontFamily: fonts.latin, fontWeight: 800, fontSize: 30, color: colors.ink }}>
+              <span
+                style={{
+                  fontFamily: fonts.latin,
+                  fontWeight: 800,
+                  fontSize: 30,
+                  color: colors.ink,
+                }}
+              >
                 {word.turkish}
               </span>
             </div>
@@ -141,10 +166,24 @@ export default function WordChallenge({
           <div style={{ position: "absolute", top: -10, left: -50 }}>
             <CurlyArrow size={44} rotation={100} />
           </div>
-          <h2 style={{ fontFamily: fonts.arabic, fontWeight: 900, fontSize: 42, color: colors.ink }}>
+          <h2
+            style={{
+              fontFamily: fonts.arabic,
+              fontWeight: 900,
+              fontSize: 42,
+              color: colors.ink,
+            }}
+          >
             {ratingQuestion}
           </h2>
-          <p style={{ fontFamily: fonts.arabic, fontSize: 24, color: colors.inkMuted, marginTop: 12 }}>
+          <p
+            style={{
+              fontFamily: fonts.arabic,
+              fontSize: 24,
+              color: colors.inkMuted,
+              marginTop: 12,
+            }}
+          >
             {ratingSubtitle}
           </p>
         </div>
@@ -174,14 +213,51 @@ export default function WordChallenge({
         </div>
 
         {/* تسميات 0 و5 */}
-        <div style={{ display: "flex", justifyContent: "space-between", width: 460, marginTop: 16 }}>
-          <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 6 }}>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "space-between",
+            width: 460,
+            marginTop: 16,
+          }}
+        >
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "column",
+              alignItems: "center",
+              gap: 6,
+            }}
+          >
             <span style={{ fontSize: 32 }}>{lowEmoji}</span>
-            <span style={{ fontFamily: fonts.arabic, fontSize: 22, color: colors.ink }}>{lowLabel}</span>
+            <span
+              style={{
+                fontFamily: fonts.arabic,
+                fontSize: 22,
+                color: colors.ink,
+              }}
+            >
+              {lowLabel}
+            </span>
           </div>
-          <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 6 }}>
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "column",
+              alignItems: "center",
+              gap: 6,
+            }}
+          >
             <span style={{ fontSize: 32 }}>{highEmoji}</span>
-            <span style={{ fontFamily: fonts.arabic, fontSize: 22, color: colors.ink }}>{highLabel}</span>
+            <span
+              style={{
+                fontFamily: fonts.arabic,
+                fontSize: 22,
+                color: colors.ink,
+              }}
+            >
+              {highLabel}
+            </span>
           </div>
         </div>
 
@@ -212,7 +288,16 @@ export default function WordChallenge({
           >
             <UiIcon icon="heart" color={colors.surface} size={22} />
           </div>
-          <p dir="rtl" style={{ fontFamily: fonts.arabic, fontSize: 22, color: colors.ink, lineHeight: 1.5, margin: 0 }}>
+          <p
+            dir="rtl"
+            style={{
+              fontFamily: fonts.arabic,
+              fontSize: 22,
+              color: colors.ink,
+              lineHeight: 1.5,
+              margin: 0,
+            }}
+          >
             {tipText}
           </p>
         </div>

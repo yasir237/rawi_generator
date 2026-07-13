@@ -1,0 +1,9 @@
+{
+  "type": "challenge-card",
+  "icon": "lightbulb",
+  "badgeText": "الجملة الخاطئة",
+  "title": "اوجد الخطأ في الجملة",
+  "highlightText": "Ben çok seviyorum kahve.",
+  "question": "أين الخطأ؟",
+  "footerHandle": "@rawi.turkish"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "challenge-card",
+  "icon": "chat",
+  "badgeText": "أيهما أكثر؟",
+  "title": "أي كلمة تُستخدم أكثر؟",
+  "items": ["Merhaba", "Selam"],
+  "question": "خمّن قبل ما تشوف الإجابة 👀",
+  "footerHandle": "@rawi.turkish"
+}

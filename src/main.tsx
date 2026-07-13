@@ -16,6 +16,7 @@ import QuizTrueFalseExample from "./templates/stories/QuizTrueFalseExample";
 import NewWordExample from "./templates/stories/NewWordExample";
 import ReverseTranslateExample from "./templates/stories/ReverseTranslateExample";
 import WordChallengeExample from "./templates/stories/WordChallengeExample";
+import ChallengeCardExample from "./templates/stories/ChallengeCardExample";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
@@ -37,8 +38,8 @@ createRoot(document.getElementById("root")!).render(
       {/* <QuizTrueFalseExample /> */}
       {/* <NewWordExample /> */}
       {/* <ReverseTranslateExample /> */}
-      <WordChallengeExample />
-      
+      {/* <WordChallengeExample /> */}
+      <ChallengeCardExample />
       
     </div>
   </StrictMode>

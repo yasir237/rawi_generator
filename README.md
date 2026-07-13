@@ -2616,3 +2616,342 @@ layout.storyHeight     // 1920 — ارتفاع الستوري
 - [ ] ⭐ أفكار مستقبلية: قوالب كاروسيل (`MistakesCarousel`, `QuizCarousel`) — **نقاش تخطيطي بحت، بدون كود بعد**، راجع القسم 8 فوق. يحتاج حسم: الخيار المعماري (قالب مستقل لكل نوع / محرك كاروسيل عام يلف حول القوالب الموجودة)، آلية تصدير متعدد الصور (ملفات منفصلة أو zip)، وتصميم شريط رقم السلايد المشترك.
 - [ ] Engine: قراءة JSON واختيار القالب المناسب تلقائيًا حسب `type`
 - [ ] قوالب إضافية: اختبار (Quiz) كسلايد منفرد أو كاروسيل، محادثة (Conversation)
+
+
+# تحديث README — قوالب الستوري (Stories)
+
+> **ملاحظة استخدام هذا الملف:** هذا مو README مستقل — هذا **إضافة** تُدمج
+> يدويًا داخل ملف `README.md` الرئيسي بالمشروع، بنفس أسلوبه وقواعده
+> التوثيقية. مكان الدمج المقترح: داخل **القسم 9 — الستوريز (Stories)**
+> الموجود حاليًا (اللي كان يقول "لسا ما فيه أي قالب ستوري نهائي بالمشروع
+> حاليًا") — استبدل تلك الفقرة بالمحتوى تحت، وأضف قسمي القوالب الجديدة
+> بعد قسم "القوالب" الرئيسي (بعد `TranslateChallenge`)، وحدّث "القاعدة
+> الذهبية" والـ Roadmap بالإضافات المشار لها آخر الملف.
+
+---
+
+## تحديث القسم 9 — الستوريز (Stories)
+
+~~⚠️ لسا ما فيه أي قالب ستوري نهائي بالمشروع حاليًا.~~
+
+✅ **بدأ فعليًا بناء قوالب الستوري.** أول قالبين:
+
+| القالب | الوصف | الحالة |
+|---|---|---|
+| `WordChallenge` | ستوري "تحدي الكلمات" — شبكة كلمات (تركي + إيموجي) بمقياس تقييم ذاتي 0-5 بعدها | ✅ مكتمل ومصمم بالكامل |
+| `ChallengeCard` | ⭐ نسخة **معمَّمة** من نفس هيكل `WordChallenge` البصري — تستوعب أي محتوى تحدٍّ عام (خطأ بجملة، خطأ بكلمة، مقارنة كلمتين...) بنفس الـ JSON البسيط: عنوان + تعليمة + محتوى تركي + سؤال ختامي | ✅ مكتمل |
+
+كلا القالبين يتبعان نفس فلسفة الستوري (مقاس `1080×1920`، `layout.storyWidth`/`layout.storyHeight`) ونفس القواعد الذهبية المتبعة بقوالب البوست — الفرق الوحيد هو المقاس العمودي ومجموعة زخارف جديدة خاصة بهذا الشكل من المحتوى (راجع "مكونات الزخرفة الجديدة" تحت).
+
+---
+
+## مكونات الزخرفة الجديدة (`components/ui/`)
+
+قبل قوالب الستوري، كل الزخارف كانت تُبنى إما داخل `components/` مباشرة
+(`UiIcon`, `RibbonTag`...) أو محليًا جوّا ملف القالب نفسه (زي زخارف
+`WordOfDay` المحلية). مع `WordChallenge`، صار عندنا فولدر فرعي جديد
+**`components/ui/`** مخصص للزخارف المعيارية العامة اللي تخدم أكثر من
+قالب ستوري — كل عنصر زخرفي = ملف مستقل، بنفس فلسفة "وسّع الموجود بدل
+التكرار" المتبعة بباقي المشروع.
+
+| المكوّن | الوصف | يُستخدم بـ |
+|---|---|---|
+| `DotGrid` | شبكة نقاط مرنة (`rows`/`cols`/`dotSize`/`gap`/`color` قابلين للتحكم) | WordChallenge, ChallengeCard |
+| `CornerBlob` | دائرة ربع كاملة bleed بزاوية الكانفاس (`corner`: `top-left`/`top-right`/`bottom-left`/`bottom-right`) — نفس فلسفة `CircleImage`/`teaImage` (bleed مقصود) | WordChallenge, ChallengeCard |
+| `SparkMark` | علامة "شرارة/أشعة" صغيرة (3 خطوط SVG)، تقبل `rotation` للتنويع | WordChallenge, ChallengeCard |
+| `CurlyArrow` | سهم منحني صغير SVG، يقبل `rotation` | WordChallenge, ChallengeCard |
+| `BrushBadge` | بادج "خربشة ماركر" — حواف غير منتظمة عبر `border-radius` مركّب (مو SVG معقد)، يقبل **أي نص ديناميكي** (بعكس `PaintedBadge` الأصلي اللي صورة PNG ثابتة النص) | WordChallenge, ChallengeCard |
+| `IconCircleBadge` | دائرة ملونة فيها أيقونة من `UiIcon` بالمنتصف | WordChallenge, ChallengeCard |
+
+> **⚠️ ملاحظة تسمية — `BrushBadge` مقابل قرار `WordOfDay` السابق:**
+> الاسم `BrushBadge` كان اتجرَّب سابقًا أثناء بناء `WordOfDay` (قالب
+> البوست) **وانحذف نهائيًا** لصالح استخدام `Badge` العادي — لأن النص
+> هناك كان ثابتًا (بادج بوست عادي). هذا **مكوّن مختلف بنفس الاسم**، أُعيد
+> بناؤه من الصفر لقوالب الستوري تحديدًا لأن الشكل المطلوب فعليًا حواف
+> "خربشة" غير منتظمة، مو كبسولة نظيفة — استخدام مبرَّر هذي المرة. لو صار
+> فيه لخبطة مستقبلية بين القرارين، الاسم البديل المقترح هو `PaintedLabel`.
+
+> **⚠️ دقة `BrushBadge` الحالية:** شكل الحواف (`border-radius: 255px
+> 15px 225px 15px / 15px 225px 15px 255px`) تقريب هندسي لإحساس خط
+> الفرشاة، **مو مطابقة SVG دقيقة للمرجع البصري** — إذا المرجع فيه حافة
+> يسار "خشنة" أكثر من هذا التقريب، الحل البديل جرّب SVG path يدوي بدل
+> `border-radius` trick.
+
+### إضافة على `components/UiIcon.tsx`
+
+أيقونة جديدة أُضيفت لمكتبة `UiIcon` الموحّدة (بدل بناء مكوّن أيقونة
+منفصل — نفس قاعدة "وسّع الموجود" المستخدمة سابقًا مع `heart`/`quote`/
+`coffee`):
+
+```ts
+export type UiIconKey =
+  | "star" | "translate" | "chat" | "speaker" | "calendar" | "lightbulb"
+  | "heart" | "sun-cloud" | "quote" | "coffee"
+  | "brain"; // ⭐ جديد — دائرة "تحدي الكلمات" أعلى WordChallenge/ChallengeCard
+```
+
+⚠️ **مسار `brain` تقريبي (blob شبه دائري)** — نفس مستوى بساطة باقي
+أيقونات `UiIcon`، **مو** رسمة دماغ دقيقة بتفاصيل التلافيف. لو المرجع
+البصري يحتاج دقة أعلى (شرارات حوالين الدماغ مثلاً)، يحتاج مسار SVG أدق
+لاحقًا.
+
+---
+
+## القالب: WordChallenge (ستوري)
+
+منشور ستوري "تحدي الكلمات": شبكة كلمات تركية (تركي + إيموجي) مرنة العدد
++ قسم تقييم ذاتي (0-5) يسأل المستخدم كم كلمة كان يعرفها + صندوق نصيحة.
+الفلسفة: تفاعل تعليمي بسيط يشجّع المستخدم يقيّم مستواه بنفسه.
+
+```
+DotGrid (زخرفة زاوية أعلى-يسار) + CornerBlob (زاويتين bleed) + CurlyArrow (زخرفة سفلى-يمين)
+  IconCircleBadge "brain" (دائرة علوية)
+  → BrushBadge (badgeText، مثلاً "تحدي الكلمات")
+  → عنوان (title) + تعليمة فرعية (subtitle)
+  → شبكة كلمات مرنة (flex-wrap، أي عدد) — كل كلمة: دائرة إيموجي + نص تركي
+    (مع SparkMark زخرفية يمين ويسار الشبكة)
+  → فاصل متقطع
+  → سؤال التقييم (ratingQuestion/ratingSubtitle) + CurlyArrow زخرفية
+  → دوائر تقييم 0-5 (خط متقطع)
+  → تسميتي الطرفين (lowEmoji/lowLabel، highEmoji/highLabel)
+  → صندوق نصيحة (tipText)
+  → Footer
+```
+
+```tsx
+<WordChallenge
+  title="كم كلمة تعرف؟"
+  badgeText="تحدي الكلمات"
+  subtitle="اقرأ الكلمات التالية"
+  words={[
+    { turkish: "Ev", emoji: "🏠" },
+    { turkish: "Kitap", emoji: "📖" },
+    { turkish: "Masa", emoji: "🪑" },
+  ]}
+  footerHandle="@rawi.turkish"
+/>
+```
+
+**قرارات مهمة:**
+- **عدد الكلمات مرن بالكامل** (`words: WordChallengeWordItem[]`، بدون
+  حد أقصى) — الشبكة تلتف تلقائيًا (`flex-wrap`) حسب العدد، بنفس منطق
+  "بدون حد أقصى" المتبع بـ `GramerOfDay.examples`.
+- **أيقونات الكلمات إيموجي مباشرة** (`🏠📖🪑`) مو SVG مخصص — قرار سريع
+  ومقصود (أسرع من بناء نظام أيقونات جديد لكل كلمة محتملة).
+- **الزخارف كلها ملفات مستقلة بـ `components/ui/`** — قرار صريح بدل
+  تضمينها محليًا داخل ملف القالب، عشان تُستخدم بقوالب ستوري مستقبلية
+  بدون تكرار (تحقق فعليًا بـ `ChallengeCard` مباشرة).
+- **بدون لوجو راوي أعلى القالب** — المرجع البصري الأصلي ما كان فيه لوجو
+  ظاهر، فتُرك بدونه. لو احتجته مستقبلاً، يُضاف بنفس القاعدة القياسية
+  (`marginTop: -24, marginLeft: -20`).
+
+⚠️ **قياسات تقريبية غير مؤكدة (تحتاج ضبط بصري بعد أول تصدير فعلي):**
+موضع/دقة `SparkMark` حوالين الشبكة (`left: -60`/`right: -60` تخمين)،
+مسار أيقونة `brain`، شكل `BrushBadge` الهندسي، وقيم `fontSize`/`gap`/
+`padding` عمومًا (خصوصًا حجم دوائر التقييم `70px` وعرض حاوية التسميات
+`460px`).
+
+### حالة الدمج الحالية لـ WordChallenge
+
+| الملف | الحالة |
+|---|---|
+| `components/ui/DotGrid.tsx` | ✅ ملف جديد كامل |
+| `components/ui/CornerBlob.tsx` | ✅ ملف جديد كامل |
+| `components/ui/SparkMark.tsx` | ✅ ملف جديد كامل |
+| `components/ui/CurlyArrow.tsx` | ✅ ملف جديد كامل |
+| `components/ui/BrushBadge.tsx` | ✅ ملف جديد كامل |
+| `components/ui/IconCircleBadge.tsx` | ✅ ملف جديد كامل |
+| `components/UiIcon.tsx` | يحتاج إضافة `"brain"` لـ `UiIconKey` + الـ `path` الخاص فيها يدويًا |
+| `types/index.ts` | يحتاج إضافة `WordChallengeWordItem`/`WordChallengeProps`/`WordChallengeData` يدويًا |
+| `design/tokens.ts` | يحتاج `layout.storyWidth`/`layout.storyHeight` (راجع "الفرق التقني الأساسي — المقاس" بقسم الستوريز) |
+| `templates/stories/WordChallenge.tsx` | ✅ ملف جديد كامل |
+| `templates/stories/WordChallengeExample.tsx` | ✅ ملف جديد كامل |
+| `data/stories/word-challenge-example.json` | ✅ ملف جديد كامل |
+
+---
+
+## القالب: ChallengeCard (ستوري) ⭐
+
+نسخة **معمَّمة** من نفس الهيكل البصري لـ `WordChallenge` (نفس الزخارف
+بالضبط: `DotGrid`, `CornerBlob`, `SparkMark`, `CurlyArrow`, `BrushBadge`,
+`IconCircleBadge`) — بس بدل شبكة الكلمات الثابتة البنية، المحتوى عام
+ويقبل أي "تحدي": خطأ بجملة، خطأ بكلمة وحدة، مقارنة بين كلمتين، أو أي
+تحدٍّ مشابه — **بنفس القالب وبنفس JSON بسيط**، بدون تعديل كود لكل نوع
+تحدٍّ جديد.
+
+```
+نفس زخارف WordChallenge (DotGrid/CornerBlob/CurlyArrow)
+  IconCircleBadge (icon قابل للاختيار — افتراضي "lightbulb")
+  → BrushBadge (badgeText)
+  → عنوان (title) + تعليمة اختيارية (instruction)
+  → المحتوى التركي — إما:
+      (أ) كرت وحيد (highlightText، مع highlightWord اختياري للتلوين)، أو
+      (ب) كذا كبسولة جنب بعض للمقارنة (items[])
+    (مع SparkMark زخرفية يمين ويسار)
+  → فاصل متقطع
+  → السؤال الختامي (question) + CurlyArrow زخرفية
+  → صندوق تفاعل ثابت ("اكتب إجابتك في التعليقات 👇")
+  → Footer
+```
+
+```tsx
+<ChallengeCard
+  icon="lightbulb"
+  badgeText="أخطأت؟"
+  title="أخطأت؟"
+  instruction="اعرض جملة فيها خطأ"
+  highlightText="Ben çok seviyorum kahve."
+  question="أين الخطأ؟"
+  footerHandle="@rawi.turkish"
+/>
+```
+
+#### القرارات المهمة أثناء بناء هذا القالب
+
+**1. تعميم البيانات — `highlightText`/`items` بدل حقول مقفولة على استخدام واحد:**
+بدل تسمية الحقول حسب أول استخدام محدد (زي `wrongSentence` أو
+`comparisonWords`)، اتسمّت بأسماء عامة (`highlightText`, `items`, `title`,
+`instruction`, `question`) تستوعب أي نوع تحدٍّ بدون أي تعديل كود مستقبلي
+— **نفس نمط `sectionTitle`/`items` العام المتبع بـ `SentenceOfDay`**
+(راجع "مرونة القائمة" بقسم القالب الثامن بالـ README الأصلي). القالب
+نفسه ما يعرف ولا يهمه *معنى* التحدي (خطأ؟ مقارنة؟ سؤال عام؟)، هو بس
+يعرض عنوان + تعليمة + محتوى + سؤال.
+
+**2. `items` مقابل `highlightText` — حقلان بديلان لشكلين بصريين مختلفين:**
+- لو `items` (مصفوفة نصوص) موجودة وفيها عناصر → يعرض القالب **كبسولات
+  متعددة جنب بعض** (مثال: مقارنة `Merhaba` مقابل `Selam`).
+- لو `items` غير موجودة/فاضية → يعرض **كرت وحيد** بمحتوى `highlightText`
+  (جملة أو كلمة)، مع إمكانية تلوين كلمة داخله عبر `highlightWord` بنفس
+  **ميكانيزم الهايلايت الموحّد** (`text.split(highlightWord)`) المتبع
+  بكل قوالب البوست (`FeaturedSentence`, `QuestionAnswer`, `WordOfDay`,
+  `DoYouKnow`...).
+- ⚠️ **لا تُمرَّر الحقلان مع بعض بنفس المنشور** — لو حصل، `items` يفوز
+  ويتجاهل القالب `highlightText` كليًا. هذا سلوك مقصود (بساطة القرار)
+  مو قيد تقني صارم.
+
+**3. إعادة استخدام كاملة لزخارف `WordChallenge` بدون أي تعديل:**
+كل مكوّنات `components/ui/` (`DotGrid`, `CornerBlob`, `SparkMark`,
+`CurlyArrow`, `BrushBadge`, `IconCircleBadge`) استُخدمت **كما هي تمامًا**
+بدون أي تعديل بارامترات جديدة — إثبات عملي إن فصلها كملفات مستقلة عند
+بناء `WordChallenge` كان قرار صحيح (نفس القاعدة الذهبية رقم 4: "استخدم
+مكونات موجودة قدر الإمكان بدل تكرار الكود").
+
+**4. `icon` قابل للاختيار (`UiIconKey`) بدل تثبيت `"brain"`:**
+بعكس `WordChallenge` (اللي دايمًا `brain` بالدائرة العلوية)، `ChallengeCard`
+يقبل أي أيقونة من `UiIcon` (`lightbulb`, `star`, `chat`...) — لأن التحدي
+العام ما يرتبط بالضرورة بفكرة "دماغ/تفكير" فقط (مثلاً تحدي مقارنة كلمات
+أقرب لأيقونة `chat` أو `star`).
+
+**5. صندوق "اكتب إجابتك بالتعليقات" — نص ثابت حاليًا، غير قابل للتخصيص بعد:**
+أُضيف كعنصر تفاعلي عام (بنفس روح `engagementQuestion` بـ `WordOfDay`) —
+لكنه **حاليًا نص ثابت مكتوب مباشرة بالكود**، مو حقل `prop`. لو احتجت
+تخصيصه أو إخفاءه ببعض المنشورات، يحتاج إضافة `prop` جديد (مثلاً
+`engagementText?: string` و/أو `showEngagementBox?: boolean`) — **لسا ما
+اتنفذ**.
+
+#### أمثلة استخدام — نفس القالب، ثلاث حالات مختلفة
+
+```json
+// أ) خطأ بجملة
+{
+  "type": "challenge-card",
+  "icon": "lightbulb",
+  "badgeText": "أخطأت؟",
+  "title": "أخطأت؟",
+  "instruction": "اعرض جملة فيها خطأ",
+  "highlightText": "Ben çok seviyorum kahve.",
+  "question": "أين الخطأ؟",
+  "footerHandle": "@rawi.turkish"
+}
+```
+
+```json
+// ب) خطأ بكلمة وحدة
+{
+  "type": "challenge-card",
+  "icon": "star",
+  "badgeText": "اختبر نفسك",
+  "title": "أين الخطأ؟",
+  "instruction": "شوف هالكلمة زين",
+  "highlightText": "Geliyorsun",
+  "question": "شو الغلط بها؟",
+  "footerHandle": "@rawi.turkish"
+}
+```
+
+```json
+// ج) مقارنة كلمتين
+{
+  "type": "challenge-card",
+  "icon": "chat",
+  "badgeText": "أيهما أكثر؟",
+  "title": "أي كلمة تُستخدم أكثر؟",
+  "instruction": "بين هالكلمتين",
+  "items": ["Merhaba", "Selam"],
+  "question": "خمّن قبل ما تشوف الإجابة 👀",
+  "footerHandle": "@rawi.turkish"
+}
+```
+
+#### حالة الدمج الحالية لـ ChallengeCard
+
+| الملف | الحالة |
+|---|---|
+| `types/index.ts` | يحتاج إضافة `ChallengeCardProps`/`ChallengeCardData` يدويًا |
+| `templates/stories/ChallengeCard.tsx` | ✅ ملف جديد كامل |
+| `templates/stories/ChallengeCardExample.tsx` | ✅ ملف جديد كامل |
+| `data/stories/challenge-card-example.json` | ⚠️ لسا ما اتكتب كملف مستقل — الأمثلة الثلاثة موجودة بالتوثيق بس، تحتاج تُحفظ فعليًا كملفات JSON منفصلة (مثلاً `challenge-card-wrong-sentence.json`, `challenge-card-compare-words.json`) |
+
+⚠️ **نقاط تحتاج ضبط بصري قبل الاعتماد النهائي (نفس تحذيرات `WordChallenge`):**
+- `fontSize: 44` للكرت الوحيد، `padding` الكبسولات، مواضع `SparkMark`
+  (`left: -70`/`right: -70`) — كلها تخمين أولي.
+- طول `highlightText` الفعلي (جمل أطول من المثال) قد يحتاج تصغير الخط —
+  **ما فيه بعد آلية تحجيم ديناميكي** زي `getSentenceFontSize()` المستخدمة
+  بـ `TranslateChallenge` (قالب البوست). لو الجمل بمنشورات حقيقية متفاوتة
+  الطول كثير، يُفضّل تطبيق نفس فكرة خريطة الدرجات هنا أيضًا.
+- بدون لوجو راوي أعلى القالب (نفس قرار `WordChallenge`).
+
+---
+
+## تحديثات على القاعدة الذهبية (قسم "إضافة قالب جديد")
+
+إضافة لقاعدة رقم 4 (استخدام المكونات الموجودة):
+
+> **مثال إضافي:** قوالب الستوري (`WordChallenge`, `ChallengeCard`)
+> فصلت زخارفها كملفات مستقلة بـ `components/ui/` (`DotGrid`,
+> `CornerBlob`, `SparkMark`, `CurlyArrow`, `BrushBadge`, `IconCircleBadge`)
+> من أول قالب (`WordChallenge`) بدل تضمينها محليًا — القرار أثبت نفسه
+> فورًا لما `ChallengeCard` أعاد استخدامها **كلها بدون أي تعديل واحد**.
+> أي زخرفة جديدة لقالب ستوري مستقبلي تتبع نفس المكان (`components/ui/`)
+> إذا كان يُتوقع لها إعادة استخدام بأكثر من قالب.
+
+إضافة لقاعدة رقم 8 (ميكانيزم الهايلايت الموحّد):
+
+> **تطبيق إضافي بقالب ChallengeCard:** يُستخدم على `highlightText`/
+> `highlightWord` بنفس الأسلوب الموحّد بالضبط — عبر دالة محلية
+> `renderHighlighted` (نفس منطق `renderHighlighted` بـ `DoYouKnow`).
+
+---
+
+## تحديثات على خارطة الطريق (Roadmap)
+
+```diff
+- [ ] Engine: قراءة JSON واختيار القالب المناسب تلقائيًا حسب `type`
++ [x] بدء قوالب الستوري (`templates/stories/`, `data/stories/`)
++ [x] مكونات زخرفة عامة لقوالب الستوري بـ `components/ui/`
++     (DotGrid, CornerBlob, SparkMark, CurlyArrow, BrushBadge, IconCircleBadge)
++ [x] توسيع UiIcon بأيقونة "brain" (⚠️ مسار تقريبي، يحتاج دقة أعلى لاحقًا)
++ [~] القالب الأول للستوري: WordChallenge (تحدي الكلمات + تقييم ذاتي 0-5) — **الكود مكتمل**، الباقي:
++   - [ ] دمج WordChallengeWordItem/WordChallengeProps/WordChallengeData بـ types/index.ts
++   - [ ] إضافة layout.storyWidth/layout.storyHeight بـ design/tokens.ts
++   - [ ] دمج "brain" فعليًا بـ UiIcon.tsx (path + UiIconKey)
++   - [ ] اختبار تصدير PNG وضبط مواضع SparkMark/شكل BrushBadge بصريًا
++ [~] ⭐ القالب الثاني للستوري: ChallengeCard (نسخة معمَّمة من WordChallenge — أي تحدي: خطأ بجملة/كلمة، مقارنة كلمتين) — **الكود مكتمل**، الباقي:
++   - [x] إعادة استخدام كاملة لزخارف WordChallenge بدون أي تعديل
++   - [x] دعم highlightText (كرت وحيد + هايلايت) و items (كبسولات مقارنة) بنفس القالب
++   - [ ] دمج ChallengeCardProps/ChallengeCardData بـ types/index.ts
++   - [ ] حفظ أمثلة JSON الثلاثة كملفات مستقلة بـ data/stories/
++   - [ ] تفعيل تخصيص صندوق "اكتب إجابتك بالتعليقات" عبر prop بدل نص ثابت
++   - [ ] النظر بتطبيق تحجيم خط ديناميكي (خريطة درجات زي TranslateChallenge) لـ highlightText الطويل
++ [ ] Engine: قراءة JSON واختيار القالب المناسب تلقائيًا حسب `type`
+```
