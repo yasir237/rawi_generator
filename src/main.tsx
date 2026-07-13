@@ -12,11 +12,12 @@ import SentenceOfDayExample from "./templates/SentenceOfDayExample";
 import QuizQuestionExample from "./templates/QuizQuestionExample";
 import DoYouKnowExample from "./templates/DoYouKnowExample";
 import TranslateChallengeExample from './templates/TranslateChallengeExample';
+import QuizTrueFalseExample from "./templates/stories/QuizTrueFalseExample";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
     <div className="min-h-screen flex items-center justify-center bg-neutral-100">
-      <ThreeWordsExample />
+      {/* <ThreeWordsExample /> */}
       {/* <QuestionAnswerExample />  */}
       {/* <DontSayExample /> */}
       {/* <GramerOfDayExample /> */}
@@ -27,6 +28,12 @@ createRoot(document.getElementById("root")!).render(
       {/* <QuizQuestionExample /> */}
       {/* <DoYouKnowExample /> */}
       {/* <TranslateChallengeExample /> */}
+
+      
+      
+      
+      <QuizTrueFalseExample />
+      
     </div>
   </StrictMode>
 );

@@ -1,0 +1,6 @@
+{
+  "type": "quiz-true-false",
+  "turkishSentence": "Ben araba seviyorum.",
+  "correctAnswer": "false",
+  "explanation": "الصح: \"Araba sevmiyorum\" — الفعل \"sevmek\" (يحب) يتصرّف مباشرة مع المفعول به بدون حرف جر، فـ\"araba\" ما تحتاج \"-i\" هنا، لكن بعض المتعلمين يخلطون بالترتيب فيطلع الجملة غلط نحويًا كما هي مكتوبة."
+}

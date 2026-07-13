@@ -209,3 +209,31 @@ export interface TranslateChallengeProps {
 export interface TranslateChallengeData extends TranslateChallengeProps {
   type: "translate-challenge";
 }
+
+
+
+
+
+// ----------------------------------------------------------------------------------
+// --------------------------  QuizTrueFalseProps  ----------------------------------
+// ----------------------------------------------------------------------------------
+
+// ⚠️ هذا مقتطف فقط — يحتاج دمج يدوي داخل types/index.ts الموجود عندك،
+// نفس منهج "حالة الدمج" المتبع بكل القوالب المربعة السابقة.
+// لا يُستخدم كملف مستقل بالمشروع.
+
+export interface QuizTrueFalseProps {
+  turkishSentence: string;
+  correctAnswer: "true" | "false";
+  explanation: string;
+  questionText?: string;
+  badgeText?: string;
+  subBadgeText?: string;
+  mode: "question" | "answer";
+}
+
+// النسخة المخزّنة بالـ JSON بدون mode — الـ Example هو اللي يحدد mode وقت العرض
+export interface QuizTrueFalseData
+  extends Omit<QuizTrueFalseProps, "mode"> {
+  type: "quiz-true-false";
+}
