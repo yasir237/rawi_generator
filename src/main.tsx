@@ -21,7 +21,7 @@ createRoot(document.getElementById("root")!).render(
       {/* <ThreeWordsExample /> */}
       {/* <QuestionAnswerExample />  */}
       {/* <DontSayExample /> */}
-      {/* <GramerOfDayExample /> */}
+      <GramerOfDayExample />
       {/* <FeaturedWordExample /> */}
       {/* <FeaturedSentenceExample /> */}
       {/* <WordOfDayExample /> */}
@@ -33,7 +33,7 @@ createRoot(document.getElementById("root")!).render(
       
       
       {/* <QuizTrueFalseExample /> */}
-      <NewWordExample />
+      {/* <NewWordExample /> */}
       
       
     </div>

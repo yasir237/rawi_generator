@@ -241,8 +241,6 @@ export interface QuizTrueFalseData
 
 // --------------------------  New Word  ----------------------------------
 
-
-
 export interface NewWordProps {
   arabicWord: string;
   turkishWord: string;

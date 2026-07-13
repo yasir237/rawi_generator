@@ -32,6 +32,9 @@ export const colors = {
   bgSuccess: "#e1ffc2",
 
   bgWrong: "#ffc2c2",
+
+  blueLight: "#5B9EE8",      // بادج "شرح القاعدة"
+  purpleDark: "#4B3A9E",     // بادج "اختبر نفسك" / "ملخص سريع"
 } as const;
 
 // لون دائرة الأيقونة + بادج الرقم لكل كلمة، بالتناوب حسب الترتيب
