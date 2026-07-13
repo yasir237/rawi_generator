@@ -18,9 +18,7 @@ import DashedPill from "../../components/stories/DashedPill";
 import { colors, fonts } from "../../design/tokens";
 import { storyLayout } from "../../design/layoutStory";
 import Logo from "../../components/Logo";
-import imageBg from "/assets/backgrounds/stories/galata.png"
 import Footer from "../../components/Footer";
-
 
 export interface QuizTrueFalseProps {
   turkishSentence: string; // الجملة التركية المطلوب الحكم على صحتها
@@ -57,7 +55,7 @@ function DotGrid({
           r={3.5}
           fill={colors.purple}
           opacity={0.35}
-        />
+        />,
       );
     }
   }
@@ -140,9 +138,17 @@ export default function QuizTrueFalse({
   const { canvasWidth, canvasHeight } = storyLayout;
 
   const trueVariant =
-    mode === "answer" ? (correctAnswer === "true" ? "filled" : "outline") : "outline";
+    mode === "answer"
+      ? correctAnswer === "true"
+        ? "filled"
+        : "outline"
+      : "outline";
   const falseVariant =
-    mode === "answer" ? (correctAnswer === "false" ? "filled" : "outline") : "outline";
+    mode === "answer"
+      ? correctAnswer === "false"
+        ? "filled"
+        : "outline"
+      : "outline";
 
   return (
     <div
@@ -173,14 +179,13 @@ export default function QuizTrueFalse({
           zIndex: 1,
         }}
       >
-         <div
-                  className="absolute flex items-start"
-                  style={{ marginTop: -24, marginLeft: -20 }}
-                >
-                  {/* اللوجو أعلى يسار */}
-                  <Logo variant="dark" height={170} />
-                </div>
-        
+        <div
+          className="absolute flex items-start"
+          style={{ marginTop: -24, marginLeft: -20 }}
+        >
+          {/* اللوجو أعلى يسار */}
+          <Logo variant="dark" height={170} />
+        </div>
       </div>
 
       <div
@@ -203,16 +208,15 @@ export default function QuizTrueFalse({
             ?
           </span>
           <SparkleBurst />
-            {
-              (mode == "question") ?
-              <Badge color={colors.purple} fontSize={44} padding="18px 56px">
-                {badgeText}
-              </Badge>
-              :
-              <Badge color={colors.purple} fontSize={44} padding="18px 56px">
-                {"الـجـواب"}
-              </Badge>
-            }
+          {mode == "question" ? (
+            <Badge color={colors.purple} fontSize={44} padding="18px 56px">
+              {badgeText}
+            </Badge>
+          ) : (
+            <Badge color={colors.purple} fontSize={44} padding="18px 56px">
+              {"الـجـواب"}
+            </Badge>
+          )}
           <SparkleBurst flip />
         </div>
 
@@ -237,7 +241,13 @@ export default function QuizTrueFalse({
                   <svg
                     viewBox="0 0 100 12"
                     preserveAspectRatio="none"
-                    style={{ position: "absolute", bottom: -8, left: 0, width: "100%", height: 12 }}
+                    style={{
+                      position: "absolute",
+                      bottom: -8,
+                      left: 0,
+                      width: "100%",
+                      height: 12,
+                    }}
                   >
                     <path
                       d="M2,6 C20,2 35,9 50,5 C65,1 80,8 98,4"
@@ -251,7 +261,12 @@ export default function QuizTrueFalse({
                 صحيحة؟
               </p>
 
-              <div style={{ width: "100%", borderTop: `2px dashed ${colors.purpleSoft}` }} />
+              <div
+                style={{
+                  width: "100%",
+                  borderTop: `2px dashed ${colors.purpleSoft}`,
+                }}
+              />
 
               <p
                 style={{
@@ -266,7 +281,12 @@ export default function QuizTrueFalse({
                 {turkishSentence}
               </p>
 
-              <div style={{ width: "100%", borderTop: `2px dashed ${colors.purpleSoft}` }} />
+              <div
+                style={{
+                  width: "100%",
+                  borderTop: `2px dashed ${colors.purpleSoft}`,
+                }}
+              />
             </div>
           </FoldedNoteCard>
         </div>
@@ -292,7 +312,7 @@ export default function QuizTrueFalse({
           </div>
         ) : (
           <div
-          dir="rtl"
+            dir="rtl"
             style={{
               marginTop: 8,
               maxWidth: 720,
@@ -317,12 +337,12 @@ export default function QuizTrueFalse({
         )}
       </div>
 
-       <GlowCorner />
+      <GlowCorner />
       <DotGrid x={94} y={canvasHeight - 194} rows={6} cols={3} />
-      <DotGrid x={canvasWidth - 190} y={canvasHeight -430} rows={3} cols={6} />
+      <DotGrid x={canvasWidth - 190} y={canvasHeight - 430} rows={3} cols={6} />
 
-      <div className="absolute right-25 left-25 bottom-10" >
-      <Footer handle={"@rawi.turkish"} dark fontSize={20} align="center" />
+      <div className="absolute right-25 left-25 bottom-10">
+        <Footer handle={"@rawi.turkish"} dark fontSize={20} align="center" />
       </div>
     </div>
   );

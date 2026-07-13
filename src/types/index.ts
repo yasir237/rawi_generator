@@ -237,3 +237,20 @@ export interface QuizTrueFalseData
   extends Omit<QuizTrueFalseProps, "mode"> {
   type: "quiz-true-false";
 }
+
+
+// --------------------------  New Word  ----------------------------------
+
+
+
+export interface NewWordProps {
+  arabicWord: string;
+  turkishWord: string;
+  turkishSentence: string;
+  background: string;
+}
+
+export interface NewWordData
+  extends NewWordProps {
+  type: "new-word";
+}

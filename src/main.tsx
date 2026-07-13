@@ -13,6 +13,7 @@ import QuizQuestionExample from "./templates/QuizQuestionExample";
 import DoYouKnowExample from "./templates/DoYouKnowExample";
 import TranslateChallengeExample from './templates/TranslateChallengeExample';
 import QuizTrueFalseExample from "./templates/stories/QuizTrueFalseExample";
+import NewWordExample from "./templates/stories/NewWordExample";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
@@ -31,8 +32,9 @@ createRoot(document.getElementById("root")!).render(
 
       
       
+      {/* <QuizTrueFalseExample /> */}
+      <NewWordExample />
       
-      <QuizTrueFalseExample />
       
     </div>
   </StrictMode>
