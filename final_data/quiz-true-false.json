@@ -1,0 +1,680 @@
+[
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Nasılsınız? İyiyim, teşekkür ederim.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: أسلوب مهذب ورسمي للسؤال عن الحال باستخدام صيغة الجمع للغائب أو للاحترام 'Nasılsınız'، والرد 'İyiyim' (أنا بخير) مع شكر السائل."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Merhaba, nasılsın mı?",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: لا يجوز دمج أداة السؤال (mı) مع أداة الاستفهام (nasılsın). الصيغة الصحيحة هي: 'Merhaba, nasılsın?' (مرحباً، كيف حالك؟)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Görüşmek üzere! Kendine iyi bak.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: عبارات شائعة جداً لإنهاء المحادثة؛ الأولى تعني 'إلى اللقاء' والثانية 'انتبه لنفسك'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Görüşürüz sonra.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: الترتيب الطبيعي للجمل التركية يضع الظروف الزمنية قبل الفعل. الصيغة الصحيحة هي: 'Sonra görüşürüz' (نلتقي لاحقاً)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Günaydın, iyi günler dilerim.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: تحية صباحية طيبة ومألوفة تعني 'صباح الخير، أتمنى لك يوماً سعيداً'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Memnun oldum seni tanıdığıma.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: يقع الكثير من العرب في هذا الترتيب المتأثر بالعربية. الترتيب الصحيح هو: 'Tanıştığımıza memnun oldum' (سعدت بلقائنا)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Sizi çok özledim, en yakın zamanda buluşalım.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: جملة بمستوى A2 تستخدم اللاحقة المناسبة للمفعول به 'Sizi' مع فعل الاشتياق 'özlemek'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Ben sana çok özledim.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: فعل الاشتياق (özlemek) يأخذ مفعولاً به في حالة النصب (Accusative) وليس الجر. الصيغة الصحيحة: 'Ben seni çok özledim' (اشتقت إليك كثيراً)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Benim iki erkek kardeşim var.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: تعني 'لدي أخوان'. تستخدم الترتيب الصحيح لوصف الملكية باستخدام اللاحقة (Benim) وكلمة (var)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Benim iki kardeşlerim var.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: في اللغة التركية، إذا سبق الاسم عدد (مثل iki)، يظل الاسم مفرداً ولا يُجمع. الصيغة الصحيحة: 'Benim iki kardeşim var'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Annem çok lezzetli yemekler yapıyor.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: جملة بسيطة وطبيعية تصف مهارة الأم في الطبخ باستخدام الفاعل 'Annem' والفعل المضارع 'yapıyor'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Bu benim babamdır.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة أسلوبياً: بالرغم من صحتها نحوياً، فإن استخدام اللاحقة '-dır' في المحادثة اليومية يجعل الجملة رسمية جداً كأنه تعريف بكتاب. الأصح: 'Bu benim babam' (هذا أبي)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Dün akşam teyzemleri ziyaret ettik.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: استخدام جمع الملكية 'teyzemleri' (خالاتي أو عائلة خالتي) متبوعاً بمفعول به لفعل الزيارة 'ziyaret ettik'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Babam beni doktor olmak istiyor.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: خطأ شائع في ترجمة 'أبي يريدني أن أصبح طبيباً'. الصيغة الصحيحة هي: 'Babam benim doktor olmamı istiyor' (باستخدام مصدر الملكية والاسم المجرور)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Bir bardak sıcak çay alabilir miyim?",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: صيغة طلب مهذبة وشائعة جداً في المقاهي والمطاعم لطلب الشاي الساخن بأسلوب الاستطاعة."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Ben kahvaltı yemek istiyorum.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: وجبة الفطور في التركية لا تُؤكل بفعل 'yemek' بل تُصنع أو تُفعل. الصيغة الصحيحة: 'Kahvaltı yapmak istiyorum' (أريد تناول الفطور)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Akşam yemeğinde ne yiyeceğiz?",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: سؤال في زمن المستقبل البسيط مع الضمير 'Biz' حول قائمة طعام العشاء."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Çok acıktım, ekmek yemek istiyorum.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: في الثقافة التركية، لا يقال 'يأكل خبزاً' للتعبير عن الجوع بل يقال 'تناول الطعام' (yemek yemek). الصيغة الأصح: 'Çok acıktım, yemek yemek istiyorum'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Tuzsuz yemekleri hiç sevmiyorum, biraz tuz ekler misiniz?",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: استخدام الصفة المنفية 'tuzsuz' (عديم الملح) وفعل الرجاء بصيغة السؤال المهذب 'ekler misiniz?'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Garson, bana bir su getir.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة أسلوبياً: مخاطبة النادل بصيغة الأمر المباشر 'getir' تعتبر جافة وغير مهذبة. الصيغة الأنسب والمهذبة هي: 'Bir su alabilir miyim?' (هل يمكنني أخذ ماء؟)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Biz her gün Türkçe öğreniyoruz.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: مطابقة صحيحة للضمير 'Biz' مع اللاحقة الفعلية '-iyoruz' وزمن الحاضر لتعلم اللغة."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Ben okula gidiyor.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: نسيان لاحقة الضمير الشخصي للمتكلم (Ben) للفعل المضارع. الصيغة الصحيحة هي: 'Ben okula gidiyorum' (أنا أذهب إلى المدرسة)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Sınavım çok kolay geçti.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: تعبير شائع يعني 'مرّ امتحاني سهلاً للغاية' باستخدام الفعل الماضي 'geçti'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Sınıfta çok öğrenciler var.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: لا نستخدم صيغة الجمع للأشخاص أو الأشياء بعد كلمة الكثرة 'çok'. الصيغة الصحيحة: 'Sınıfta çok öğrenci var' (يوجد الكثير من الطلاب في الصف)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Yarınki ders için kütüphanede ders çalışacağım.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: استخدام لاحقة النسبة والتعريف 'Yarınki' (الخاص بغدٍ) مع صيغة المستقبل لطلب المذاكرة."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Türkçe öğrenmek için çok kitaplar okuyorum.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: خطأ متكرر في جمع الاسم بعد 'çok'. الصحيح هو: 'Türkçe öğrenmek için çok kitap okuyorum' (أقرأ الكثير من الكتب لتعلم التركية)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Evimiz şehir merkezine çok yakın.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: تركيب ملكية بسيط ووصف رائع لموقع المنزل بالقرب من وسط المدينة باستخدام حالة الجر 'merkezine'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Bizim ev çok büyük.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: تفتقر الجملة للتوافق الملكي مع الضمير 'Bizim'. الصيغة السليمة والفصيحة هي: 'Bizim evimiz çok büyük' (بيتنا كبير جداً)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Kapıyı kapatır mısın? Dışarıdan soğuk hava geliyor.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: استخدام المفعول به المعرف 'Kapıyı' وصيغة الطلب المهذب 'kapatır mısın?'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Anahtar masanın üstünde var.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة تركيبياً: عند تحديد مكان وجود شيء بدقة مضافاً إليه، لا نستخدم 'var' في هذا السياق اليومي. الأصح: 'Anahtar masanın üstünde' (المفتاح فوق الطاولة)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Yeni aldığımız evin salonu çok geniş ve aydınlık.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: جملة مركبة تصف الصالة بالاتساع والوضوح باستخدام صفة الصلة 'aldığımız' والمضاف المضاف إليه."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Banyoda sıcak su yok var.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: لا يجوز الجمع بين النفي 'yok' والإثبات 'var' معاً في جملة واحدة متناقضة. الصيغة الصحيحة: 'Banyoda sıcak su yok' (لا يوجد ماء ساخن في الحمام)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Metro durağına nasıl gidebilirim?",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: سؤال شائع جداً وممتاز للاستدلال على الطريق للوصول إلى محطة المترو بصيغة الاستطاعة."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Ben otobüs biniyorum.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: فعل الركوب (binmek) يتطلب دائماً استخدام حالة الجر (Dative) للمركبة. الصيغة الصحيحة: 'Otobüse biniyorum' (أركب الحافلة)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Taksiye binip havalimanına gittim.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: استخدام الرابط المتتالي الفعلي '-ip' للجمع بين فعلين متعاقبين (ركبت التاكسي ثم ذهبت) وحالة الجر."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Uçak İstanbul'dan geliyor Ankara'ya.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة تركيبياً: يفضل وضع الفعل دائماً في نهاية الجملة في اللغة التركية السليمة. الصيغة الصحيحة هي: 'Uçak İstanbul'dan Ankara'ya geliyor'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "İstanbul kartımda para kalmadığı için otobüse binemedim.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: استخدام ممتاز لصيغة السبب 'kalmadığı için' وصيغة الاستطاعة المنفية في الماضي 'binemedim'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Lütfen ön kapıdan inebilir miyim?",
+    "correctAnswer": "false",
+    "explanation": "خاطئة ثقافياً: النزول من الحافلات في تركيا يكون دائماً من الأبواب الخلفية أو الوسطى، والباب الأمامي للصعود فقط. يقال: 'Arka kapıyı açar mısınız?' (هل تفتح الباب الخلفي؟)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Bu kırmızı elbisenin fiyatı ne kadar?",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: سؤال رائع ومباشر عن سعر الفستان باستخدام مضاف ومضاف إليه معرف 'elbisenin fiyatı'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Ben bir ekmek satın almak istiyorum.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة أسلوبياً: استخدام فعل 'satın almak' (الشراء التجاري/الرسمي) مع الخبز يبدو غير طبيعي وثقيلاً. الأصح والمستخدم يومياً: 'Bir ekmek almak istiyorum'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Hesabı kredi kartıyla ödemek istiyorum.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: طلب دفع الحساب بواسطة بطاقة الائتمان بالاستعانة بلاجقة الواسطة 'kredi kartıyla'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Bana indirim yapar mısın lütfen?",
+    "correctAnswer": "false",
+    "explanation": "خاطئة أسلوبياً: عند مخاطبة البائع يفضل استخدام صيغة الاحترام والجمع 'yapar mısınız' لإظهار الأدب. الصحيح: 'Bana indirim yapar mısınız lütfen?'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Aldığım bu kazak defolu çıktı, iade edebilir miyim?",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: استخدام ممتاز للمصطلح التجاري 'defolu' (معيب/فيه عطل مصنعي) وصيغة الاستفهام والطلب المناسبة لخدمة الزبائن."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Bu elbiseyi denemek istiyorum, banyo nerede?",
+    "correctAnswer": "false",
+    "explanation": "خاطئة لغوياً: كلمة 'banyo' تعني الحمام المخصص للاستحمام، أما غرفة قياس الملابس في المحلات فتسمى 'kabin' أو 'giyinme kabini'. الصيغة الصحيحة: 'kabin nerede?'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Ben bir şirkette accountant olarak çalışıyorum.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة لغوياً: تم إدخال كلمة إنجليزية بينما تعني محاسب بالتركية 'muhasebeci'. الصيغة الصحيحة: 'Ben bir şirkette muhasebeci olarak çalışıyorum'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Ben işe gidiyorum her gün saat sekizde.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: الترتيب التركي الطبيعي يضع الفعل دائماً في نهاية الجملة. الصيغة الصحيحة هي: 'Ben her gün saat sekizde işe gidiyorum'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Bugün çok yoğunum, hiç vaktim yok.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: تعبير رائع وسلس للتعبير عن الانشغال الشديد وضيق الوقت بالاستعانة بكلمة 'yoğun' (مزدحم/مشغول)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Ben çalışıyorum öğretmen.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة تركيبياً: الترتيب خاطئ تماماً حيث يجب تقديم المهنة والصفة على الفعل. الصيغة الصحيحة: 'Ben öğretmen olarak çalışıyorum' (أنا أعمل كمعلم)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Haftalık toplantımız yarın saat on birden önce başlayacak.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: استخدام ظرف الزمان 'saat on birden önce' (قبل الساعة الحادية عشرة) وصيغة المستقبل للفعل."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Ben bu şirkete beş yıldır çalışıyorum.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: التعبير عن الاستمرارية المكانية والزمنية في مكان العمل يتطلب حالة التواجد '-de' وليس الجر '-e'. الصيغة الصحيحة: 'Ben bu şirkette beş yıldır çalışıyorum'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Şu an saat tam üç buçuk.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: تعبير بسيط ودقيق عن الوقت يعني 'الآن الساعة تمام الثالثة والنصف' باستخدام 'buçuk'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Saat beş çeyrek var.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: للتعبير عن الدقائق المتبقية للساعة كاملة، نستخدم حالة الجر للساعة ومصدر الفعل 'kala'. الصيغة الصحيحة: 'Saate çeyrek var' أو 'Saat beşe çeyrek var' (الخامسة إلا ربع)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Her sabah saat yedide uyanırım.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: تصف عادة يومية باستخدام الزمن الواسع 'Geniş Zaman' وصيغة الوقت المجرورة الصحيحة 'yedide' (في السابعة)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Dün saat beşte geleceğim.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: تناقض الأزمنة، حيث تم استخدام كلمة 'Dün' (البارحة) مع الفعل بصيغة المستقبل 'geleceğim'. الصحيح: 'Dün saat beşte geldim' (أتيت البارحة في الخامسة)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Film saat sekize çeyrek kala başlayacak, acele edelim.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: استخدام الصيغة الدقيقة والسليمة للتعبير عن الوقت المتبقي لحدث في المستقبل 'sekize çeyrek kala' (إلا ربع)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Saat üç buçuk var.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: لا نستخدم كلمة 'var' مع النصف 'buçuk' عند الإخبار بالوقت الحالي. الصيغة الصحيحة المباشرة هي: 'Saat üç buçuk' (الساعة الثالثة والنصف)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Bugün hava çok rüzgarlı ve soğuk.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: وصف بسيط وحقيقي لحالة الطقس بالبرودة والرياح في مستوى A1 باستخدام صفات الطقس."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Bugün hava çok yağmur.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: لا نستخدم الاسم 'yağmur' (مطر) مباشرة لوصف الطقس بل نستخدم الصفة المشتقة منه 'yağmurlu' (ممطر). الصحيح: 'Bugün hava çok yağmurlu'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Yarın kar yağacak, montunu giymeyi unutma.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: تنبيه لصديق بخصوص تساقط الثلوج غداً باستخدام صيغة المستقبل 'yağacak' ومفعول به معرف للفعل المساعد."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Hava çok soğuk, bu yüzden şemsiye alıyorum.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة منطقياً ولغوياً: نأخذ المظلة (şemsiye) عندما يكون الجو ممطراً (yağmurlu) للوقاية من المطر، وليس لمجرد البرد. الأصح: 'Hava yağmurlu, bu yüzden şemsiye alıyorum'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Hafta sonu hava güneşli olursa pikniğe gideceğiz.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: جملة شرطية بمستوى A2 تستخدم اللاحقة الشرطية 'olursa' (إذا كان) وصيغة المستقبل للذهاب للنزهة."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Yazın havalar çok sıcaklar oluyor.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: كلمة 'havalar' (الأجواء) تجمع أحياناً لكن لا يصح جمع الصفة 'sıcaklar' مع فعل الصيرورة 'oluyor'. الصيغة الصحيحة هي: 'Yazın havalar çok sıcak oluyor' (يكون الطقس حاراً جداً بالصيف)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Yeni yaşın sana sağlık ve huzur getirsin!",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: أمنية ودية جميلة بمناسبة عيد الميلاد تعني 'ليجلب لك عمرك الجديد الصحة والسلام'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Bayramınız kutlu olmasın!",
+    "correctAnswer": "false",
+    "explanation": "خاطئة تماماً: تم استخدام نفي الفعل 'olmasın' (ليته لا يكون) مما يحول التهنئة بالعيد إلى دعاء بالشر! التهنئة الصحيحة: 'Bayramınız kutlu olsun!' (عيدكم مبارك/سعيد)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Dedem her akşam bize eski hikayeler anlatır.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: تصف عادة يومية للجد يروي فيها حكايات قديمة باستخدام الزمن الواسع 'anlatır'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Kız kardeşim evlendi geçen yıl.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة في الترتيب: التركيز وبناء الجملة التركية يقتضي وضع الفعل في النهاية. الصيغة الطبيعية والمنظمة هي: 'Kız kardeşim geçen yıl evlendi' (تزوجت أختي العام الماضي)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Akşam misafirlere Türk kahvesi ikram edeceğiz.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: تعبير ضيافة راقٍ وممتاز يصف تقديم القهوة التركية للضيوف في المساء باستخدام فعل مساعد مركّب 'ikram etmek'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Lokantada çok lezzetli çorba yedim.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة لغوياً: في اللغة التركية، الشوربة (çorba) هي سائل وبالتالي تُشرب بفعل 'içmek' وليس 'yemek' كباقي الأطعمة الصلبة. الصيغة الصحيحة هي: 'çorba içtim'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Öğretmenimiz dersi çok güzel anlatıyor, onu dinlemeyi seviyorum.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: استخدام صحيح للضمير المتصل بالفاعل 'Öğretmenimiz' وحالة النصب للمفعول به 'onu'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Sınıfın kapısı açık var.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: عند التعبير عن حالة الشيء (مفتوح، مغلق...) لا نستخدم أداة الوجود 'var'. الصيغة الصحيحة البسيطة هي: 'Sınıfın kapısı açık' (باب الصف مفتوح)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Evin pencerelerinden deniz manzarası görünüyor.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: وصف جميل يربط بين نوافذ البيت ورؤية منظر البحر باستخدام اللاحقة المناسبة للجمع والجر 'pencerelerinden'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Bizim bahçede çok çiçekler açtı.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: لا يجوز جمع الاسم 'çiçekler' بعد كلمة الكثرة والعموم 'çok' في الفصحى السليمة. الصيغة الصحيحة هي: 'Bizim bahçede çok çiçek açtı'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Trafiğe takılmamak için erkenden yola çıktım.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: استخدام المصدر المنفي مع اللاحقة 'için' للتعبير عن الهدف 'تجنباً للازدحام المروري' وصيغة فعل المغادرة بالماضي 'yola çıktım'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Ben her sabah otobüsle işe gidiyor.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: تفتقر الجملة للتوافق بين فاعل الجملة 'Ben' واللاحقة الشخصية للفعل المضارع. الصيغة الصحيحة هي: 'Ben her sabah otobüsle işe gidiyorum' (أذهب إلى العمل بالباص كل صباح)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Mağazadaki kıyafetler çok kaliteli ama biraz pahalı.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: جملة وصفية جيدة ومفيدة جداً لوصف ملابس المتجر بالجودة والارتفاع النسبي للسعر بالاستعانة برابط الاستدراك 'ama'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Ben bu ayakkabı satın almak istiyorum.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: ينقص الجملة لاحقة النصب (Accusative) للاسم المحدد المعرف 'Bu ayakkabı' الموجه للفعل. الصحيح: 'Bu ayakkabıyı satın almak istiyorum' (أريد شراء هذا الحذاء)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Yarınki toplantı iptal edildiği için çok sevindim.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: استخدام لاحقة النسبة 'Yarınki' وصيغة السبب المجرورة 'edildiği için' وفعل الفرح بالماضي 'sevindim'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Ben şirketten çalışıyorum.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: خطأ شائع جداً في استخدام حالة الجر (Ablative) '-den' بدلاً من حالة التواجد (Locative) '-te'. الصيغة الصحيحة هي: 'Ben şirkette çalışıyorum' (أنا أعمل في الشركة)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Toplantımız tam iki saat sürdü, çok sıkıldım.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: تصف مدة زمنية محددة بفعل الاستغراق 'sürdü' والضجر المصاحب له 'sıkıldım' بالماضي البسيط."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Dün akşam saat yedide sinemaya gideceğim.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: تناقض صريح في الأزمنة؛ حيث تم استخدام الماضي 'Dün akşam' مع زمن المستقبل 'gideceğim'. الصيغة الصحيحة هي: 'Dün akşam saat yedide sinemaya gittim' (ذهبت للسينما البارحة مساءً)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Hava durumu raporuna göre yarın yoğun sis bekleniyor, sürücüler dikkat etmeli.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: جملة مركبة مفيدة جداً تحذر السائقين من الضباب الكثيف المتوقع غداً بأسلوب الوجوب والفرض 'dikkat etmeli'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Bugün hava çok güneş.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: لا نستخدم الاسم 'güneş' (شمس) مباشرة لوصف حالة الطقس بل نستخدم الصفة المشتقة منه 'güneşli' (مشمس). الصيغة الصحيحة هي: 'Bugün hava çok güneşli' (الطقس مشمس جداً اليوم)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Teşekkür ederim, iyiyim. Siz nasılsınız?",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: حوار مهذب وقصير لتبادل التحايا والسؤال عن الحال بلطف واحترام في مستوى A1."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Merhaba, benim adım Ahmet. Sizin ne adınız?",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: السؤال الشائع والطبيعي في التركية عن الاسم للشخص المخاطب بصيغة الاحترام هو بوضع أداة الاستفهام بالآخر: 'Sizin adınız ne?' (ما اسمكم؟)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Kardeşimin bir kedisi var, onunla çok oynuyor.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: تعبر عن ملكية الأخ لقطة باستخدام المضاف والمضاف إليه 'kardeşimin kedisi' وحالة الملكية الثالثة للفعل المساعد."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Benim babam çok seviyorum.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: فعل الحب (sevmek) يتطلب مفعولاً به منصوباً بلاحقة النصب التابعة لملكية المتكلم. الصيغة الصحيحة هي: 'Babamı çok seviyorum' (أحب أبي كثيراً)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Sıcak çorba içmek içimi ısıttı.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: الشوربة في التركية تُشرب 'içmek'، والتعبير 'içimi ısıttı' يعني شعرت بالدفء والراحة والسرور."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Ben yemek çok seviyorum.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: الترتيب التركي الأصح يضع الفاعل والصفة 'çok' قبل المفعول به أو الفعل مباشرة مع لاحقة نصب للمفعول به المعرف. الصيغة الطبيعية: 'Ben yemeği çok seviyorum'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Türkçe öğretmenimiz bize çok yardımcı oluyor.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: تعني 'معلم اللغة التركية يساعدنا كثيراً'، استخدام صحيح لحالة الجر 'bize' مع الفعل المساعد المركّب 'yardımcı olmak'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Sınıfta yirmi tane öğrenciler var.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: عند استخدام أداة التعداد 'tane' بعد أي عدد، يجب أن يظل الاسم المعدود مفرداً ولا يُجمع أبداً باللاحقة '-ler'. الصيغة الصحيحة هي: 'Sınıfta yirmi tane öğrenci var'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Odamın pencereleri sokağa bakıyor.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: تعبير رائع يعني 'نوافذ غرفتي تطل على الشارع' باستخدام فعل 'bakmak' (ينظر/يطل) مضافاً لاسم مجرور."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Evde hiç kimse yok var.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: لا نخلط بين النفي والإثبات معاً في نهاية الجملة. الصحيح للقول لا أحد في البيت: 'Evde hiç kimse yok' (لا يوجد أحد في البيت)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Otobüs durağına gitmek için düz gidin, sonra sağa dönün.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: إعطاء اتجاهات بسيط وصحيح تماماً باستخدام أفعال الأمر بصيغة الاحترام والجمع 'gidin' و'dönün'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Ben taksi istiyorum gitmek için.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: صياغة ركيكة ومتأثرة بالترجمة الحرفية للعربية. التعبير الطبيعي والصحيح هو: 'Gitmek için taksi istiyorum' (أريد تاكسياً للذهاب)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Bu elmaların kilosu ne kadar? İki kilo almak istiyorum.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: صياغة سؤال شراء ممتازة وصحيحة لطلب كيلوغرامين من التفاح في البقالة بأسلوب بسيط طبيعي."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Ben pazardan taze sebzeler aldım satın.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: كلمة 'satın' لا توضع هكذا بمفردها في نهاية الجملة بل تأتي ملتصقة كفعل 'satın aldım' (اشتريت). الصيغة الصحيحة هي: 'Pazardan taze sebzeler satın aldım' (اشتريت خضاراً طازجة من البازار)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Çalışma masamın üstünde birçok dosya var.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: جملة وصفية رائعة لمكتب العمل باستخدام مضاف ومضاف إليه مركّب 'çalışma masamın üstünde' (فوق مكتب عملي)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "İş bitti, şimdi eve gitmek istiyorum ben.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة أسلوبياً: في الجملة التركية السليمة، يفضل عدم وضع الضمير المنفصل 'ben' في نهاية الجملة تالياً للفعل لتجنب الركاكة. الصيغة الأنسب: 'İş bitti, şimdi eve gitmek istiyorum'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Her sabah sekiz buçukta işe başlarım.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: صياغة زمنية تصف بدء العمل يومياً في الثامنة والنصف صباحاً باستخدام لاحقة التواجد والوقت 'buçukta' والزمن الواسع."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Saat bir buçuk var.",
+    "correctAnswer": "false",
+    "explanation": "خاطئة: لا يقال 'Saat bir buçuk var' للإخبار بالوقت الحالي. الصحيح والبديهي قول: 'Saat bir buçuk' (الساعة الواحدة والنصف)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Benim bir kedim ve bir köpeğim var. Hayvanları çok severim.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: ملكية بسيطة لقط وكلب مع التعبير عن حب الحيوانات بالجمع المعرف المنصوب 'Hayvanları'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Evden okula yürümek yirmi dakika sürüyor.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: تصف استغراق الطريق من المنزل إلى المدرسة عشرين دقيقة بفعل 'sürüyor' وحروف الجر الصحيحة."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Yarın sabah saat altı buçukta uyanmam lazım.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: جملة رائعة تعبر عن ضرورة الاستيقاظ في السادسة والنصف صباحاً باستخدام 'lazım' والماصدر الشخصي 'uyanmam'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Seninle konuşmak çok keyifliydi, tekrar buluşalım.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: تعني 'كان الحديث معك ممتعاً جداً، لنلتقي مجدداً' باستخدام لاحقة الواسطة 'Seninle' والماضي للاسم 'keyifliydi'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Dışarıda fırtına var, bu yüzden evde kalmak daha güvenli.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: جملة سببية رائعة بمستوى A2 لوصف الطقس العاصف ونصح البقاء بالمنزل باستخدام 'bu yüzden' (لهذا السبب)."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Eşimin kardeşleri yarın bizi yemeğe davet ettiler.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: استخدام سليم لمضاف ومضاف إليه ملكي 'Eşimin kardeşleri' وحالة الجر 'bizi' لفعل الدعوة بالماضي."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Bu akşam güzel bir restoranda akşam yemeği yiyeceğiz.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: جملة تصف تناول العشاء في مطعم جميل الليلة باستخدام زمن المستقبل البسيط للجمع المتكلم."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Sınıfta sessiz olmalısınız, öğretmen ders anlatıyor.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: جملة جيدة بمستوى A2 تعبر عن ضرورة التزام الهدوء بالصف بلاحقة الوجوب والفرض للجمع المخاطب 'olmalısınız'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Biz her hafta sonu evi temizliyoruz.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: تصف عادة أسبوعية لتنظيف البيت مع استخدام مفعول به معرف منصوب 'evi' وفعل مضارع متوافق مع الفاعل."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Mağazadan aldığım pantolonun bedeni küçük oldu.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: تصف صغر مقاس البنطلون المشترى من المحل باستخدام جملة الصلة والمضاف المضاف إليه 'pantolonun bedeni'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Ofiste her sabah sıcak çay demliyoruz, herkes çok seviyor.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: جملة ممتازة لوصف أجواء العمل والضيافة اليومية بتحضير الشاي وتناول زملائنا له."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Dün akşam eve geç geldim çünkü otobüs bozuldu.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: تعبر عن سبب التأخر بالماضي البسيط لارتباطه بتعطل الباص مستخدمة رابط السببية 'çünkü'."
+  },
+  {
+    "type": "quiz-true-false",
+    "turkishSentence": "Sıcak havalarda dondurma yemek çok güzel oluyor.",
+    "correctAnswer": "true",
+    "explanation": "صحيحة: تعني 'في الأجواء الحارة يكون تناول المثلجات رائعاً جداً'، تركيب سلس ومناسب لمستوى A1."
+  }
+]

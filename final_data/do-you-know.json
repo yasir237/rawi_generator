@@ -1,0 +1,443 @@
+[
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/turkish_alphabet.png",
+        "text1": "الأبجدية التركية الحالية مكوّنة من 29 حرفًا فقط",
+        "text2": "ولا توجد فيها الحروف Q وW وX نهائيًا",
+        "word1Highlight": "29 حرفًا",
+        "word2Highlight": "Q وW وX",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/phonetic.png",
+        "text1": "اللغة التركية لغة صوتية بامتياز",
+        "text2": "أي أنها تُكتب تمامًا كما تُنطق دون تعقيد",
+        "word1Highlight": "لغة صوتية",
+        "word2Highlight": "تُكتب كما تُنطق",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/yogurt.png",
+        "text1": "كلمة Yoğurt كلمة تركية الأصل",
+        "text2": "دخلت إلى عشرات اللغات حول العالم بنفس اللفظ تقريبًا",
+        "word1Highlight": "Yoğurt",
+        "word2Highlight": "عشرات اللغات",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/ottoman_arabic_words.png",
+        "text1": "مئات الكلمات التركية دخلت إلى اللهجات العربية",
+        "text2": "خصوصًا الشامية والعراقية خلال العهد العثماني",
+        "word1Highlight": "مئات الكلمات التركية",
+        "word2Highlight": "العهد العثماني",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/ataturk_alphabet_reform.png",
+        "text1": "اعتمدت تركيا الأبجدية اللاتينية عام 1928",
+        "text2": "بقرار من أتاتورك بدلًا من الحروف العربية العثمانية",
+        "word1Highlight": "1928",
+        "word2Highlight": "أتاتورك",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/turkish_coffee.png",
+        "text1": "أُدرجت القهوة التركية ضمن التراث الثقافي غير المادي",
+        "text2": "لدى اليونسكو سنة 2013",
+        "word1Highlight": "القهوة التركية",
+        "word2Highlight": "اليونسكو",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/tea_coffee.png",
+        "text1": "الأتراك يشربون الشاي أكثر من القهوة",
+        "text2": "رغم الشهرة العالمية للقهوة التركية",
+        "word1Highlight": "الشاي",
+        "word2Highlight": "القهوة التركية",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/tea_glass.png",
+        "text1": "الشاي التركي يُقدَّم في كأس على شكل زهرة التوليب",
+        "text2": "وهو شكل مميز لا تجده في أي بلد آخر",
+        "word1Highlight": "زهرة التوليب",
+        "word2Highlight": "شكل مميز",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/shoes_off.png",
+        "text1": "خلع الحذاء عند دخول المنزل عادة تركية أصيلة",
+        "text2": "حفاظًا على نظافة البيت واحترامًا لأهله",
+        "word1Highlight": "خلع الحذاء",
+        "word2Highlight": "عادة تركية أصيلة",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/hand_kiss.png",
+        "text1": "تقبيل يد الكبير ووضعها على الجبين",
+        "text2": "من أرقى مظاهر الاحترام في الثقافة التركية",
+        "word1Highlight": "تقبيل يد الكبير",
+        "word2Highlight": "احترام",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/simit.png",
+        "text1": "السميت خبز تركي دائري مغطى بالسمسم",
+        "text2": "يُباع في عربات الشوارع منذ قرون",
+        "word1Highlight": "السميت",
+        "word2Highlight": "عربات الشوارع",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/ayran.png",
+        "text1": "العيران مشروب لبني مالح تقليدي",
+        "text2": "يرافق الوجبات التركية وخصوصًا الكباب",
+        "word1Highlight": "العيران",
+        "word2Highlight": "مشروب لبني مالح",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/kebab_origin.png",
+        "text1": "بعض اللغويين يرجعون كلمة كباب لجذر فارسي قديم",
+        "text2": "بمعنى الشيّ، وظهرت الكلمة كطعام لأول مرة في نص تركي عام 1377",
+        "word1Highlight": "جذر فارسي قديم",
+        "word2Highlight": "1377",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/dolma.png",
+        "text1": "كلمة الدولمة تعني في التركية محشو",
+        "text2": "وهي تسمية تصف طريقة تحضير الطبق لا مكوناته",
+        "word1Highlight": "الدولمة",
+        "word2Highlight": "محشو",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/lokum.png",
+        "text1": "الحلقوم التركي (Lokum) حلوى ضيافة تقليدية",
+        "text2": "تُقدَّم للضيوف كرمز للترحيب في البيوت التركية",
+        "word1Highlight": "الحلقوم التركي",
+        "word2Highlight": "رمز للترحيب",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/hagia_sophia.png",
+        "text1": "آيا صوفيا بُنيت كنيسة سنة 537 ميلادية",
+        "text2": "ثم تحوّلت إلى مسجد سنة 1453 فمتحف سنة 1935 ثم مسجد مجددًا سنة 2020",
+        "word1Highlight": "537 ميلادية",
+        "word2Highlight": "2020",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/topkapi.png",
+        "text1": "قصر طوب قابي كان مقر إقامة السلاطين العثمانيين",
+        "text2": "ويضم اليوم مقتنيات تعود لآثار مقدسة نادرة",
+        "word1Highlight": "قصر طوب قابي",
+        "word2Highlight": "آثار مقدسة",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/dolmabahce.png",
+        "text1": "قصر دولمة بهجة يضم أحد أكبر الثريات الكريستالية في العالم",
+        "text2": "وهي هدية من الملكة فيكتوريا للسلطان العثماني",
+        "word1Highlight": "الثريات الكريستالية",
+        "word2Highlight": "الملكة فيكتوريا",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/ephesus.png",
+        "text1": "أفسس مدينة أثرية تضم مكتبة سلسوس الشهيرة",
+        "text2": "بالقرب من موقع معبد أرتميس أحد عجائب الدنيا السبع القديمة",
+        "word1Highlight": "مكتبة سلسوس",
+        "word2Highlight": "عجائب الدنيا السبع",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/cappadocia.png",
+        "text1": "كابادوكيا تخفي مدنًا تحت الأرض مثل دارينكويو",
+        "text2": "كانت تتسع لآلاف السكان قديمًا للاحتماء فيها",
+        "word1Highlight": "دارينكويو",
+        "word2Highlight": "آلاف السكان",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/children_day.png",
+        "text1": "23 نيسان أول عيد عالمي مخصص للأطفال",
+        "text2": "أسسه أتاتورك في تركيا قبل أي دولة أخرى في العالم",
+        "word1Highlight": "23 نيسان",
+        "word2Highlight": "أول عيد عالمي للأطفال",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/republic_day.png",
+        "text1": "29 تشرين الأول يوم الجمهورية التركية",
+        "text2": "يوم إعلان قيام الجمهورية سنة 1923",
+        "word1Highlight": "29 تشرين الأول",
+        "word2Highlight": "1923",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/ramadan_drummer.png",
+        "text1": "في رمضان يجول الطبّال بين الأحياء التركية فجرًا",
+        "text2": "لإيقاظ الناس لتناول السحور بطريقة تراثية عريقة",
+        "word1Highlight": "الطبّال",
+        "word2Highlight": "السحور",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/henna_night.png",
+        "text1": "ليلة الحناء (Kına Gecesi) تُقام قبل الزفاف التركي",
+        "text2": "وفيها تُزيَّن يدا العروس بالحناء بحضور الأهل والصديقات",
+        "word1Highlight": "ليلة الحناء",
+        "word2Highlight": "قبل الزفاف",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/bayram.png",
+        "text1": "الأتراك يسمّون الأعياد الدينية Bayram",
+        "text2": "فهناك رمضان بايرامي وقربان بايرامي",
+        "word1Highlight": "Bayram",
+        "word2Highlight": "قربان بايرامي",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/kolay_gelsin.png",
+        "text1": "عبارة Kolay gelsin تُقال لشخص يعمل",
+        "text2": "ومعناها الحرفي أتمنى أن يكون عملك سهلًا",
+        "word1Highlight": "Kolay gelsin",
+        "word2Highlight": "عملك سهلًا",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/gecmis_olsun.png",
+        "text1": "عبارة Geçmiş olsun تُقال لمن مرّ بمكروه أو مرض",
+        "text2": "ومعناها أتمنى أن يكون هذا قد مضى وانتهى",
+        "word1Highlight": "Geçmiş olsun",
+        "word2Highlight": "مضى وانتهى",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/afiyet_olsun.png",
+        "text1": "عبارة Afiyet olsun تُقال قبل الأكل أو بعده",
+        "text2": "وتعني هنيئًا لك بصحة وعافية",
+        "word1Highlight": "Afiyet olsun",
+        "word2Highlight": "بصحة وعافية",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/hos_geldin.png",
+        "text1": "Hoş geldin تعني أهلًا بك أو مرحبًا بقدومك",
+        "text2": "ويُرَدّ عليها دائمًا بعبارة Hoş bulduk",
+        "word1Highlight": "Hoş geldin",
+        "word2Highlight": "Hoş bulduk",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/allaha_emanet.png",
+        "text1": "Allah'a emanet ol عبارة وداع تركية مؤثرة",
+        "text2": "ومعناها كن في أمان الله عند الفراق",
+        "word1Highlight": "Allah'a emanet ol",
+        "word2Highlight": "أمان الله",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/istanbul_two_continents.png",
+        "text1": "إسطنبول المدينة الوحيدة في العالم",
+        "text2": "الممتدة فعليًا على قارتين هما أوروبا وآسيا",
+        "word1Highlight": "المدينة الوحيدة",
+        "word2Highlight": "قارتين",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/bosphorus.png",
+        "text1": "مضيق البوسفور يفصل بين قارتي أوروبا وآسيا",
+        "text2": "ويصل بين البحر الأسود وبحر مرمرة",
+        "word1Highlight": "مضيق البوسفور",
+        "word2Highlight": "أوروبا وآسيا",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/ankara_capital.png",
+        "text1": "أنقرة هي عاصمة تركيا وليست إسطنبول",
+        "text2": "رغم أن إسطنبول أكبر مدنها وأكثرها شهرة",
+        "word1Highlight": "أنقرة",
+        "word2Highlight": "إسطنبول",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/pamukkale.png",
+        "text1": "باموكالي تعني حرفيًا قلعة القطن",
+        "text2": "بسبب مدرجاتها البيضاء الكلسية الفريدة",
+        "word1Highlight": "قلعة القطن",
+        "word2Highlight": "مدرجات بيضاء كلسية",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/kiz_kulesi.png",
+        "text1": "برج الفتاة (Kız Kulesi) يقع على جزيرة صغيرة",
+        "text2": "وسط مضيق البوسفور قبالة سواحل إسطنبول",
+        "word1Highlight": "برج الفتاة",
+        "word2Highlight": "مضيق البوسفور",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/yos_exam.png",
+        "text1": "YÖS اختبار مخصص للطلاب الأجانب",
+        "text2": "للقبول في كثير من الجامعات التركية",
+        "word1Highlight": "YÖS",
+        "word2Highlight": "الطلاب الأجانب",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/academic_year.png",
+        "text1": "العام الدراسي في الجامعات التركية يبدأ في أيلول",
+        "text2": "ويُقسَّم إلى فصلين دراسيين خريفي وربيعي",
+        "word1Highlight": "أيلول",
+        "word2Highlight": "فصلين دراسيين",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/tyt_ayt.png",
+        "text1": "TYT وAYT اختباران أساسيان للطلاب الأتراك",
+        "text2": "لدخول الجامعات الحكومية والخاصة في تركيا",
+        "word1Highlight": "TYT وAYT",
+        "word2Highlight": "الجامعات الحكومية والخاصة",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/istanbulkart.png",
+        "text1": "Istanbulkart بطاقة واحدة لجميع وسائل النقل",
+        "text2": "في الحافلات والمترو والفيري داخل إسطنبول",
+        "word1Highlight": "Istanbulkart",
+        "word2Highlight": "جميع وسائل النقل",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/weekly_bazaar.png",
+        "text1": "لكل حي في تركيا يوم أسبوعي خاص للبازار",
+        "text2": "حيث يبيع الفلاحون الخضار والفواكه الطازجة مباشرة",
+        "word1Highlight": "بازار أسبوعي",
+        "word2Highlight": "خضار وفواكه طازجة",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/hamam.png",
+        "text1": "الحمام التركي تقليد استحمام جماعي عريق",
+        "text2": "يعتمد على البخار والتدليك في مكان رخامي مخصص",
+        "word1Highlight": "الحمام التركي",
+        "word2Highlight": "بخار وتدليك",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/nazar_boncugu.png",
+        "text1": "الخرزة الزرقاء (Nazar Boncuğu) رمز شهير في تركيا",
+        "text2": "يُعتقد أنها تحمي من الحسد والعين",
+        "word1Highlight": "الخرزة الزرقاء",
+        "word2Highlight": "الحسد والعين",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/delivery_apps.png",
+        "text1": "تطبيقات توصيل الطعام منتشرة بكثافة في تركيا",
+        "text2": "وتُستخدم يوميًا لطلب الوجبات من مختلف المطاعم",
+        "word1Highlight": "تطبيقات التوصيل",
+        "word2Highlight": "يوميًا",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/81_provinces.png",
+        "text1": "تنقسم تركيا إداريًا إلى 81 ولاية",
+        "text2": "تتوزع بين آسيا الصغرى ومنطقة تراقيا الأوروبية",
+        "word1Highlight": "81 ولاية",
+        "word2Highlight": "تراقيا الأوروبية",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/ararat_mountain.png",
+        "text1": "جبل أرارات أعلى قمة في تركيا",
+        "text2": "بارتفاع يتجاوز 5100 متر عن سطح البحر",
+        "word1Highlight": "جبل أرارات",
+        "word2Highlight": "5100 متر",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/istanbul_population.png",
+        "text1": "إسطنبول أكبر مدن تركيا سكانًا",
+        "text2": "بأكثر من 15 مليون نسمة يقطنون فيها",
+        "word1Highlight": "إسطنبول",
+        "word2Highlight": "15 مليون نسمة",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/van_lake.png",
+        "text1": "بحيرة وان أكبر بحيرة في تركيا",
+        "text2": "وتقع في أقصى الشرق التركي قرب الحدود الإيرانية",
+        "word1Highlight": "بحيرة وان",
+        "word2Highlight": "الحدود الإيرانية",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/turkish_airlines.png",
+        "text1": "الخطوط الجوية التركية تطير إلى أكبر عدد من الدول",
+        "text2": "مقارنة بأي شركة طيران أخرى في العالم",
+        "word1Highlight": "الخطوط الجوية التركية",
+        "word2Highlight": "أكبر عدد من الدول",
+        "footerHandle": "@rawi.turkish"
+    },
+    {
+        "type": "do-you-know",
+        "background": "/assets/backgrounds/doYouKnow/tulips.png",
+        "text1": "زهرة التوليب أصلها من الأناضول وآسيا الوسطى",
+        "text2": "قبل أن يصدّرها العثمانيون إلى هولندا لاحقًا",
+        "word1Highlight": "التوليب",
+        "word2Highlight": "هولندا",
+        "footerHandle": "@rawi.turkish"
+    }
+]

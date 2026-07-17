@@ -50,6 +50,8 @@ export default function WordChallenge({
       <div style={{ position: "absolute", bottom: 70, right: 60 }}>
         <CurlyArrow size={64} rotation={-20} />
       </div>
+
+      <div style={{height: "100px"}} />
       
       {/* المحتوى */}
       <div
@@ -59,10 +61,10 @@ export default function WordChallenge({
           position: "relative",
         }}
       >
-        <IconCircleBadge icon="brain" size={100} />
+        <IconCircleBadge icon="brain" size={140} iconSize={80} />
 
         <div style={{ marginTop: 28 }}>
-          <BrushBadge fontSize={40}>{badgeText}</BrushBadge>
+          <BrushBadge fontSize={60}>{badgeText}</BrushBadge>
         </div>
 
         <h1
@@ -81,7 +83,7 @@ export default function WordChallenge({
         <p
           style={{
             fontFamily: fonts.arabic,
-            fontSize: 28,
+            fontSize: 38,
             color: colors.purple,
             marginTop: 20,
           }}
@@ -112,7 +114,7 @@ export default function WordChallenge({
             <div
               key={i}
               style={{
-                width: 240,
+                width: 280,
                 background: colors.surface,
                 borderRadius: 24,
                 padding: "32px 16px",
@@ -125,14 +127,14 @@ export default function WordChallenge({
             >
               <div
                 style={{
-                  width: 80,
-                  height: 80,
+                  width: 120,
+                  height: 120,
                   borderRadius: "50%",
                   background: colors.purpleSoft,
                   display: "flex",
                   alignItems: "center",
                   justifyContent: "center",
-                  fontSize: 36,
+                  fontSize: 56,
                 }}
               >
                 {word.emoji}
@@ -141,7 +143,7 @@ export default function WordChallenge({
                 style={{
                   fontFamily: fonts.latin,
                   fontWeight: 800,
-                  fontSize: 30,
+                  fontSize: 40,
                   color: colors.ink,
                 }}
               >

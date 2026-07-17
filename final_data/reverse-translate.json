@@ -1,0 +1,802 @@
+[
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "صباح الخير يا صديقي.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "كيف حالك اليوم؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أنا بخير، شكراً لك.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "ما اسمك؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "سررت بلقائك كثيراً.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أراك لاحقاً.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أتمنى لك يوماً سعيداً.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أهلاً وسهلاً بك في بيتنا.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "مع السلامة، طاب يومك.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "من فضلك، ساعدني قليلاً.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أمي تطبخ طعاماً لذيذاً.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أبي يعمل في المصنع.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "لدي أخ صغير وأخت كبيرة.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أين تعيش عائلتك؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أحب عائلتي كثيراً.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "هذا طفلي الصغير.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أخي يدرس في الجامعة.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "هل هذا والدك؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "نحن نعيش معاً في هذا المنزل.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "جدي رجل طيب جداً.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أريد أن أشرب كوباً من الماء.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "هل تحب شرب الشاي التركي؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أنا جائع جداً، دعنا نأكل.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أين يمكنني شراء الخبز الطازج؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "الفطور جاهز على الطاولة.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أفضل شرب القهوة في الصباح.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "ماذا ستأكل في وجبة الغداء؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أحب تناول الفاكهة الطازجة.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "هذا الحساء ساخن جداً.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أريد الحساب من فضلك.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أنا أدرس اللغة التركية كل يوم.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أين تقع مدرستك الجديدة؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أنا طالب في الصف الأول.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "هذا الكتاب مفيد جداً.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أين قلمي الأزرق؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أحتاج إلى دفتر جديد لكتابة الملاحظات.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "معلمنا يشرح الدرس بوضوح.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "هل انتهى الدرس الآن؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أذهب إلى المدرسة في الصباح الباكر.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "الامتحان كان سهلاً جداً اليوم.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "بيتنا يتكون من ثلاث غرف.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "افتح النافذة من فضلك ليدخل الهواء.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أين مفتاح الباب الرئيسي؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أنا أنظف غرفتي الآن.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "اجلس على هذا الكرسي المريح.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أريد النوم، أنا ذاهب إلى السرير.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "هذه الطاولة مصنوعة من الخشب.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "التلفاز موجود في غرفة المعيشة.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أحب القراءة في غرفتي الخاصة.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "الجو بارد جداً في الخارج اليوم.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أين تقع محطة الحافلات؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "هل هذا الطريق يذهب إلى الساحة؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أنا أركب المترو للذهاب إلى العمل.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أريد حجز تذكرة طائرة.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "كم يستغرق الطريق بالسيارة؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "امشِ بشكل مستقيم ثم انعطف يميناً.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "محطة القطار قريبة جداً من هنا.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "هل يوجد موقف سيارات قريب؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "سأنتظرك عند مدخل المترو.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "الحافلة متأخرة اليوم.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "كم سعر هذا القميص؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أريد شراء بعض الخضار الطازجة.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "هذا الحذاء غالٍ جداً بالنسبة لي.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "هل يوجد تخفيض على هذه الملابس؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أين أقرب سوبر ماركت هنا؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أريد كيسين من فضلك.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أريد الدفع ببطاقة الائتمان.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "هذه الفاكهة رخيصة اليوم.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "هل يمكنني تجربة هذا المقاس؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أريد شراء هدية لصديقي.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "ما هي مهنتك الحالية؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أنا أبحث عن عمل جديد.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "مديري في العمل شخص لطيف.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "لدي اجتماع هام اليوم.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أعمل ثماني ساعات في اليوم.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أنا متعب بسبب ضغط العمل.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "متى ستبدأ العطلة الصيفية؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "العمل الجماعي يسهل المهام الصعبة.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أحب وظيفتي كثيراً.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أنهيت عملي وسأذهب للمنزل.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "كم الساعة الآن؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "اليوم هو يوم الجمعة.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "سأقابلك غداً في المساء.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "البارحة كان الجو ممطراً.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "هذا الأسبوع يمر بسرعة كبيرة.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "سأذهب في رحلة الشهر المقبل.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "كم يوماً ستبقى هنا؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "الوقت ثمين جداً، لا تضيعه.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "الاستيقاظ مبكراً مفيد للصحة.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "عيدي ميلادي في هذا الشهر.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أنت صديق مخلص جداً.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "دعنا نخرج للنزهة هذا المساء.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "هل تريد المجيء معي إلى السينما؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "اتصلت بك ولكنك لم تجب.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "سأنتظرك في المقهى المعتاد.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أنا سعيد برؤيتك مجدداً.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "صديقي يساعدني دائماً في حل مشاكلي.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "هل أنت متفرغ في نهاية الأسبوع؟",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "سأرسل لك رسالة قصيرة لاحقاً.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "reverse-translate",
+    "arabicSentence": "أتمنى لك رحلة سعيدة وآمنة.",
+    "textBefore": "هل تعرف ترجمة",
+    "textHiglit": "الجملة",
+    "textAfter": "هذه",
+    "footerHandle": "@rawi.turkish"
+  }
+]

@@ -1,0 +1,1101 @@
+[
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Ben ev gidiyorum.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "deyil",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Merhaba",
+      "Selam"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Sen nereye oturuyorsun?",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "tesekkur",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Nasılsın",
+      "Naber"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "O okula geliyor mü?",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "gormek",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Teşekkürler",
+      "Teşekkür ederim"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Ben dün okula gidiyorum.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "gulmek",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Görüşürüz",
+      "Hoşça kal"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Üç kitaplar aldım.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "buyuk",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Evet",
+      "Tamam"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Ben seni seviyorum değil.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "kucuk",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Lütfen",
+      "Rica ederim"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Bu benim kitap.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "simdi",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Büyük",
+      "Koca"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Ben Ankara'da gidiyorum.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "icin",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Küçük",
+      "Ufak"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Yarın ben gittim.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "yil",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "İyi",
+      "Güzel"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Sen geldin mü?",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "bugun",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Şimdi",
+      "Hemen"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "İki çocuklar oynuyor.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "gormus",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Sonra",
+      "Daha sonra"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Ben hasta değilim değil.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "sarki",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Belki",
+      "Galiba"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Ben Türkiye'de geliyorum.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "kis",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Nerede",
+      "Nerde"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Biz eve gidiyoruz mu?",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "cocuk",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Hoşgeldin",
+      "Hoşgeldiniz"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Ben bir su içtim iki.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "calismak",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Afiyet olsun",
+      "Sağlık olsun"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Ben Ali kalemi aldım.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "ogretmen",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Kolay gelsin",
+      "İyi çalışmalar"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Ben yemek yiyorum şimdi değil.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "universite",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Görüşmek üzere",
+      "Görüşürüz"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Ben okulda gidiyorum.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "kagit",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Buyrun",
+      "Buyur"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Biz dün sinemaya gideceğiz.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "yagmur",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Aferin",
+      "Bravo"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Ben iki tane kardeşlerim var.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "dogru",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Maalesef",
+      "Ne yazık ki"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Ben hafta sonu çalışıyorum geçen hafta.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "gozluk",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Herhalde",
+      "Galiba"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Ben bu akşam sinemaya gideceğim gittim.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "kirmizi",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Yani",
+      "Demek ki"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "O dün bana telefon ediyor.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "kitaplarim",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Biraz",
+      "Az"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Ben yarın markete gittim.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "sehir",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Çabuk",
+      "Hızlı"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Biz geçen yaz her gün denizde yüzüyoruz.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "gunes",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Kesinlikle",
+      "Elbette"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Sen kaç yaşındasın sen?",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "agac",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Hangi",
+      "Ne"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Ben onun kitabı okudum.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "calisiyorum",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Kaç",
+      "Ne kadar"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "O bana hediye verdi ben.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "tesekkurler",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Neden",
+      "Niye"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Ben bu sabah kahve içtim değil.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "kardessim",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Nasıl",
+      "Ne şekilde"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Biz üç gün sonra geldik.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "annem'e",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Ev",
+      "Evim"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Sen benimle geliyor musun sen?",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "istanbul",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Bir",
+      "Tek"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Ben bu kitabı okuyorum dün.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "sut",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "star",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Çok",
+      "Fazla"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "O her sabah spor yapıyor mu değil?",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "اختبر نفسك",
+    "title": "أين الخطأ؟",
+    "instruction": "شوف هالكلمة زين",
+    "highlightText": "gul",
+    "question": "شو الغلط بها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "chat",
+    "badgeText": "أيهما أكثر؟",
+    "title": "أي كلمة تُستخدم أكثر؟",
+    "instruction": "بين هالكلمتين",
+    "items": [
+      "Peki",
+      "Tamam"
+    ],
+    "question": "خمّن قبل ما تشوف الإجابة 👀",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "challenge-card",
+    "icon": "lightbulb",
+    "badgeText": "أخطأت؟",
+    "title": "أخطأت؟",
+    "instruction": "اعرض جملة فيها خطأ",
+    "highlightText": "Ben iki saat sonra uyudum.",
+    "question": "أين الخطأ؟",
+    "footerHandle": "@rawi.turkish"
+  }
+]

@@ -1,0 +1,3502 @@
+[
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "تحدي الكلمات",
+    "subtitle": "اقرأ الكلمات التالية المتعلقة بالمنزل",
+    "words": [
+      {
+        "turkish": "Ev",
+        "emoji": "🏠",
+        "arabic": "منزل / بيت"
+      },
+      {
+        "turkish": "Kapı",
+        "emoji": "🚪",
+        "arabic": "باب"
+      },
+      {
+        "turkish": "Pencere",
+        "emoji": "🪟",
+        "arabic": "نافذة"
+      },
+      {
+        "turkish": "Oda",
+        "emoji": "🚪",
+        "arabic": "غرفة"
+      },
+      {
+        "turkish": "Duvar",
+        "emoji": "🧱",
+        "arabic": "جدار"
+      }
+    ],
+    "level": "A1",
+    "category": "المنزل"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "أدوات المدرسة",
+    "subtitle": "اقرأ الكلمات التالية المتعلقة بالدراسة",
+    "words": [
+      {
+        "turkish": "Kitap",
+        "emoji": "📖",
+        "arabic": "كتاب"
+      },
+      {
+        "turkish": "Defter",
+        "emoji": "📓",
+        "arabic": "دفتر"
+      },
+      {
+        "turkish": "Kalem",
+        "emoji": "✏️",
+        "arabic": "قلم"
+      },
+      {
+        "turkish": "Silgi",
+        "emoji": "🧼",
+        "arabic": "ممحاة"
+      },
+      {
+        "turkish": "Çanta",
+        "emoji": "🎒",
+        "arabic": "حقيبة"
+      }
+    ],
+    "level": "A1",
+    "category": "المدرسة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "تحدي الفواكه",
+    "subtitle": "أهم الفواكه باللغة التركية",
+    "words": [
+      {
+        "turkish": "Elma",
+        "emoji": "🍎",
+        "arabic": "تفاح"
+      },
+      {
+        "turkish": "Muz",
+        "emoji": "🍌",
+        "arabic": "موز"
+      },
+      {
+        "turkish": "Portakal",
+        "emoji": "🍊",
+        "arabic": "برتقال"
+      },
+      {
+        "turkish": "Çilek",
+        "emoji": "🍓",
+        "arabic": "فراولة"
+      },
+      {
+        "turkish": "Üzüm",
+        "emoji": "🍇",
+        "arabic": "عنب"
+      }
+    ],
+    "level": "A1",
+    "category": "الفواكه"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "تحدي الخضروات",
+    "subtitle": "أهم الخضار في المطبخ التركي",
+    "words": [
+      {
+        "turkish": "Domates",
+        "emoji": "🍅",
+        "arabic": "طماطم"
+      },
+      {
+        "turkish": "Salatalık",
+        "emoji": "🥒",
+        "arabic": "خيار"
+      },
+      {
+        "turkish": "Soğan",
+        "emoji": "🧅",
+        "arabic": "بصل"
+      },
+      {
+        "turkish": "Patates",
+        "emoji": "🥔",
+        "arabic": "بطاطس"
+      },
+      {
+        "turkish": "Havuç",
+        "emoji": "🥕",
+        "arabic": "جزر"
+      }
+    ],
+    "level": "A1",
+    "category": "الخضروات"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "أثاث الصالون",
+    "subtitle": "اقرأ كلمات غرفة المعيشة والراحة",
+    "words": [
+      {
+        "turkish": "Koltuk",
+        "emoji": "🛋️",
+        "arabic": "كنبة / أريكة"
+      },
+      {
+        "turkish": "Masa",
+        "emoji": "🪑",
+        "arabic": "طاولة / منضدة"
+      },
+      {
+        "turkish": "Sandalye",
+        "emoji": "🪑",
+        "arabic": "كرسي"
+      },
+      {
+        "turkish": "Halı",
+        "emoji": "🪡",
+        "arabic": "سجادة"
+      },
+      {
+        "turkish": "Televizyon",
+        "emoji": "📺",
+        "arabic": "تلفاز"
+      }
+    ],
+    "level": "A1",
+    "category": "المنزل"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "أدوات المطبخ",
+    "subtitle": "اقرأ الكلمات الأساسية للطبخ وتناول الطعام",
+    "words": [
+      {
+        "turkish": "Tabak",
+        "emoji": "🍽️",
+        "arabic": "طبق / صحن"
+      },
+      {
+        "turkish": "Kaşık",
+        "emoji": "🥄",
+        "arabic": "ملعقة"
+      },
+      {
+        "turkish": "Çatal",
+        "emoji": "🍴",
+        "arabic": "شوكة"
+      },
+      {
+        "turkish": "Bıçak",
+        "emoji": "🔪",
+        "arabic": "سكين"
+      },
+      {
+        "turkish": "Bardak",
+        "emoji": "🥛",
+        "arabic": "كوب / كأس"
+      }
+    ],
+    "level": "A1",
+    "category": "المطبخ"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "وسائل النقل",
+    "subtitle": "كلمات المواصلات والتنقل اليومي",
+    "words": [
+      {
+        "turkish": "Araba",
+        "emoji": "🚗",
+        "arabic": "سيارة"
+      },
+      {
+        "turkish": "Otobüs",
+        "emoji": "🚌",
+        "arabic": "حافلة"
+      },
+      {
+        "turkish": "Tren",
+        "emoji": "列車",
+        "arabic": "قطار"
+      },
+      {
+        "turkish": "Uçak",
+        "emoji": "✈️",
+        "arabic": "طائرة"
+      },
+      {
+        "turkish": "Bisiklet",
+        "emoji": "🚲",
+        "arabic": "دراجة هوائية"
+      }
+    ],
+    "level": "A1",
+    "category": "المواصلات"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "تحدي الألوان",
+    "subtitle": "الألوان الأساسية الأكثر استخداماً",
+    "words": [
+      {
+        "turkish": "Kırmızı",
+        "emoji": "🔴",
+        "arabic": "أحمر"
+      },
+      {
+        "turkish": "Mavi",
+        "emoji": "🔵",
+        "arabic": "أزرق"
+      },
+      {
+        "turkish": "Yeşil",
+        "emoji": "🟢",
+        "arabic": "أخضر"
+      },
+      {
+        "turkish": "Sarı",
+        "emoji": "🟡",
+        "arabic": "أصفر"
+      },
+      {
+        "turkish": "Siyah",
+        "emoji": "⚫",
+        "arabic": "أسود"
+      }
+    ],
+    "level": "A1",
+    "category": "الألوان"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الملابس الأساسية",
+    "subtitle": "اقرأ كلمات الملابس اليومية",
+    "words": [
+      {
+        "turkish": "Gömlek",
+        "emoji": "👔",
+        "arabic": "قميص"
+      },
+      {
+        "turkish": "Pantolon",
+        "emoji": "👖",
+        "arabic": "بنطال"
+      },
+      {
+        "turkish": "Ceket",
+        "emoji": "🧥",
+        "arabic": "سترة / جاكيت"
+      },
+      {
+        "turkish": "Elbise",
+        "emoji": "👗",
+        "arabic": "فستان"
+      },
+      {
+        "turkish": "Etek",
+        "emoji": "👗",
+        "arabic": "تنورة"
+      }
+    ],
+    "level": "A1",
+    "category": "الملابس"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "العائلة والأقارب",
+    "subtitle": "أفراد العائلة المقربين بالتركي",
+    "words": [
+      {
+        "turkish": "Anne",
+        "emoji": "👩",
+        "arabic": "أم"
+      },
+      {
+        "turkish": "Baba",
+        "emoji": "👨",
+        "arabic": "أب"
+      },
+      {
+        "turkish": "Oğul",
+        "emoji": "👦",
+        "arabic": "ابن"
+      },
+      {
+        "turkish": "Kız",
+        "emoji": "👧",
+        "arabic": "ابنة / فتاة"
+      },
+      {
+        "turkish": "Kardeş",
+        "emoji": "👶",
+        "arabic": "أخ / أخت"
+      }
+    ],
+    "level": "A1",
+    "category": "العائلة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الحيوانات الأليفة",
+    "subtitle": "أسماء الحيوانات الشائعة حولنا",
+    "words": [
+      {
+        "turkish": "Kedi",
+        "emoji": "🐱",
+        "arabic": "قطة"
+      },
+      {
+        "turkish": "Köpek",
+        "emoji": "🐶",
+        "arabic": "كلb"
+      },
+      {
+        "turkish": "Kuş",
+        "emoji": "🐦",
+        "arabic": "طائر"
+      },
+      {
+        "turkish": "Balık",
+        "emoji": "🐟",
+        "arabic": "سمكة"
+      },
+      {
+        "turkish": "Tavşan",
+        "emoji": "🐰",
+        "arabic": "أرنب"
+      }
+    ],
+    "level": "A1",
+    "category": "الحيوانات"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "المهن اليومية",
+    "subtitle": "أهم الوظائف والمهن الشائعة",
+    "words": [
+      {
+        "turkish": "Öğretmen",
+        "emoji": "🧑‍🏫",
+        "arabic": "معلم / مدرس"
+      },
+      {
+        "turkish": "Doktor",
+        "emoji": "🩺",
+        "arabic": "طبيب"
+      },
+      {
+        "turkish": "Mühendis",
+        "emoji": "👷",
+        "arabic": "مهندس"
+      },
+      {
+        "turkish": "Polis",
+        "emoji": "👮",
+        "arabic": "شرطي"
+      },
+      {
+        "turkish": "Şoför",
+        "emoji": "🧑‍✈️",
+        "arabic": "سائق"
+      }
+    ],
+    "level": "A1",
+    "category": "المهن"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الطقس والفصول",
+    "subtitle": "كلمات لوصف الأحوال الجوية",
+    "words": [
+      {
+        "turkish": "Güneş",
+        "emoji": "☀️",
+        "arabic": "شمس"
+      },
+      {
+        "turkish": "Yağmur",
+        "emoji": "🌧️",
+        "arabic": "مطر"
+      },
+      {
+        "turkish": "Kar",
+        "emoji": "❄️",
+        "arabic": "ثلج"
+      },
+      {
+        "turkish": "Rüzgar",
+        "emoji": "💨",
+        "arabic": "ريح / هواء"
+      },
+      {
+        "turkish": "Bulut",
+        "emoji": "☁️",
+        "arabic": "غيمة"
+      }
+    ],
+    "level": "A1",
+    "category": "الطقس"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الطعام اللذيذ",
+    "subtitle": "الأطعمة الأساسية على المائدة",
+    "words": [
+      {
+        "turkish": "Ekmek",
+        "emoji": "🍞",
+        "arabic": "خبز"
+      },
+      {
+        "turkish": "Pilav",
+        "emoji": "🍚",
+        "arabic": "أرز مطبوخ"
+      },
+      {
+        "turkish": "Çorba",
+        "emoji": "🥣",
+        "arabic": "شوربة / حساء"
+      },
+      {
+        "turkish": "Et",
+        "emoji": "🥩",
+        "arabic": "لحم"
+      },
+      {
+        "turkish": "Peynir",
+        "emoji": "🧀",
+        "arabic": "جبنة"
+      }
+    ],
+    "level": "A1",
+    "category": "الطعام"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "المشروبات الشائعة",
+    "subtitle": "المشروبات اليومية الساخنة والباردة",
+    "words": [
+      {
+        "turkish": "Su",
+        "emoji": "💧",
+        "arabic": "ماء"
+      },
+      {
+        "turkish": "Çay",
+        "emoji": "🍵",
+        "arabic": "شاي"
+      },
+      {
+        "turkish": "Kahve",
+        "emoji": "☕",
+        "arabic": "قهوة"
+      },
+      {
+        "turkish": "Süt",
+        "emoji": "🥛",
+        "arabic": "حليب"
+      },
+      {
+        "turkish": "Meyve Suyu",
+        "emoji": "🧃",
+        "arabic": "عصير فواكه"
+      }
+    ],
+    "level": "A1",
+    "category": "المشروبات"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "أعضاء الجسم الأساسية",
+    "subtitle": "أهم الكلمات لوصف أجزاء الجسد",
+    "words": [
+      {
+        "turkish": "Baş",
+        "emoji": "👤",
+        "arabic": "رأس"
+      },
+      {
+        "turkish": "Göz",
+        "emoji": "👁️",
+        "arabic": "عين"
+      },
+      {
+        "turkish": "El",
+        "emoji": "✋",
+        "arabic": "يد"
+      },
+      {
+        "turkish": "Ayak",
+        "emoji": "🦶",
+        "arabic": "قدم"
+      },
+      {
+        "turkish": "Kulak",
+        "emoji": "👂",
+        "arabic": "أذن"
+      }
+    ],
+    "level": "A1",
+    "category": "أعضاء الجسم"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الحديقة العامة",
+    "subtitle": "عناصر الطبيعة المتواجدة بالحدائق",
+    "words": [
+      {
+        "turkish": "Ağaç",
+        "emoji": "🌳",
+        "arabic": "شجرة"
+      },
+      {
+        "turkish": "Çiçek",
+        "emoji": "🌸",
+        "arabic": "وردة / زهرة"
+      },
+      {
+        "turkish": "Yaprak",
+        "emoji": "🍃",
+        "arabic": "ورقة شجر"
+      },
+      {
+        "turkish": "Çim",
+        "emoji": "🌱",
+        "arabic": "عشب"
+      },
+      {
+        "turkish": "Toprak",
+        "emoji": "🟫",
+        "arabic": "تراب / أرض"
+      }
+    ],
+    "level": "A1",
+    "category": "الحديقة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "أماكن في المدينة",
+    "subtitle": "الوجهات والأماكن التي نزورها في المدينة",
+    "words": [
+      {
+        "turkish": "Okul",
+        "emoji": "🏫",
+        "arabic": "مدرسة"
+      },
+      {
+        "turkish": "Hastane",
+        "emoji": "🏥",
+        "arabic": "مستشفى"
+      },
+      {
+        "turkish": "Market",
+        "emoji": "🛒",
+        "arabic": "بقالة / سوبرماركت"
+      },
+      {
+        "turkish": "Eczane",
+        "emoji": "💊",
+        "arabic": "صيدلية"
+      },
+      {
+        "turkish": "Park",
+        "emoji": "🛝",
+        "arabic": "حديقة ألعاب"
+      }
+    ],
+    "level": "A1",
+    "category": "المدينة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الوقت والزمن",
+    "subtitle": "تقسيمات الوقت واليوم باللغة التركية",
+    "words": [
+      {
+        "turkish": "Saat",
+        "emoji": "⏰",
+        "arabic": "ساعة"
+      },
+      {
+        "turkish": "Gün",
+        "emoji": "📅",
+        "arabic": "يوم"
+      },
+      {
+        "turkish": "Hafta",
+        "emoji": "📆",
+        "arabic": "أسبوع"
+      },
+      {
+        "turkish": "Ay",
+        "emoji": "🌙",
+        "arabic": "شهر / قمر"
+      },
+      {
+        "turkish": "Yıl",
+        "emoji": "🗓️",
+        "arabic": "سنة / عام"
+      }
+    ],
+    "level": "A1",
+    "category": "الوقت"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف? ",
+    "badgeText": "الصفات المتضادة",
+    "subtitle": "صفات شائعة جداً لوصف الأشخاص والأشياء",
+    "words": [
+      {
+        "turkish": "Büyük",
+        "emoji": "📦",
+        "arabic": "كبير"
+      },
+      {
+        "turkish": "Küçük",
+        "emoji": "🔍",
+        "arabic": "صغير"
+      },
+      {
+        "turkish": "Yeni",
+        "emoji": "✨",
+        "arabic": "جديد"
+      },
+      {
+        "turkish": "Eski",
+        "emoji": "🏺",
+        "arabic": "قديم"
+      },
+      {
+        "turkish": "Güzel",
+        "emoji": "💖",
+        "arabic": "جميل"
+      }
+    ],
+    "level": "A1",
+    "category": "الصفات"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "المشاعر والأحاسيس",
+    "subtitle": "كيف تعبر عن حالتك النفسية بالتركي؟",
+    "words": [
+      {
+        "turkish": "Mutlu",
+        "emoji": "😊",
+        "arabic": "سعيد"
+      },
+      {
+        "turkish": "Üzgün",
+        "emoji": "😢",
+        "arabic": "حزين"
+      },
+      {
+        "turkish": "Yorgun",
+        "emoji": "🥱",
+        "arabic": "تعبان / مرهق"
+      },
+      {
+        "turkish": "Kızgın",
+        "emoji": "😡",
+        "arabic": "غاضب"
+      },
+      {
+        "turkish": "Korkmuş",
+        "emoji": "😨",
+        "arabic": "خائف"
+      }
+    ],
+    "level": "A1",
+    "category": "المشاعر"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "أدوات الحمام",
+    "subtitle": "مستلزمات النظافة والاستحمام اليومية",
+    "words": [
+      {
+        "turkish": "Havlu",
+        "emoji": "🧼",
+        "arabic": "منشفة"
+      },
+      {
+        "turkish": "Sabun",
+        "emoji": "🧼",
+        "arabic": "صابون"
+      },
+      {
+        "turkish": "Ayna",
+        "emoji": "🪞",
+        "arabic": "مرآة"
+      },
+      {
+        "turkish": "Tarak",
+        "emoji": "🪮",
+        "arabic": "مشط"
+      },
+      {
+        "turkish": "Diş Fırçası",
+        "emoji": "🪥",
+        "arabic": "فرشاة أسنان"
+      }
+    ],
+    "level": "A1",
+    "category": "الحمام"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "مستلزمات غرفة النوم",
+    "subtitle": "الأثاث الأساسي للنوم والراحة",
+    "words": [
+      {
+        "turkish": "Yatak",
+        "emoji": "🛏️",
+        "arabic": "سرير"
+      },
+      {
+        "turkish": "Yastık",
+        "emoji": "🛌",
+        "arabic": "وسادة"
+      },
+      {
+        "turkish": "Battaniye",
+        "emoji": "🛌",
+        "arabic": "بطانية"
+      },
+      {
+        "turkish": "Dolap",
+        "emoji": "🚪",
+        "arabic": "خزانة ملابس"
+      },
+      {
+        "turkish": "Lamba",
+        "emoji": "💡",
+        "arabic": "مصباح"
+      }
+    ],
+    "level": "A1",
+    "category": "غرفة النوم"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "أدوات الطبيب",
+    "subtitle": "كلمات شائعة في المستشفى والعيادة",
+    "words": [
+      {
+        "turkish": "Ateş",
+        "emoji": "🔥",
+        "arabic": "حرارة / حمى"
+      },
+      {
+        "turkish": "Öksürük",
+        "emoji": "🗣️",
+        "arabic": "سعال / كحة"
+      },
+      {
+        "turkish": "İlaç",
+        "emoji": "💊",
+        "arabic": "دواء"
+      },
+      {
+        "turkish": "Reçete",
+        "emoji": "📝",
+        "arabic": "وصفة طبية"
+      },
+      {
+        "turkish": "Aşı",
+        "emoji": "💉",
+        "arabic": "لقاح / إبرة"
+      }
+    ],
+    "level": "A1",
+    "category": "المستشفى"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "التسوق المالي",
+    "subtitle": "المصطلحات الأساسية لشراء البضائع",
+    "words": [
+      {
+        "turkish": "Para",
+        "emoji": "💵",
+        "arabic": "نقود / مال"
+      },
+      {
+        "turkish": "Fiyat",
+        "emoji": "🏷️",
+        "arabic": "سعر / قيمة"
+      },
+      {
+        "turkish": "Ucuz",
+        "emoji": "🪙",
+        "arabic": "رخيص"
+      },
+      {
+        "turkish": "Pahalı",
+        "emoji": "💎",
+        "arabic": "غالٍ"
+      },
+      {
+        "turkish": "İndirim",
+        "emoji": "📉",
+        "arabic": "خصم / تنزيلات"
+      }
+    ],
+    "level": "A1",
+    "category": "التسوق"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "في المكتبة والقراءة",
+    "subtitle": "عناصر القراءة والقرطاسية",
+    "words": [
+      {
+        "turkish": "Roman",
+        "emoji": "📚",
+        "arabic": "رواية"
+      },
+      {
+        "turkish": "Sözlük",
+        "emoji": "📕",
+        "arabic": "قاموس / معجم"
+      },
+      {
+        "turkish": "Sayfa",
+        "emoji": "📄",
+        "arabic": "صفحة"
+      },
+      {
+        "turkish": "Yazar",
+        "emoji": "✍️",
+        "arabic": "كاتب / مؤلف"
+      },
+      {
+        "turkish": "Şiir",
+        "emoji": "📜",
+        "arabic": "شعر / قصيدة"
+      }
+    ],
+    "level": "A1",
+    "category": "المكتبة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الألعاب والرياضة",
+    "subtitle": "الرياضات الشعبية التي نمارسها",
+    "words": [
+      {
+        "turkish": "Futbol",
+        "emoji": "⚽",
+        "arabic": "كرة القدم"
+      },
+      {
+        "turkish": "Koşu",
+        "emoji": "🏃",
+        "arabic": "الجري / الركض"
+      },
+      {
+        "turkish": "Yüzme",
+        "emoji": "🏊",
+        "arabic": "السباحة"
+      },
+      {
+        "turkish": "Tenis",
+        "emoji": "🎾",
+        "arabic": "التنس"
+      },
+      {
+        "turkish": "Top",
+        "emoji": "⚽",
+        "arabic": "كرة"
+      }
+    ],
+    "level": "A1",
+    "category": "الرياضة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الهوايات الفنية",
+    "subtitle": "أنشطة نقضي بها أوقات الفراغ",
+    "words": [
+      {
+        "turkish": "Resim",
+        "emoji": "🎨",
+        "arabic": "رسم / صورة"
+      },
+      {
+        "turkish": "Müzik",
+        "emoji": "🎵",
+        "arabic": "موسيقى"
+      },
+      {
+        "turkish": "Dans",
+        "emoji": "💃",
+        "arabic": "رقص"
+      },
+      {
+        "turkish": "Fotoğraf",
+        "emoji": "📷",
+        "arabic": "صورة فوتوغرافية"
+      },
+      {
+        "turkish": "Tiyatro",
+        "emoji": "🎭",
+        "arabic": "مسرح"
+      }
+    ],
+    "level": "A1",
+    "category": "الهوايات"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "عناصر الطبيعة الجغرافية",
+    "subtitle": "تضاريس كوكب الأرض باللغة التركية",
+    "words": [
+      {
+        "turkish": "Deniz",
+        "emoji": "🌊",
+        "arabic": "بحر"
+      },
+      {
+        "turkish": "Dağ",
+        "emoji": "⛰️",
+        "arabic": "جبل"
+      },
+      {
+        "turkish": "Nehir",
+        "emoji": "🏞️",
+        "arabic": "نهر"
+      },
+      {
+        "turkish": "Göl",
+        "emoji": "🌅",
+        "arabic": "بحيرة"
+      },
+      {
+        "turkish": "Orman",
+        "emoji": "🌲",
+        "arabic": "غابة"
+      }
+    ],
+    "level": "A1",
+    "category": "الطبيعة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "غرفة الفندق والسياحة",
+    "subtitle": "مصطلحات مهمة عند الإقامة بالفنادق",
+    "words": [
+      {
+        "turkish": "Otel",
+        "emoji": "🏨",
+        "arabic": "فندق"
+      },
+      {
+        "turkish": "Anahtar",
+        "emoji": "🔑",
+        "arabic": "مفتاح"
+      },
+      {
+        "turkish": "Resepsiyon",
+        "emoji": "🛎️",
+        "arabic": "الاستقبال"
+      },
+      {
+        "turkish": "Rezervasyon",
+        "emoji": "📅",
+        "arabic": "حجز مسبق"
+      },
+      {
+        "turkish": "Kimlik",
+        "emoji": "🪪",
+        "arabic": "الهوية / بطاقة التعريف"
+      }
+    ],
+    "level": "A1",
+    "category": "الفنادق"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "في المطار والسفر",
+    "subtitle": "أهم الكلمات التي تواجه المسافر",
+    "words": [
+      {
+        "turkish": "Bilet",
+        "emoji": "🎟️",
+        "arabic": "تذكرة"
+      },
+      {
+        "turkish": "Pasaport",
+        "emoji": "📕",
+        "arabic": "جواز سفر"
+      },
+      {
+        "turkish": "Bagaj",
+        "emoji": "🧳",
+        "arabic": "حقائب / أمتعة"
+      },
+      {
+        "turkish": "Gümrük",
+        "emoji": "🛂",
+        "arabic": "الجمارك"
+      },
+      {
+        "turkish": "Uçuş",
+        "emoji": "✈️",
+        "arabic": "رحلة طيران"
+      }
+    ],
+    "level": "A1",
+    "category": "المطار"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "ألعاب الأطفال والترفيه",
+    "subtitle": "كلمات مبهجة للأطفال والتسلية",
+    "words": [
+      {
+        "turkish": "Oyuncak",
+        "emoji": "🧸",
+        "arabic": "لعبة أطفال"
+      },
+      {
+        "turkish": "Bebek",
+        "emoji": "👶",
+        "arabic": "طفل رضيع / دمية"
+      },
+      {
+        "turkish": "Balon",
+        "emoji": "🎈",
+        "arabic": "بالون"
+      },
+      {
+        "turkish": "Uçurtma",
+        "emoji": "🪁",
+        "arabic": "طائرة ورقية"
+      },
+      {
+        "turkish": "Bisiklet",
+        "emoji": "🚲",
+        "arabic": "دراجة"
+      }
+    ],
+    "level": "A1",
+    "category": "ألعاب الأطفال"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "المعجنات والمخبوزات",
+    "subtitle": "الأطعمة الطازجة من الفرن التركي",
+    "words": [
+      {
+        "turkish": "Simit",
+        "emoji": "🥯",
+        "arabic": "سميط تركي"
+      },
+      {
+        "turkish": "Börek",
+        "emoji": "🥮",
+        "arabic": "فطيرة / بوريك"
+      },
+      {
+        "turkish": "Poğaça",
+        "emoji": "🥐",
+        "arabic": "فطيرة صغيرة"
+      },
+      {
+        "turkish": "Pasta",
+        "emoji": "🎂",
+        "arabic": "كعكة / كيكة"
+      },
+      {
+        "turkish": "Kurabiye",
+        "emoji": "🍪",
+        "arabic": "بسكويت / كعك محلى"
+      }
+    ],
+    "level": "A1",
+    "category": "المعجنات"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "كائنات البحر والأنهار",
+    "subtitle": "الحيوانات المائية والأحياء البحرية",
+    "words": [
+      {
+        "turkish": "Balık",
+        "emoji": "🐟",
+        "arabic": "سمك"
+      },
+      {
+        "turkish": "Köpekbalığı",
+        "emoji": "🦈",
+        "arabic": "سمكة القرش"
+      },
+      {
+        "turkish": "Yunus",
+        "emoji": "🐬",
+        "arabic": "دولفين"
+      },
+      {
+        "turkish": "Yengeç",
+        "emoji": "🦀",
+        "arabic": "سرطان البحر / كابوريا"
+      },
+      {
+        "turkish": "Ahtapot",
+        "emoji": "🐙",
+        "arabic": "أخطبوط"
+      }
+    ],
+    "level": "A1",
+    "category": "البحر"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الكمبيوتر والإنترنت",
+    "subtitle": "عناصر التقنية والتصفح الرقمي",
+    "words": [
+      {
+        "turkish": "Bilgisayar",
+        "emoji": "💻",
+        "arabic": "حاسوب"
+      },
+      {
+        "turkish": "Fare",
+        "emoji": "🖱️",
+        "arabic": "فأرة حاسوب / فأر"
+      },
+      {
+        "turkish": "Klavye",
+        "emoji": "⌨️",
+        "arabic": "لوحة المفاتيح"
+      },
+      {
+        "turkish": "Ekran",
+        "emoji": "🖥️",
+        "arabic": "شاشة"
+      },
+      {
+        "turkish": "İnternet",
+        "emoji": "🌐",
+        "arabic": "الإنترنت"
+      }
+    ],
+    "level": "A1",
+    "category": "الكمبيوتر"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الزراعة والنباتات",
+    "subtitle": "مفردات الحقول والأراضي الخضراء",
+    "words": [
+      {
+        "turkish": "Çiftçi",
+        "emoji": "🧑‍🌾",
+        "arabic": "مزارع / فلاح"
+      },
+      {
+        "turkish": "Tarla",
+        "emoji": "🌾",
+        "arabic": "حقل / أرض زراعية"
+      },
+      {
+        "turkish": "Tohum",
+        "emoji": "🌱",
+        "arabic": "بذرة"
+      },
+      {
+        "turkish": "Gübre",
+        "emoji": "💩",
+        "arabic": "سماد زراعي"
+      },
+      {
+        "turkish": "Fidan",
+        "emoji": "🪴",
+        "arabic": "شتلة صغيرة"
+      }
+    ],
+    "level": "A1",
+    "category": "الزراعة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الأشكال الهندسية",
+    "subtitle": "مفردات الأشكال والخطوط المنتظمة",
+    "words": [
+      {
+        "turkish": "Daire",
+        "emoji": "⚪",
+        "arabic": "دائرة"
+      },
+      {
+        "turkish": "Kare",
+        "emoji": "⬛",
+        "arabic": "مربع"
+      },
+      {
+        "turkish": "Üçgen",
+        "emoji": "🔺",
+        "arabic": "مثلث"
+      },
+      {
+        "turkish": "Çizgi",
+        "emoji": "➖",
+        "arabic": "خط"
+      },
+      {
+        "turkish": "Nokta",
+        "emoji": "▪️",
+        "arabic": "نقطة"
+      }
+    ],
+    "level": "A1",
+    "category": "الأشكال"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "المعادن والمواد",
+    "subtitle": "المواد الطبيعية الصلبة الأكثر استخداماً",
+    "words": [
+      {
+        "turkish": "Demir",
+        "emoji": "🔩",
+        "arabic": "حديد"
+      },
+      {
+        "turkish": "Altın",
+        "emoji": "🪙",
+        "arabic": "ذهب"
+      },
+      {
+        "turkish": "Gümüş",
+        "emoji": "🥈",
+        "arabic": "فضة"
+      },
+      {
+        "turkish": "Bakır",
+        "emoji": "🧱",
+        "arabic": "نحاس"
+      },
+      {
+        "turkish": "Taş",
+        "emoji": "🪨",
+        "arabic": "حجر"
+      }
+    ],
+    "level": "A1",
+    "category": "المعادن"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "مستلزمات التخييم",
+    "subtitle": "أدوات هامة للمغامرة في الغابة والجبل",
+    "words": [
+      {
+        "turkish": "Çadır",
+        "emoji": "⛺",
+        "arabic": "خيمة"
+      },
+      {
+        "turkish": "Fener",
+        "emoji": "🔦",
+        "arabic": "مصباح يدوي / كشاف"
+      },
+      {
+        "turkish": "Ateş",
+        "emoji": "🔥",
+        "arabic": "نار"
+      },
+      {
+        "turkish": "Çakı",
+        "emoji": "🔪",
+        "arabic": "سكين جيب صغير"
+      },
+      {
+        "turkish": "Matara",
+        "emoji": "🧉",
+        "arabic": "مطرة ماء / زمزمية"
+      }
+    ],
+    "level": "A1",
+    "category": "التخييم"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الاحتفالات والأعياد",
+    "subtitle": "مفردات المناسبات السعيدة والأفراح",
+    "words": [
+      {
+        "turkish": "Düğün",
+        "emoji": "🤵",
+        "arabic": "حفل زفاف / عرس"
+      },
+      {
+        "turkish": "Hediye",
+        "emoji": "🎁",
+        "arabic": "هدية"
+      },
+      {
+        "turkish": "Doğum Günü",
+        "emoji": "🎂",
+        "arabic": "عيد ميلاد"
+      },
+      {
+        "turkish": "Tebrik",
+        "emoji": "👏",
+        "arabic": "تهنئة / تبريك"
+      },
+      {
+        "turkish": "Misafir",
+        "emoji": "🧑‍🤝‍🧑",
+        "arabic": "ضيف"
+      }
+    ],
+    "level": "A1",
+    "category": "الاحتفالات"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الخياطة والأقمشة",
+    "subtitle": "المواد والأدوات المستخدمة في خياطة الملابس",
+    "words": [
+      {
+        "turkish": "İğne",
+        "emoji": "🪡",
+        "arabic": "إبرة"
+      },
+      {
+        "turkish": "İplik",
+        "emoji": "🧵",
+        "arabic": "خيط"
+      },
+      {
+        "turkish": "Kumaş",
+        "emoji": "🧣",
+        "arabic": "قماش"
+      },
+      {
+        "turkish": "Makas",
+        "emoji": "✂️",
+        "arabic": "مقص"
+      },
+      {
+        "turkish": "Düğme",
+        "emoji": "🔘",
+        "arabic": "زر ملابس"
+      }
+    ],
+    "level": "A1",
+    "category": "أدوات الخياطة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "أدوات التصليح والبناء",
+    "subtitle": "العدة والأدوات المستخدمة للصيانة المنزلية",
+    "words": [
+      {
+        "turkish": "Çekiç",
+        "emoji": "🔨",
+        "arabic": "مطرقة"
+      },
+      {
+        "turkish": "Çivi",
+        "emoji": "🔩",
+        "arabic": "مسمار"
+      },
+      {
+        "turkish": "Tornavida",
+        "emoji": "🪛",
+        "arabic": "مفك براغي"
+      },
+      {
+        "turkish": "Boya",
+        "emoji": "🎨",
+        "arabic": "طلاء / دهان"
+      },
+      {
+        "turkish": "Fırça",
+        "emoji": "🖌️",
+        "arabic": "فرشاة دهان"
+      }
+    ],
+    "level": "A1",
+    "category": "أدوات التصليح"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "في البنك والمال",
+    "subtitle": "المصطلحات المصرفية والمالية الشائعة",
+    "words": [
+      {
+        "turkish": "Banka",
+        "emoji": "🏦",
+        "arabic": "بنك / مصرف"
+      },
+      {
+        "turkish": "Kart",
+        "emoji": "💳",
+        "arabic": "بطاقة مصرفية"
+      },
+      {
+        "turkish": "Hesap",
+        "emoji": "🧾",
+        "arabic": "حساب مصرفي / فاتورة"
+      },
+      {
+        "turkish": "Kredi",
+        "emoji": "💳",
+        "arabic": "قرض / ائتمان"
+      },
+      {
+        "turkish": "İmza",
+        "emoji": "✍️",
+        "arabic": "توقيع"
+      }
+    ],
+    "level": "A1",
+    "category": "البنك"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "في مكتب البريد والشحن",
+    "subtitle": "إرسال واستقبال الرسائل والطرود",
+    "words": [
+      {
+        "turkish": "Mektup",
+        "emoji": "✉️",
+        "arabic": "رسالة"
+      },
+      {
+        "turkish": "Zarf",
+        "emoji": "✉️",
+        "arabic": "ظرف رسالة"
+      },
+      {
+        "turkish": "Pul",
+        "emoji": "🏷️",
+        "arabic": "طابع بريدي"
+      },
+      {
+        "turkish": "Kargo",
+        "emoji": "📦",
+        "arabic": "شحنة / طرد بريدي"
+      },
+      {
+        "turkish": "Adres",
+        "emoji": "📍",
+        "arabic": "عنوان الإقامة"
+      }
+    ],
+    "level": "A1",
+    "category": "البريد"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "مستلزمات النظافة",
+    "subtitle": "مفردات شائعة لتنظيف وترتيب المنزل",
+    "words": [
+      {
+        "turkish": "Süpürge",
+        "emoji": "🧹",
+        "arabic": "مكنسة"
+      },
+      {
+        "turkish": "Kova",
+        "emoji": "🪣",
+        "arabic": "دلو / سطل"
+      },
+      {
+        "turkish": "Bez",
+        "emoji": "🧼",
+        "arabic": "قطعة قماش للتنظيف"
+      },
+      {
+        "turkish": "Çöp",
+        "emoji": "🗑️",
+        "arabic": "قمامة / زبالة"
+      },
+      {
+        "turkish": " Deterjan",
+        "emoji": "🧴",
+        "arabic": "مسحوق غسيل / منظف"
+      }
+    ],
+    "level": "A1",
+    "category": "النظافة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "مستلزمات المطبخ المتقدمة",
+    "subtitle": "أجهزة تكنولوجية وأواني طهي ثقيلة",
+    "words": [
+      {
+        "turkish": "Buzdolabı",
+        "emoji": "🧊",
+        "arabic": "ثلاجة"
+      },
+      {
+        "turkish": "Fırın",
+        "emoji": "🔥",
+        "arabic": "فرن"
+      },
+      {
+        "turkish": "Tencere",
+        "emoji": "🍲",
+        "arabic": "طنجرة / قدر طبخ"
+      },
+      {
+        "turkish": "Tava",
+        "emoji": "🍳",
+        "arabic": "مقلاة"
+      },
+      {
+        "turkish": "Demlik",
+        "emoji": "🫖",
+        "arabic": "إبريق شاي"
+      }
+    ],
+    "level": "A1",
+    "category": "المطبخ المتقدم"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "جسم الإنسان الخارجي",
+    "subtitle": "مفردات إضافية لأجزاء الجسد الظاهرة",
+    "words": [
+      {
+        "turkish": "Saç",
+        "emoji": "💇",
+        "arabic": "شعر"
+      },
+      {
+        "turkish": "Burun",
+        "emoji": "👃",
+        "arabic": "أنف"
+      },
+      {
+        "turkish": "Ağız",
+        "emoji": "👄",
+        "arabic": "فم"
+      },
+      {
+        "turkish": "Diş",
+        "emoji": "🦷",
+        "arabic": "سن / أسنان"
+      },
+      {
+        "turkish": "Yüz",
+        "emoji": "👤",
+        "arabic": "وجه / مئة"
+      }
+    ],
+    "level": "A1",
+    "category": "جسم الإنسان"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "أنواع الأحذية والحقائب",
+    "subtitle": "مفردات الأحذية والجلديات اليومية",
+    "words": [
+      {
+        "turkish": "Ayakkabı",
+        "emoji": "👟",
+        "arabic": "حذاء"
+      },
+      {
+        "turkish": "Terlik",
+        "emoji": "🩴",
+        "arabic": "نعال / شبشب"
+      },
+      {
+        "turkish": "Çizme",
+        "emoji": "👢",
+        "arabic": "حذاء طويل / بوت"
+      },
+      {
+        "turkish": "Cüzdan",
+        "emoji": "👛",
+        "arabic": "محفظة نقود"
+      },
+      {
+        "turkish": "Valiz",
+        "emoji": "🧳",
+        "arabic": "حقيبة سفر"
+      }
+    ],
+    "level": "A1",
+    "category": "الأحذية"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "البهارات والتوابل التركية",
+    "subtitle": "توابل أساسية تعطي نكهة لذيذة للأكل",
+    "words": [
+      {
+        "turkish": "Tuz",
+        "emoji": "🧂",
+        "arabic": "ملح"
+      },
+      {
+        "turkish": "Biber",
+        "emoji": "🌶️",
+        "arabic": "فلفل"
+      },
+      {
+        "turkish": "Nane",
+        "emoji": "🌿",
+        "arabic": "نعناع"
+      },
+      {
+        "turkish": "Kekik",
+        "emoji": "🌿",
+        "arabic": "زعتر بري"
+      },
+      {
+        "turkish": "Şeker",
+        "emoji": "🍬",
+        "arabic": "سكر"
+      }
+    ],
+    "level": "A1",
+    "category": "التوابل"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "المشروبات الشتوية الساخنة",
+    "subtitle": "مشروبات تركية تدفئ في أيام الشتاء الباردة",
+    "words": [
+      {
+        "turkish": "Sıcak Çikolata",
+        "emoji": "☕",
+        "arabic": "شوكولاتة ساخنة"
+      },
+      {
+        "turkish": "Salep",
+        "emoji": "🥛",
+        "arabic": "سحلب تركي دافئ"
+      },
+      {
+        "turkish": "Ihlamur",
+        "emoji": "🍵",
+        "arabic": "تيزانا / زيزفون"
+      },
+      {
+        "turkish": "Adaçayı",
+        "emoji": "🍵",
+        "arabic": "ميرمية"
+      },
+      {
+        "turkish": "Bitki Çayı",
+        "emoji": "🍵",
+        "arabic": "شاي أعشاب"
+      }
+    ],
+    "level": "A1",
+    "category": "المشروبات الساخنة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "مصطلحات السفر المتقدمة",
+    "subtitle": "كلمات مستوى A2 لتخطيط وإتمام السفر",
+    "words": [
+      {
+        "turkish": "Danışma",
+        "emoji": "ℹ️",
+        "arabic": "الاستعلامات"
+      },
+      {
+        "turkish": "Gecikme",
+        "emoji": "⏳",
+        "arabic": "تأخير / تأخر"
+      },
+      {
+        "turkish": "Aktarma",
+        "emoji": "🔄",
+        "arabic": "ترانزيت / تبديل الطائرة"
+      },
+      {
+        "turkish": "Koltuk No",
+        "emoji": "💺",
+        "arabic": "رقم المقعد"
+      },
+      {
+        "turkish": "Giriş Kartı",
+        "emoji": "🎫",
+        "arabic": "بطاقة الصعود للركوب"
+      }
+    ],
+    "level": "A2",
+    "category": "مصطلحات السفر"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "المشاعر الإنسانية المعقدة",
+    "subtitle": "كيف تصف حالاتك العاطفية المتقدمة؟",
+    "words": [
+      {
+        "turkish": "Heyecanlı",
+        "emoji": "🤩",
+        "arabic": "متحمس"
+      },
+      {
+        "turkish": "Endişeli",
+        "emoji": "😟",
+        "arabic": "قلق / متوجس"
+      },
+      {
+        "turkish": "Şaşırmış",
+        "emoji": "😲",
+        "arabic": "متفاجئ / مندهش"
+      },
+      {
+        "turkish": "Utangaç",
+        "emoji": "😳",
+        "arabic": "خجول"
+      },
+      {
+        "turkish": "Kıskanç",
+        "emoji": "😒",
+        "arabic": "غيور"
+      }
+    ],
+    "level": "A2",
+    "category": "المشاعر المعقدة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "مهن علمية وهندسية",
+    "subtitle": "تخصصات هندسية وتقنية متقدمة",
+    "words": [
+      {
+        "turkish": "Mimar",
+        "emoji": "📐",
+        "arabic": "مهندس معماري"
+      },
+      {
+        "turkish": "Yazılımcı",
+        "emoji": "💻",
+        "arabic": "مبرمج / مطور برمجيات"
+      },
+      {
+        "turkish": "Eczacı",
+        "emoji": "🧑‍⚕️",
+        "arabic": "صيدلاني"
+      },
+      {
+        "turkish": "Avukat",
+        "emoji": "💼",
+        "arabic": "محامٍ"
+      },
+      {
+        "turkish": "Gazeteci",
+        "emoji": "🎤",
+        "arabic": "صحفي"
+      }
+    ],
+    "level": "A2",
+    "category": "المهن المتقدمة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "أعضاء الجسم الداخلية",
+    "subtitle": "مصطلحات طبية حيوية للجسم البشري",
+    "words": [
+      {
+        "turkish": "Kalp",
+        "emoji": "❤️",
+        "arabic": "قلب"
+      },
+      {
+        "turkish": "Akciğer",
+        "emoji": "🫁",
+        "arabic": "رئة"
+      },
+      {
+        "turkish": "Beyin",
+        "emoji": "🧠",
+        "arabic": "دماغ / مخ"
+      },
+      {
+        "turkish": "Mide",
+        "emoji": "🍕",
+        "arabic": "معدة"
+      },
+      {
+        "turkish": "Kemik",
+        "emoji": "🦴",
+        "arabic": "عظم"
+      }
+    ],
+    "level": "A2",
+    "category": "أعضاء الجسم"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الخدمات والمعاملات المصرفية",
+    "subtitle": "مصطلحات تهمك لإجراء الحوالات والمعاملات بالبنك",
+    "words": [
+      {
+        "turkish": "Faiz",
+        "emoji": "📈",
+        "arabic": "فائدة بنكية"
+      },
+      {
+        "turkish": "Havale",
+        "emoji": "💸",
+        "arabic": "حوالة مالية"
+      },
+      {
+        "turkish": "Döviz",
+        "emoji": "💱",
+        "arabic": "عملات أجنبية / صرافة"
+      },
+      {
+        "turkish": "Borç",
+        "emoji": "📉",
+        "arabic": "دين / ديون"
+      },
+      {
+        "turkish": "Yatırım",
+        "emoji": "📊",
+        "arabic": "استثمار"
+      }
+    ],
+    "level": "A2",
+    "category": "المصطلحات المالية"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "التسوق المتقدم والموضة",
+    "subtitle": "مصطلحات لشراء الألبسة الفاخرة والمعاينة",
+    "words": [
+      {
+        "turkish": "Deneme Kabini",
+        "emoji": "🚪",
+        "arabic": "غرفة قياس الملابس"
+      },
+      {
+        "turkish": "Kasa",
+        "emoji": "🧾",
+        "arabic": "الصندوق / الدفع"
+      },
+      {
+        "turkish": "Fiş",
+        "emoji": "📄",
+        "arabic": "إيصال دفع / فاتورة صغيرة"
+      },
+      {
+        "turkish": "İade",
+        "emoji": "🔄",
+        "arabic": "إرجاع / استرداد بضاعة"
+      },
+      {
+        "turkish": "Müşteri",
+        "emoji": "🧑",
+        "arabic": "زبون / عميل"
+      }
+    ],
+    "level": "A2",
+    "category": "التسوق"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "أدوات البناء المتطورة",
+    "subtitle": "معدات ومواد صلبة متطورة للبناء والتشييد",
+    "words": [
+      {
+        "turkish": "Matkap",
+        "emoji": "🪛",
+        "arabic": "مثقاب كهربائي / دريل"
+      },
+      {
+        "turkish": "Merdiven",
+        "emoji": "🪜",
+        "arabic": "سلم / درج"
+      },
+      {
+        "turkish": "Çimento",
+        "emoji": "🧱",
+        "arabic": "إسمنت"
+      },
+      {
+        "turkish": "Kiremit",
+        "emoji": "🧱",
+        "arabic": "قرميد"
+      },
+      {
+        "turkish": "Kilit",
+        "emoji": "🔒",
+        "arabic": "قفل"
+      }
+    ],
+    "level": "A2",
+    "category": "أدوات البناء"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "في المستشفى والعناية الطبية",
+    "subtitle": "مفردات متقدمة تصف الطوارئ والأجهزة الطبية",
+    "words": [
+      {
+        "turkish": "Ambulans",
+        "emoji": "🚑",
+        "arabic": "سيارة إسعاف"
+      },
+      {
+        "turkish": "Sedye",
+        "emoji": "🛏️",
+        "arabic": "نقالة مرضى"
+      },
+      {
+        "turkish": "Ameliyat",
+        "emoji": "🔪",
+        "arabic": "عملية جراحية"
+      },
+      {
+        "turkish": "Röntgen",
+        "emoji": "🩻",
+        "arabic": "صورة أشعة سينية"
+      },
+      {
+        "turkish": "Tahlil",
+        "emoji": "🧪",
+        "arabic": "تحليل مخبري"
+      }
+    ],
+    "level": "A2",
+    "category": "المستشفى"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "التضاريس الطبيعية والبيئة",
+    "subtitle": "الظواهر والمقومات الجغرافية المتطورة للبيئة",
+    "words": [
+      {
+        "turkish": "Şelale",
+        "emoji": "🌊",
+        "arabic": "شلال"
+      },
+      {
+        "turkish": "Mağara",
+        "emoji": "🪨",
+        "arabic": "كهف / مغارة"
+      },
+      {
+        "turkish": "Vadi",
+        "emoji": "⛰️",
+        "arabic": "وادٍ"
+      },
+      {
+        "turkish": "Yanardağ",
+        "emoji": "🌋",
+        "arabic": "بركان"
+      },
+      {
+        "turkish": "Çöl",
+        "emoji": "🏜️",
+        "arabic": "صحراء"
+      }
+    ],
+    "level": "A2",
+    "category": "الجغرافيا"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الفضاء والكون الخارجي",
+    "subtitle": "مفردات تصف الكواكب والنجوم الفلكية",
+    "words": [
+      {
+        "turkish": "Gezegen",
+        "emoji": "🪐",
+        "arabic": "كوكب"
+      },
+      {
+        "turkish": "Yıldız",
+        "emoji": "⭐",
+        "arabic": "نجم"
+      },
+      {
+        "turkish": "Astronot",
+        "emoji": "👨‍🚀",
+        "arabic": "رائد فضاء"
+      },
+      {
+        "turkish": "Roket",
+        "emoji": "🚀",
+        "arabic": "صاروخ"
+      },
+      {
+        "turkish": "Teleskop",
+        "emoji": "🔭",
+        "arabic": "مقراب / تلسكوب"
+      }
+    ],
+    "level": "A2",
+    "category": "الفضاء"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "وسائل الإعلام والخبر",
+    "subtitle": "مصطلحات تصف وسائل التغطية والحديث اليومي",
+    "words": [
+      {
+        "turkish": "Haber",
+        "emoji": "📰",
+        "arabic": "خبر / أخبار"
+      },
+      {
+        "turkish": "Röportaj",
+        "emoji": "🎤",
+        "arabic": "مقابلة صحفية"
+      },
+      {
+        "turkish": "Dergi",
+        "emoji": "📚",
+        "arabic": "مجلة"
+      },
+      {
+        "turkish": "Yayın",
+        "emoji": "📡",
+        "arabic": "بث / نشر"
+      },
+      {
+        "turkish": "Kamera",
+        "emoji": "📷",
+        "arabic": "آلة تصوير"
+      }
+    ],
+    "level": "A2",
+    "category": "وسائل الإعلام"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "قطع غيار السيارات ومشاكلها",
+    "subtitle": "مصطلحات ميكانيكية متقدمة تهم كل سائق",
+    "words": [
+      {
+        "turkish": "Motor",
+        "emoji": "⚙️",
+        "arabic": "محرك السيارة"
+      },
+      {
+        "turkish": "Tekerlek",
+        "emoji": "🛞",
+        "arabic": "إطار / عجلة"
+      },
+      {
+        "turkish": "Direksiyon",
+        "emoji": "🛞",
+        "arabic": "عجلة القيادة / مقود"
+      },
+      {
+        "turkish": "Fren",
+        "emoji": "🛑",
+        "arabic": "كابح / فرامل"
+      },
+      {
+        "turkish": "Ayna",
+        "emoji": "🪞",
+        "arabic": "مرآة الرؤية"
+      }
+    ],
+    "level": "A2",
+    "category": "السيارات"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الفنون والألحان الموسيقية",
+    "subtitle": "مفردات تصف الآلات الموسيقية والتعبير الجمالي",
+    "words": [
+      {
+        "turkish": "Gitar",
+        "emoji": "🎸",
+        "arabic": "قيثارة / جيتار"
+      },
+      {
+        "turkish": "Keman",
+        "emoji": "🎻",
+        "arabic": "كمان"
+      },
+      {
+        "turkish": "Piyano",
+        "emoji": "🎹",
+        "arabic": "بيانو"
+      },
+      {
+        "turkish": "Melodi",
+        "emoji": "🎶",
+        "arabic": "لحن"
+      },
+      {
+        "turkish": "Şarkı",
+        "emoji": "🎤",
+        "arabic": "أغنية"
+      }
+    ],
+    "level": "A2",
+    "category": "الفن والموسيقى"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "العلوم والتجارب العلمية",
+    "subtitle": "مصطلحات علمية تواجه الطلاب في المدرسة الثانوية",
+    "words": [
+      {
+        "turkish": "Laboratuvar",
+        "emoji": "🧪",
+        "arabic": "مختبر / معمل"
+      },
+      {
+        "turkish": "Deney",
+        "emoji": "🧪",
+        "arabic": "تجربة علمية"
+      },
+      {
+        "turkish": "Mikroskop",
+        "emoji": "🔬",
+        "arabic": "مجهر / ميكروسكوب"
+      },
+      {
+        "turkish": "Kimya",
+        "emoji": "🧪",
+        "arabic": "كيمياء"
+      },
+      {
+        "turkish": "Fizik",
+        "emoji": "⚛️",
+        "arabic": "فيزياء"
+      }
+    ],
+    "level": "A2",
+    "category": "العلوم"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "القانون والعدالة والشرطة",
+    "subtitle": "مصطلحات تصف الحقوق والمحاكم والدستور",
+    "words": [
+      {
+        "turkish": "Mahkeme",
+        "emoji": "⚖️",
+        "arabic": "محكمة"
+      },
+      {
+        "turkish": "Hâkim",
+        "emoji": "🧑‍⚖️",
+        "arabic": "قاضٍ"
+      },
+      {
+        "turkish": "Suç",
+        "emoji": "🚨",
+        "arabic": "جريمة / جنحة"
+      },
+      {
+        "turkish": "Kanun",
+        "emoji": "📜",
+        "arabic": "قانون"
+      },
+      {
+        "turkish": "Adalet",
+        "emoji": "⚖️",
+        "arabic": "عدالة"
+      }
+    ],
+    "level": "A2",
+    "category": "القانون"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "السياسة والدول والحدود",
+    "subtitle": "مصطلحات سياسية متقدمة تواجهنا في نشرات الأخبار",
+    "words": [
+      {
+        "turkish": "Devlet",
+        "emoji": "🏛️",
+        "arabic": "دولة"
+      },
+      {
+        "turkish": "Hükümet",
+        "emoji": "🏛️",
+        "arabic": "حكومة"
+      },
+      {
+        "turkish": "Başkan",
+        "emoji": "👨‍💼",
+        "arabic": "رئيس / قائد"
+      },
+      {
+        "turkish": "Seçim",
+        "emoji": "🗳️",
+        "arabic": "انتخابات"
+      },
+      {
+        "turkish": "Büyükelçi",
+        "emoji": "💼",
+        "arabic": "سفير"
+      }
+    ],
+    "level": "A2",
+    "category": "السياسة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "البيئة والمحافظة عليها",
+    "subtitle": "مفردات هامة تصف الطبيعة وإعادة التدوير",
+    "words": [
+      {
+        "turkish": "Geri Dönüşüm",
+        "emoji": "♻️",
+        "arabic": "إعادة تدوير"
+      },
+      {
+        "turkish": "Kirlilik",
+        "emoji": "💨",
+        "arabic": "تلوث"
+      },
+      {
+        "turkish": "İklim Değişikliği",
+        "emoji": "🌡️",
+        "arabic": "تغير المناخ"
+      },
+      {
+        "turkish": "Koruma",
+        "emoji": "🛡️",
+        "arabic": "حماية / صيانة"
+      },
+      {
+        "turkish": "Doğa",
+        "emoji": "🍃",
+        "arabic": "طبيعة"
+      }
+    ],
+    "level": "A2",
+    "category": "البيئة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الأجهزة المنزلية الذكية",
+    "subtitle": "الآلات التكنولوجية الحديثة لتسهيل الحياة اليومية",
+    "words": [
+      {
+        "turkish": "Klima",
+        "emoji": "❄️",
+        "arabic": "مكيف هواء"
+      },
+      {
+        "turkish": "Kombi",
+        "emoji": "🔥",
+        "arabic": "جهاز تدفئة مركزي"
+      },
+      {
+        "turkish": "Ütü",
+        "emoji": "🔌",
+        "arabic": "مكواة"
+      },
+      {
+        "turkish": "Elektrikli Süpürge",
+        "emoji": "🧹",
+        "arabic": "مكنسة كهربائية"
+      },
+      {
+        "turkish": "Bulaşık Makinesi",
+        "emoji": "🍽️",
+        "arabic": "غسالة صحون"
+      }
+    ],
+    "level": "A2",
+    "category": "الأجهزة الذكية"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الإكسسوارات الفاخرة والمجوهرات",
+    "subtitle": "مفردات تصف أدوات التزيين والمجوهرات النفيسة",
+    "words": [
+      {
+        "turkish": "Yüzük",
+        "emoji": "💍",
+        "arabic": "خاتم"
+      },
+      {
+        "turkish": "Kolye",
+        "emoji": "📿",
+        "arabic": "قلادة / طوق"
+      },
+      {
+        "turkish": "Kemer",
+        "emoji": "🎗️",
+        "arabic": "حزام خصر"
+      },
+      {
+        "turkish": "Saat",
+        "emoji": "⌚",
+        "arabic": "ساعة يد"
+      },
+      {
+        "turkish": "Gözlük",
+        "emoji": "🕶️",
+        "arabic": "نظارة"
+      }
+    ],
+    "level": "A2",
+    "category": "الإكسسوارات"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الرياضات الشتوية الباردة",
+    "subtitle": "ألعاب حركية تقام على الثلج والجليد",
+    "words": [
+      {
+        "turkish": "Kayak",
+        "emoji": "🎿",
+        "arabic": "التزلج على الجليد"
+      },
+      {
+        "turkish": "Kızak",
+        "emoji": "🛷",
+        "arabic": "زحافة جليد / توبوجان"
+      },
+      {
+        "turkish": "Buz Pateni",
+        "emoji": "⛸️",
+        "arabic": "رقص وتزلج على الجليد"
+      },
+      {
+        "turkish": "Kar Topu Savaş",
+        "emoji": "❄️",
+        "arabic": "معركة كرات الثلج"
+      },
+      {
+        "turkish": "Teleferik",
+        "emoji": "🚡",
+        "arabic": "تلفريك"
+      }
+    ],
+    "level": "A2",
+    "category": "الرياضات الشتوية"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الرياضات المائية الصيفية",
+    "subtitle": "ألعاب تمارس في البحر والمسابح الصيفية",
+    "words": [
+      {
+        "turkish": "Yelken",
+        "emoji": "⛵",
+        "arabic": "إبحار شراعي"
+      },
+      {
+        "turkish": "Sörf",
+        "emoji": "🏄",
+        "arabic": "ركوب الأمواج"
+      },
+      {
+        "turkish": "Dalış",
+        "emoji": "🤿",
+        "arabic": "غوص"
+      },
+      {
+        "turkish": "Kürek",
+        "emoji": "🛶",
+        "arabic": "تجديف بالقارب"
+      },
+      {
+        "turkish": "Su Topu",
+        "emoji": "🤽",
+        "arabic": "كرة الماء"
+      }
+    ],
+    "level": "A2",
+    "category": "الرياضات المائية"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الزراعة المتقدمة والحدائق",
+    "subtitle": "مصطلحات ري ونباتات زينة متطورة",
+    "words": [
+      {
+        "turkish": "Sulama",
+        "emoji": "💧",
+        "arabic": "ري / سقاية"
+      },
+      {
+        "turkish": "Hasat",
+        "emoji": "🌾",
+        "arabic": "حصاد المحاصيل"
+      },
+      {
+        "turkish": "Aşılama",
+        "emoji": "🪴",
+        "arabic": "تطعيم النباتات"
+      },
+      {
+        "turkish": "Sera",
+        "emoji": "🛖",
+        "arabic": "دفيئة زراعية / بيت بلاستيكي"
+      },
+      {
+        "turkish": "Budama",
+        "emoji": "✂️",
+        "arabic": "تقليم الأغصان"
+      }
+    ],
+    "level": "A2",
+    "category": "الزراعة المتقدمة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الأفعال المركبة الشائعة 1",
+    "subtitle": "أفعال تتكون من اسم ملحق بفعل مساعد",
+    "words": [
+      {
+        "turkish": "Teşekkür etmek",
+        "emoji": "🙏",
+        "arabic": "تقديم الشكر / يشكر"
+      },
+      {
+        "turkish": "Yardım etmek",
+        "emoji": "🤝",
+        "arabic": "تقديم المساعدة / يساعد"
+      },
+      {
+        "turkish": "Telefon etmek",
+        "emoji": "📞",
+        "arabic": "الاتصال الهاتفي / يتصل"
+      },
+      {
+        "turkish": "Kabul etmek",
+        "emoji": "✅",
+        "arabic": "القبول / يوافق"
+      },
+      {
+        "turkish": "İptal etmek",
+        "emoji": "❌",
+        "arabic": "الإلغاء / يلغي"
+      }
+    ],
+    "level": "A2",
+    "category": "الأفعال المركبة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الأفعال المركبة الشائعة 2",
+    "subtitle": "أفعال وجدانية وحركية مركبة باللغة التركية",
+    "words": [
+      {
+        "turkish": "Sohbet etmek",
+        "emoji": "💬",
+        "arabic": "الدردشة / يتحدث ودياً"
+      },
+      {
+        "turkish": "Park etmek",
+        "emoji": "🅿️",
+        "arabic": "ركن السيارة / يصفّ"
+      },
+      {
+        "turkish": "Ziyaret etmek",
+        "emoji": "🏠",
+        "arabic": "الزيارة / يزور"
+      },
+      {
+        "turkish": "Merak etmek",
+        "emoji": "🤔",
+        "arabic": "القلق أو الفضول / يقلق"
+      },
+      {
+        "turkish": "Kavga etmek",
+        "emoji": "🥊",
+        "arabic": "الشجار / يتشاجر"
+      }
+    ],
+    "level": "A2",
+    "category": "الأفعال المركبة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "التجارة وتأسيس الشركات",
+    "subtitle": "مصطلحات ريادة الأعمال للمستوى المتوسط",
+    "words": [
+      {
+        "turkish": "Şirket",
+        "emoji": "🏢",
+        "arabic": "شركة / مؤسسة"
+      },
+      {
+        "turkish": "Ortak",
+        "emoji": "🤝",
+        "arabic": "شريك أعمال"
+      },
+      {
+        "turkish": "İthalat",
+        "emoji": "🚢",
+        "arabic": "استيراد"
+      },
+      {
+        "turkish": "İhracat",
+        "emoji": "✈️",
+        "arabic": "تصدير"
+      },
+      {
+        "turkish": "Sözleşme",
+        "emoji": "📄",
+        "arabic": "عقد اتفاق"
+      }
+    ],
+    "level": "A2",
+    "category": "التجارة والأعمال"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "المطبخ وإعداد الوجبات الفاخرة",
+    "subtitle": "مصطلحات متقدمة لطرق الطبخ باللغة التركية",
+    "words": [
+      {
+        "turkish": "Kaynatmak",
+        "emoji": "🔥",
+        "arabic": "غلي السائل"
+      },
+      {
+        "turkish": "Kızartmak",
+        "emoji": "🍳",
+        "arabic": "قلي الأطعمة بالزيت"
+      },
+      {
+        "turkish": "Fırınlamak",
+        "emoji": "🍞",
+        "arabic": "خبز في الفرن"
+      },
+      {
+        "turkish": "Doğramak",
+        "emoji": "🔪",
+        "arabic": "فرم / تقطيع الخضار"
+      },
+      {
+        "turkish": "Rendelemek",
+        "emoji": "🧀",
+        "arabic": "بشر بالبرّاشة"
+      }
+    ],
+    "level": "A2",
+    "category": "المطبخ والطبخ"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الترفيه والتسلية العائلية",
+    "subtitle": "وجهات عائلية لقضاء عطل نهاية الأسبوع",
+    "words": [
+      {
+        "turkish": "Sinema",
+        "emoji": "🎬",
+        "arabic": "سينما / دار عرض"
+      },
+      {
+        "turkish": "Lunapark",
+        "emoji": "🎡",
+        "arabic": "مدينة ملاهي / ملاهٍ"
+      },
+      {
+        "turkish": "Hayvanat Bahçesi",
+        "emoji": "🦁",
+        "arabic": "حديقة حيوان"
+      },
+      {
+        "turkish": "Akvaryum",
+        "emoji": "🐠",
+        "arabic": "معرض الأحياء المائية"
+      },
+      {
+        "turkish": "Piknik Alanı",
+        "emoji": "🧺",
+        "arabic": "منطقة نزهات خلوية"
+      }
+    ],
+    "level": "A2",
+    "category": "الترفيه"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الصحة واللياقة البدنية",
+    "subtitle": "مصطلحات هامة لممارسة حياة صحية نشطة",
+    "words": [
+      {
+        "turkish": "Diyet",
+        "emoji": "🥗",
+        "arabic": "حمية غذائية / رجيم"
+      },
+      {
+        "turkish": "Kalori",
+        "emoji": "🔥",
+        "arabic": "سعرات حرارية"
+      },
+      {
+        "turkish": "Kas",
+        "emoji": "💪",
+        "arabic": "عضلة / عضلات"
+      },
+      {
+        "turkish": "Egzersiz",
+        "emoji": "🏃",
+        "arabic": "تمرين رياضي"
+      },
+      {
+        "turkish": "Tartı",
+        "emoji": "⚖️",
+        "arabic": "ميزان قياس الوزن"
+      }
+    ],
+    "level": "A2",
+    "category": "الصحة واللياقة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الموضة وتصميم الأزياء",
+    "subtitle": "مفردات متقدمة تصف الستايل وخطوط الأزياء",
+    "words": [
+      {
+        "turkish": "Tasarım",
+        "emoji": "📐",
+        "arabic": "تصميم"
+      },
+      {
+        "turkish": "Manken",
+        "emoji": "💃",
+        "arabic": "عارضة أزياء"
+      },
+      {
+        "turkish": "Defile",
+        "emoji": "🕴️",
+        "arabic": "عرض أزياء"
+      },
+      {
+        "turkish": "Koleksiyon",
+        "emoji": "🧥",
+        "arabic": "تشكيلة ملابس"
+      },
+      {
+        "turkish": "Kumaş",
+        "emoji": "🧣",
+        "arabic": "خامة القماش"
+      }
+    ],
+    "level": "A2",
+    "category": "الموضة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "أعماق البحار والمخلوقات المائية",
+    "subtitle": "كائنات بحرية نادرة وخلابة",
+    "words": [
+      {
+        "turkish": "Denizanası",
+        "emoji": "🪼",
+        "arabic": "قنديل البحر"
+      },
+      {
+        "turkish": "Mercan",
+        "emoji": "🪸",
+        "arabic": "مرجان"
+      },
+      {
+        "turkish": "Denizatı",
+        "emoji": "🐎",
+        "arabic": "حصان البحر"
+      },
+      {
+        "turkish": "Denizyıldızı",
+        "emoji": "⭐",
+        "arabic": "نجم البحر"
+      },
+      {
+        "turkish": "İstiridye",
+        "emoji": "🦪",
+        "arabic": "محار"
+      }
+    ],
+    "level": "A2",
+    "category": "الحيوانات البحرية"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الكوارث الطبيعية والطقس القاسي",
+    "subtitle": "ظواهر بيئية ومناخية قوية ومخيفة",
+    "words": [
+      {
+        "turkish": "Deprem",
+        "emoji": "🫨",
+        "arabic": "زلزال"
+      },
+      {
+        "turkish": "Sel",
+        "emoji": "🌊",
+        "arabic": "فيضان / سيول جارفة"
+      },
+      {
+        "turkish": "Heyelan",
+        "emoji": "🪵",
+        "arabic": "انهيار أرضي"
+      },
+      {
+        "turkish": "Fırtına",
+        "emoji": "🌪️",
+        "arabic": "عاصفة"
+      },
+      {
+        "turkish": "Çığ",
+        "emoji": "❄️",
+        "arabic": "انهيار جليدي"
+      }
+    ],
+    "level": "A2",
+    "category": "الطقس القاسي"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "أدوات التجميل والعناية بالبشرة",
+    "subtitle": "مستحضرات يومية للزينة والعناية الشخصية",
+    "words": [
+      {
+        "turkish": "Parfüm",
+        "emoji": "🧴",
+        "arabic": "عطر"
+      },
+      {
+        "turkish": "Krem",
+        "emoji": "🧴",
+        "arabic": "مرطب / كريم بشرة"
+      },
+      {
+        "turkish": "Ruj",
+        "emoji": "💄",
+        "arabic": "أحمر شفاه"
+      },
+      {
+        "turkish": "Oje",
+        "emoji": "💅",
+        "arabic": "طلاء أظافر"
+      },
+      {
+        "turkish": "Maskara",
+        "emoji": "👁️",
+        "arabic": "ماسكارا رموش"
+      }
+    ],
+    "level": "A2",
+    "category": "أدوات التجميل"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الأثاث الخارجي للحديقة والسطح",
+    "subtitle": "مستلزمات جلوس مريحة للهواء الطلق",
+    "words": [
+      {
+        "turkish": "Hamak",
+        "emoji": "🛏️",
+        "arabic": "أرجوحة شبكية"
+      },
+      {
+        "turkish": "Şemsiye",
+        "emoji": "☔",
+        "arabic": "مظلة حدائق / شمسية"
+      },
+      {
+        "turkish": "Şezlong",
+        "emoji": "🪑",
+        "arabic": "كرسي استلقاء مريح"
+      },
+      {
+        "turkish": "Sallanan Sandalye",
+        "emoji": "🪑",
+        "arabic": "كرسي هزاز"
+      },
+      {
+        "turkish": "Yapay Havuz",
+        "emoji": "🏊",
+        "arabic": "بركة ماء اصطناعية"
+      }
+    ],
+    "level": "A2",
+    "category": "الأثاث الخارجي"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "في المتحف والمعرض الفني",
+    "subtitle": "مفردات تصف التاريخ والآثار القديمة",
+    "words": [
+      {
+        "turkish": "Tarihi Eser",
+        "emoji": "🏺",
+        "arabic": "أثر تاريخي / تحفة"
+      },
+      {
+        "turkish": "Heykel",
+        "emoji": "🗿",
+        "arabic": "تمثال"
+      },
+      {
+        "turkish": "Tablo",
+        "emoji": "🖼️",
+        "arabic": "لوحة جدارية فنية"
+      },
+      {
+        "turkish": "Rehber",
+        "emoji": "🧑‍✈️",
+        "arabic": "مرشد سياحي / دليل"
+      },
+      {
+        "turkish": "Giriş Ücreti",
+        "emoji": "💵",
+        "arabic": "رسوم الدخول"
+      }
+    ],
+    "level": "A2",
+    "category": "المتحف"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "السكن والإيجار والعقارات",
+    "subtitle": "مفردات هامة للبحث عن شقة للإيجار بتركيا",
+    "words": [
+      {
+        "turkish": "Kira",
+        "emoji": "💵",
+        "arabic": "إيجار"
+      },
+      {
+        "turkish": "Emlakçı",
+        "emoji": "💼",
+        "arabic": "وكيل عقاري / دلال"
+      },
+      {
+        "turkish": "Depozito",
+        "emoji": "💵",
+        "arabic": "تأمين مالي / عربون"
+      },
+      {
+        "turkish": "Sözleşme",
+        "emoji": "📄",
+        "arabic": "عقد إيجار"
+      },
+      {
+        "turkish": "Aidat",
+        "emoji": "🧾",
+        "arabic": "رسوم الخدمات الشهرية / عوائد"
+      }
+    ],
+    "level": "A2",
+    "category": "السكن والإيجار"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "المطاعم والخدمة والطلب",
+    "subtitle": "مفردات تجعلك قادراً على الطلب بالمطعم بثقة",
+    "words": [
+      {
+        "turkish": "Menü",
+        "emoji": "📜",
+        "arabic": "قائمة الطعام"
+      },
+      {
+        "turkish": "Garson",
+        "emoji": "🧑‍🍳",
+        "arabic": "نادل / خادم المطعم"
+      },
+      {
+        "turkish": "Hesap",
+        "emoji": "🧾",
+        "arabic": "الفاتورة / الحساب"
+      },
+      {
+        "turkish": "Bahşiş",
+        "emoji": "💵",
+        "arabic": "إكرامية / بقشيش"
+      },
+      {
+        "turkish": "Rezervasyon",
+        "emoji": "📅",
+        "arabic": "حجز طاولة"
+      }
+    ],
+    "level": "A2",
+    "category": "المطاعم"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الشحن والطرود البريدية المتقدمة",
+    "subtitle": "مصطلحات تتبع الشحنات والوزن بتركيا",
+    "words": [
+      {
+        "turkish": "Kargo Takip",
+        "emoji": "📦",
+        "arabic": "تتبع الشحنة"
+      },
+      {
+        "turkish": "Ağırlık",
+        "emoji": "⚖️",
+        "arabic": "الوزن"
+      },
+      {
+        "turkish": "Alıcı",
+        "emoji": "🧑",
+        "arabic": "المستلم / المشتري"
+      },
+      {
+        "turkish": "Gönderici",
+        "emoji": "🧑",
+        "arabic": "المرسل"
+      },
+      {
+        "turkish": "Kurye",
+        "emoji": "🛵",
+        "arabic": "عامل التوصيل / ساعي"
+      }
+    ],
+    "level": "A2",
+    "category": "البريد والشحن"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الطوارئ والإسعاف والإنقاذ",
+    "subtitle": "مفردات حيوية لطلب المساعدة العاجلة",
+    "words": [
+      {
+        "turkish": "Yangın",
+        "emoji": "🔥",
+        "arabic": "حريق"
+      },
+      {
+        "turkish": "Hırsız",
+        "emoji": "🥷",
+        "arabic": "لص / سارق"
+      },
+      {
+        "turkish": "Kaza",
+        "emoji": "💥",
+        "arabic": "حادث سير"
+      },
+      {
+        "turkish": "İlk Yardım",
+        "emoji": "🩹",
+        "arabic": "إسعافات أولية"
+      },
+      {
+        "turkish": "Kurtarma",
+        "emoji": "🛟",
+        "arabic": "إنقاذ / نجدة"
+      }
+    ],
+    "level": "A2",
+    "category": "الطوارئ"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "حلويات تركية وعالمية",
+    "subtitle": "التحلية والأطعمة السكرية المفضلة بتركيا",
+    "words": [
+      {
+        "turkish": "Baklava",
+        "emoji": "🥮",
+        "arabic": "بقلاوة تركية"
+      },
+      {
+        "turkish": "Künefe",
+        "emoji": "🥮",
+        "arabic": "كنافة"
+      },
+      {
+        "turkish": "Lokum",
+        "emoji": "🍬",
+        "arabic": "رايحة / حلقوم تركي"
+      },
+      {
+        "turkish": "Dondurma",
+        "emoji": "🍦",
+        "arabic": "بوظة / آيس كريم"
+      },
+      {
+        "turkish": "Sütlaç",
+        "emoji": "🥣",
+        "arabic": "أرز بحليب بالفرن"
+      }
+    ],
+    "level": "A2",
+    "category": "الحلويات"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "المشروبات الباردة والمنعشة",
+    "subtitle": "عصائر ومرطبات صيفية تروي العطش",
+    "words": [
+      {
+        "turkish": "Ayran",
+        "emoji": "🥛",
+        "arabic": "لبن عيران مالح"
+      },
+      {
+        "turkish": "Limonata",
+        "emoji": "🍋",
+        "arabic": "ليموناضة"
+      },
+      {
+        "turkish": "Maden Suyu",
+        "emoji": "🍾",
+        "arabic": "مياه معدنية غازية"
+      },
+      {
+        "turkish": "Buzlu Çay",
+        "emoji": "🍹",
+        "arabic": "شاي مثلج"
+      },
+      {
+        "turkish": "Şalgam",
+        "emoji": "🍷",
+        "arabic": "شيرب الشلغم الأحمر"
+      }
+    ],
+    "level": "A2",
+    "category": "المشروبات"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "صلات القرابة والنسابة",
+    "subtitle": "أفراد العائلة الممتدة والأصهار باللغة التركية",
+    "words": [
+      {
+        "turkish": "Teyze",
+        "emoji": "👩",
+        "arabic": "خالة"
+      },
+      {
+        "turkish": "Hala",
+        "emoji": "👩",
+        "arabic": "عمة"
+      },
+      {
+        "turkish": "Dayı",
+        "emoji": "👨",
+        "arabic": "خال"
+      },
+      {
+        "turkish": "Amca",
+        "emoji": "👨",
+        "arabic": "عم"
+      },
+      {
+        "turkish": "Kuzen",
+        "emoji": "🧑",
+        "arabic": "ابن عم / ابن خال"
+      }
+    ],
+    "level": "A2",
+    "category": "العائلة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "الأعياد الوطنية والدينية بتركيا",
+    "subtitle": "مفردات تصف العطل والأيام الرسمية المهمة",
+    "words": [
+      {
+        "turkish": "Bayram",
+        "emoji": "🎉",
+        "arabic": "عيد"
+      },
+      {
+        "turkish": "Tatil",
+        "emoji": "🏖️",
+        "arabic": "عطلة / إجازة"
+      },
+      {
+        "turkish": "Tören",
+        "emoji": "🕴️",
+        "arabic": "مراسم / حفل رسمي"
+      },
+      {
+        "turkish": "Kutlama",
+        "emoji": "🥳",
+        "arabic": "احتفال"
+      },
+      {
+        "turkish": "İzin",
+        "emoji": "📄",
+        "arabic": "إذن رسمي / إجازة مرخصة"
+      }
+    ],
+    "level": "A2",
+    "category": "الأعياد"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "العمارة وفن البناء",
+    "subtitle": "مصطلحات تصف الأنماط الهندسية والمعالم الكبيرة",
+    "words": [
+      {
+        "turkish": "Gökdelen",
+        "emoji": "🏢",
+        "arabic": "ناطحة سحاب"
+      },
+      {
+        "turkish": "Tarihi Köprü",
+        "emoji": "🌉",
+        "arabic": "جسر تاريخي"
+      },
+      {
+        "turkish": "Kule",
+        "emoji": "🗼",
+        "arabic": "برج"
+      },
+      {
+        "turkish": "Saray",
+        "emoji": "🏰",
+        "arabic": "قصر ملوكي"
+      },
+      {
+        "turkish": "Çeşme",
+        "emoji": "⛲",
+        "arabic": "سبيل ماء / نافورة"
+      }
+    ],
+    "level": "A2",
+    "category": "العمارة"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "التخييم والمغامرات البرية",
+    "subtitle": "أنشطة ومصطلحات تصف تجربة الطبيعة المليئة بالإثارة",
+    "words": [
+      {
+        "turkish": "Sırt Çantası",
+        "emoji": "🎒",
+        "arabic": "حقيبة ظهر للسفر"
+      },
+      {
+        "turkish": "Pusula",
+        "emoji": "🧭",
+        "arabic": "بوصلة"
+      },
+      {
+        "turkish": "Kamp Ateşi",
+        "emoji": "🔥",
+        "arabic": "نار المخيم"
+      },
+      {
+        "turkish": "Doğa Yürüyüşü",
+        "emoji": "🥾",
+        "arabic": "هايكنج / مشي طبيعي"
+      },
+      {
+        "turkish": "Tırmanış",
+        "emoji": "🧗",
+        "arabic": "تسلق الجبال"
+      }
+    ],
+    "level": "A2",
+    "category": "التخييم"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "العمل المكتبي والشركات",
+    "subtitle": "مفردات هامة لإنجاز عملك داخل المكاتب التركية",
+    "words": [
+      {
+        "turkish": "Toplantı",
+        "emoji": "👥",
+        "arabic": "اجتماع"
+      },
+      {
+        "turkish": "Dosya",
+        "emoji": "📁",
+        "arabic": "ملف"
+      },
+      {
+        "turkish": "Yönetici",
+        "emoji": "👨‍💼",
+        "arabic": "مدير / مسؤول رئيسي"
+      },
+      {
+        "turkish": "Rapor",
+        "emoji": "📊",
+        "arabic": "تقرير مكتوب"
+      },
+      {
+        "turkish": "Mesai",
+        "emoji": "⏰",
+        "arabic": "دوام العمل / وقت العمل"
+      }
+    ],
+    "level": "A2",
+    "category": "العمل المكتبي"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "التسويق والإعلان الرقمي",
+    "subtitle": "مفردات ترويج السلع وإبراز مميزات الخدمات",
+    "words": [
+      {
+        "turkish": "Reklam",
+        "emoji": "📢",
+        "arabic": "إعلان / ترويج"
+      },
+      {
+        "turkish": "Marka",
+        "emoji": "🏷️",
+        "arabic": "علامة تجارية / ماركة"
+      },
+      {
+        "turkish": "Kampanya",
+        "emoji": "🏷️",
+        "arabic": "حملة تسويقية / عرض مؤقت"
+      },
+      {
+        "turkish": "Broşür",
+        "emoji": "📄",
+        "arabic": "بروشور / كتيب إعلاني"
+      },
+      {
+        "turkish": "Slogan",
+        "emoji": "💬",
+        "arabic": "شعار لفظي / مقولة جذابة"
+      }
+    ],
+    "level": "A2",
+    "category": "التسويق"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "ألعاب الأطفال والذكاء",
+    "subtitle": "ألعاب هادئة لتنمية ذكاء وعقل الطفل",
+    "words": [
+      {
+        "turkish": "Yapboz",
+        "emoji": "🧩",
+        "arabic": "أحجية صور مقطعة / بازل"
+      },
+      {
+        "turkish": "Satranç",
+        "emoji": "♟️",
+        "arabic": "شطرنج"
+      },
+      {
+        "turkish": "Kart Oyunu",
+        "emoji": "🃏",
+        "arabic": "ألعاب الورق"
+      },
+      {
+        "turkish": "Zar",
+        "emoji": "🎲",
+        "arabic": "نرد"
+      },
+      {
+        "turkish": "Saklambaç",
+        "emoji": "🙈",
+        "arabic": "لعبة الغميضة"
+      }
+    ],
+    "level": "A2",
+    "category": "ألعاب الذكاء"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "المواد الخام والصناعة",
+    "subtitle": "المواد الأساسية التي تصنع منها الأشياء حولنا",
+    "words": [
+      {
+        "turkish": "Ahşap",
+        "emoji": "🪵",
+        "arabic": "خشب مصنع"
+      },
+      {
+        "turkish": "Cam",
+        "emoji": "🥛",
+        "arabic": "زجاج"
+      },
+      {
+        "turkish": "Plastik",
+        "emoji": "🥤",
+        "arabic": "بلاستيك"
+      },
+      {
+        "turkish": "Deri",
+        "emoji": "💼",
+        "arabic": "جلد طبيعي"
+      },
+      {
+        "turkish": "Pamuk",
+        "emoji": "☁️",
+        "arabic": "قطن"
+      }
+    ],
+    "level": "A2",
+    "category": "المواد الخام"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "أفعال التفكير والإدراك والذهن",
+    "subtitle": "أفعال تصف الأنشطة العقلية التي يقوم بها الدماغ",
+    "words": [
+      {
+        "turkish": "Düşünmek",
+        "emoji": "🤔",
+        "arabic": "التفكير / يفكر"
+      },
+      {
+        "turkish": "Hatırlamak",
+        "emoji": "💭",
+        "arabic": "التذكر / يتذكر"
+      },
+      {
+        "turkish": "Unutmak",
+        "emoji": "💨",
+        "arabic": "النسيان / ينسى"
+      },
+      {
+        "turkish": "Karar vermek",
+        "emoji": "🎯",
+        "arabic": "اتخاذ القرار / يقرر"
+      },
+      {
+        "turkish": "Hayal etmek",
+        "emoji": "💭",
+        "arabic": "التخيل / يحلم بـ"
+      }
+    ],
+    "level": "A2",
+    "category": "أفعال التفكير"
+  },
+  {
+    "type": "word-challenge",
+    "title": "كم كلمة تعرف؟",
+    "badgeText": "التخرج والتفوق والنجاح",
+    "subtitle": "مفردات تصف الفخر والوصول لقمة العلم",
+    "words": [
+      {
+        "turkish": "Mezuniyet",
+        "emoji": "🎓",
+        "arabic": "تخرج"
+      },
+      {
+        "turkish": "Diploma",
+        "emoji": "📜",
+        "arabic": "شهادة علمية / دبلوم"
+      },
+      {
+        "turkish": "Başarı",
+        "emoji": "🏆",
+        "arabic": "نجاح / تفوق"
+      },
+      {
+        "turkish": "Tören",
+        "emoji": "🕴️",
+        "arabic": "مراسم الاحتفال"
+      },
+      {
+        "turkish": "Kep Atma",
+        "emoji": "🎓",
+        "arabic": "رمي القبعة للأعلى"
+      }
+    ],
+    "level": "A2",
+    "category": "التخرج والنجاح"
+  }
+]

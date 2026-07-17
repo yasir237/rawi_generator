@@ -1,0 +1,12 @@
+﻿{
+  "type": "three-words",
+  "title": "كلمات تركية",
+  "badge": "تستخدمها كل يوم",
+  "footerHandle": "@rawi.turkish",
+  "background": "aurora",
+  "tip": "احفظ كلمة واحدة",
+  "teaImage": "/assets/tea-simit.png",
+  "words": [
+    { "turkish": "Teşekkürler", "arabic": "شكراً", "icon": "heart" }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "type": "translate-challenge",
+    "turkishSentence": "Merhaba, nasılsınız?",
+    "level": "A1",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "translate-challenge",
+    "turkishSentence": "Bu benim annem.",
+    "level": "A1",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "translate-challenge",
+    "turkishSentence": "Bir bardak çay lütfen.",
+    "level": "A1",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "translate-challenge",
+    "turkishSentence": "Bugün hava çok sıcak.",
+    "level": "A1",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "translate-challenge",
+    "turkishSentence": "Yeni evimiz çok geniş.",
+    "level": "A2",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "translate-challenge",
+    "turkishSentence": "Otobüs durağı nerede?",
+    "level": "A2",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "translate-challenge",
+    "turkishSentence": "Bu kırmızı elbise kaç para?",
+    "level": "A2",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "translate-challenge",
+    "turkishSentence": "Yarın Türkçe sınavım var.",
+    "level": "A2",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "translate-challenge",
+    "turkishSentence": "Kütüphanede ders çalışmayı çok seviyorum.",
+    "level": "B1",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "translate-challenge",
+    "turkishSentence": "Gelecek hafta yeni bir işe başlayacağım.",
+    "level": "B1",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "translate-challenge",
+    "turkishSentence": "Kendimi bugünlerde biraz halsiz hissediyorum.",
+    "level": "B1",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "translate-challenge",
+    "turkishSentence": "Yaz tatilinde Antalya’ya gitmek istiyoruz.",
+    "level": "B1",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "translate-challenge",
+    "turkishSentence": "Yapay zekâ teknolojileri iş dünyasını tamamen değiştirecek gibi görünüyor.",
+    "level": "B2",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "translate-challenge",
+    "turkishSentence": "Yoğun bir günün ardından kahve içmek gibisi yok.",
+    "level": "B2",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "translate-challenge",
+    "turkishSentence": "İnternetten aldığım ayakkabılar ayağıma küçük geldiği için iade ettim.",
+    "level": "B2",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "translate-challenge",
+    "turkishSentence": "Akşam misafir geleceği için evi hızlıca temizlemem gerekiyor.",
+    "level": "B2",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "translate-challenge",
+    "turkishSentence": "Kültürel zenginliklerimizi gelecek nesillere aktarmak her birimizin asli görevidir.",
+    "level": "C1",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "translate-challenge",
+    "turkishSentence": "İş hayatındaki başarısını, her koşulda sergilediği disiplinli çalışmasına borçludur.",
+    "level": "C1",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "translate-challenge",
+    "turkishSentence": "Doğayla baş başa kalıp kafamı dinlemek için hafta sonu yola çıkıyorum.",
+    "level": "C1",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "translate-challenge",
+    "turkishSentence": "Fırsatları zamanında değerlendiremezseniz, son pişmanlık ne yazık ki fayda etmez.",
+    "level": "C1",
+    "footerHandle": "@rawi.turkish"
+  }
+]

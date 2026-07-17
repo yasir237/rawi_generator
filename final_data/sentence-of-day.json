@@ -1,0 +1,1009 @@
+[
+  {
+    "type": "sentence-of-day",
+    "turkish": "Merhaba!",
+    "arabic": "مرحباً!",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Merhaba, nasılsın?", "arabic": "مرحباً، كيف حالك؟" },
+      { "turkish": "Merhaba, hoş geldin.", "arabic": "مرحباً، أهلاً وسهلاً." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Günaydın!",
+    "arabic": "صباح الخير!",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Günaydın, iyi uyudun mu?", "arabic": "صباح الخير، هل نمت جيداً؟" },
+      { "turkish": "Günaydın, kahve içelim mi?", "arabic": "صباح الخير، هل نشرب قهوة؟" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "İyi akşamlar.",
+    "arabic": "مساء الخير.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "İyi akşamlar, günün nasıldı?", "arabic": "مساء الخير، كيف كان يومك؟" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "İyi geceler.",
+    "arabic": "تصبح على خير.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "İyi geceler, tatlı rüyalar.", "arabic": "تصبح على خير، أحلاماً سعيدة." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Nasılsın?",
+    "arabic": "كيف حالك؟",
+    "sectionTitle": "الردود الشائعة",
+    "items": [
+      { "turkish": "İyiyim, teşekkürler.", "arabic": "بخير، شكراً." },
+      { "turkish": "Fena değil.", "arabic": "لست سيئاً." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Adın ne?",
+    "arabic": "ما اسمك؟",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Benim adım Yasir.", "arabic": "اسمي ياسر." },
+      { "turkish": "Adım Ayşe.", "arabic": "اسمي عائشة." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Benim adım Ahmet.",
+    "arabic": "اسمي أحمد.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Memnun oldum, Ahmet.", "arabic": "تشرفت بمعرفتك يا أحمد." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Memnun oldum.",
+    "arabic": "تشرفت بمعرفتك.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Ben de memnun oldum.", "arabic": "وأنا أيضاً تشرفت." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Görüşürüz.",
+    "arabic": "أراك لاحقاً.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Görüşmek üzere.", "arabic": "إلى اللقاء." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Hoşça kal.",
+    "arabic": "مع السلامة.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Güle güle.", "arabic": "مع السلامة (رد)." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Naber?",
+    "arabic": "شو أخبارك؟",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "İyilik, senden?", "arabic": "بخير، وأنت؟" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Ne haber?",
+    "arabic": "ما الأخبار؟",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Yeni bir şey yok.", "arabic": "لا جديد." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Bir çay lütfen.",
+    "arabic": "شاي واحد من فضلك.",
+    "sectionTitle": "في المقهى",
+    "items": [
+      { "turkish": "Şekerli mi, şekersiz mi?", "arabic": "بالسكر أم بدون؟" },
+      { "turkish": "Hemen geliyor.", "arabic": "حالاً يأتي." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Hesap lütfen.",
+    "arabic": "الحساب من فضلك.",
+    "sectionTitle": "في المطعم",
+    "items": [
+      { "turkish": "Tabii, hemen getiriyorum.", "arabic": "بالتأكيد، أحضره حالاً." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Afiyet olsun.",
+    "arabic": "بالهنا والشفا.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Sağ ol, sana da.", "arabic": "شكراً، ولك أيضاً." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Çok lezzetli!",
+    "arabic": "لذيذ جداً!",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Değil mi? Ben de sevdim.", "arabic": "أليس كذلك؟ أنا أيضاً أحببته." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Su içer misin?",
+    "arabic": "هل تشرب ماءً؟",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Evet, lütfen.", "arabic": "نعم، من فضلك." },
+      { "turkish": "Hayır, teşekkürler.", "arabic": "لا، شكراً." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Ben açım.",
+    "arabic": "أنا جائع.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Hadi bir şeyler yiyelim.", "arabic": "هيا نأكل شيئاً." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Ben susadım.",
+    "arabic": "أنا عطشان.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Sana su getireyim.", "arabic": "سأحضر لك ماءً." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Bu ne kadar?",
+    "arabic": "كم سعر هذا؟",
+    "sectionTitle": "في المتجر",
+    "items": [
+      { "turkish": "Elli lira.", "arabic": "خمسون ليرة." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Menü var mı?",
+    "arabic": "هل يوجد قائمة طعام؟",
+    "sectionTitle": "في المطعم",
+    "items": [
+      { "turkish": "Evet, buyurun.", "arabic": "نعم، تفضل." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Tatlı istiyorum.",
+    "arabic": "أريد حلوى.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Baklava var, ister misin?", "arabic": "يوجد بقلاوة، هل تريد؟" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Kahvaltı hazır.",
+    "arabic": "الفطور جاهز.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Hemen geliyorum.", "arabic": "قادم حالاً." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Bu çok tatlı.",
+    "arabic": "هذا حلو جداً.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Az şekerli olanı da var.", "arabic": "يوجد أيضاً قليل السكر." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Bu kaç para?",
+    "arabic": "كم ثمن هذا؟",
+    "sectionTitle": "في التسوق",
+    "items": [
+      { "turkish": "Yüz lira.", "arabic": "مئة ليرة." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Çok pahalı.",
+    "arabic": "غالٍ جداً.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Biraz indirim yapar mısınız?", "arabic": "هل يمكن تخفيض قليل؟" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "İndirim var mı?",
+    "arabic": "هل يوجد تخفيض؟",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Evet, yüzde yirmi.", "arabic": "نعم، عشرون بالمئة." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Bunu alıyorum.",
+    "arabic": "سآخذ هذا.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "İyi seçim.", "arabic": "اختيار جيد." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Kart geçerli mi?",
+    "arabic": "هل البطاقة مقبولة؟",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Evet, geçerli.", "arabic": "نعم، مقبولة." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Poşet lütfen.",
+    "arabic": "كيس من فضلك.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Buyurun.", "arabic": "تفضل." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Başka renk var mı?",
+    "arabic": "هل يوجد لون آخر؟",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Maalesef, sadece bu var.", "arabic": "للأسف، هذا فقط موجود." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Deneyebilir miyim?",
+    "arabic": "هل يمكنني التجربة؟",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Tabii, buyurun.", "arabic": "بالتأكيد، تفضل." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Ucuz olan hangisi?",
+    "arabic": "أيهما أرخص؟",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Bu daha ucuz.", "arabic": "هذا أرخص." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Nakit ödeyeceğim.",
+    "arabic": "سأدفع نقداً.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Tamam, sorun değil.", "arabic": "حسناً، لا مشكلة." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Hava çok güzel.",
+    "arabic": "الجو جميل جداً.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Evet, dışarı çıkalım.", "arabic": "نعم، لنخرج." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Bugün çok sıcak.",
+    "arabic": "اليوم حار جداً.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Su içmeyi unutma.", "arabic": "لا تنسَ شرب الماء." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Hava soğuk.",
+    "arabic": "الجو بارد.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Mont giyelim.", "arabic": "لنلبس معطفاً." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Yağmur yağıyor.",
+    "arabic": "إنها تمطر.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Şemsiyeni al.", "arabic": "خذ مظلتك." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Kar yağıyor.",
+    "arabic": "إنه يثلج.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Ne kadar güzel!", "arabic": "ما أجمل هذا!" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Rüzgar var.",
+    "arabic": "هناك رياح.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Kapıyı kapat.", "arabic": "أغلق الباب." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Hava bulutlu.",
+    "arabic": "الجو غائم.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Yağmur yağabilir.", "arabic": "قد تمطر." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Güneş açtı.",
+    "arabic": "أشرقت الشمس.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Ne güzel bir gün!", "arabic": "يا له من يوم جميل!" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Saat kaç?",
+    "arabic": "كم الساعة؟",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Saat üç.", "arabic": "الساعة الثالثة." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Bugün ne gün?",
+    "arabic": "ما هو يوم اليوم؟",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Bugün Pazartesi.", "arabic": "اليوم الاثنين." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Yarın görüşürüz.",
+    "arabic": "أراك غداً.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Tamam, görüşürüz.", "arabic": "حسناً، أراك." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Şimdi çok meşgulüm.",
+    "arabic": "أنا مشغول جداً الآن.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Sonra konuşalım.", "arabic": "لنتحدث لاحقاً." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Vaktim yok.",
+    "arabic": "ليس لدي وقت.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Anlıyorum, sorun değil.", "arabic": "أفهم، لا مشكلة." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Erken kalktım.",
+    "arabic": "استيقظت مبكراً.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Neden bu kadar erken?", "arabic": "لماذا مبكراً هكذا؟" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Geç kaldım.",
+    "arabic": "تأخرت.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Acele et!", "arabic": "أسرع!" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Bekle lütfen.",
+    "arabic": "انتظر من فضلك.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Tamam, bekliyorum.", "arabic": "حسناً، أنتظر." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Hemen geliyorum.",
+    "arabic": "قادم حالاً.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Seni bekliyorum.", "arabic": "أنا في انتظارك." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Ne zaman başlıyor?",
+    "arabic": "متى يبدأ؟",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Saat dokuzda.", "arabic": "في الساعة التاسعة." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Bu benim annem.",
+    "arabic": "هذه أمي.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Memnun oldum.", "arabic": "تشرفت بمعرفتها." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Bu benim babam.",
+    "arabic": "هذا أبي.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Memnun oldum.", "arabic": "تشرفت بمعرفته." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Kardeşim var.",
+    "arabic": "لدي أخ.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Kaç kardeşin var?", "arabic": "كم عدد إخوتك؟" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Ailem büyük.",
+    "arabic": "عائلتي كبيرة.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Ne kadar güzel!", "arabic": "ما أجمل ذلك!" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Çocuğun var mı?",
+    "arabic": "هل لديك أطفال؟",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Evet, iki çocuğum var.", "arabic": "نعم، لدي طفلان." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Eşim çalışıyor.",
+    "arabic": "زوجي/زوجتي يعمل.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Nerede çalışıyor?", "arabic": "أين يعمل؟" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Dedem emekli.",
+    "arabic": "جدي متقاعد.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Şimdi ne yapıyor?", "arabic": "ماذا يفعل الآن؟" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Teyzemi seviyorum.",
+    "arabic": "أحب خالتي.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "O çok iyi biri.", "arabic": "هي إنسانة طيبة جداً." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Ben mutluyum.",
+    "arabic": "أنا سعيد.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Ben de mutluyum.", "arabic": "وأنا أيضاً سعيد." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Ben üzgünüm.",
+    "arabic": "أنا حزين.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Neden üzgünsün?", "arabic": "لماذا أنت حزين؟" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Yorgunum.",
+    "arabic": "أنا متعب.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Biraz dinlen.", "arabic": "استرح قليلاً." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Heyecanlıyım.",
+    "arabic": "أنا متحمس.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Neden heyecanlısın?", "arabic": "لماذا أنت متحمس؟" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Korkuyorum.",
+    "arabic": "أنا خائف.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Korkma, ben buradayım.", "arabic": "لا تخف، أنا هنا." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Sinirliyim.",
+    "arabic": "أنا منزعج.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Sakin ol.", "arabic": "اهدأ." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "İyi hissediyorum.",
+    "arabic": "أشعر أني بخير.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Sevindim.", "arabic": "سررت لسماع ذلك." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Kendimi kötü hissediyorum.",
+    "arabic": "أشعر بالسوء.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Geçmiş olsun.", "arabic": "سلامتك." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Merak ediyorum.",
+    "arabic": "أنا فضولي.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Ne merak ediyorsun?", "arabic": "ما الذي تتساءل عنه؟" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Şaşırdım.",
+    "arabic": "تفاجأت.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Neden şaşırdın?", "arabic": "لماذا تفاجأت؟" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Nerede?",
+    "arabic": "أين؟",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Orada, sağda.", "arabic": "هناك، على اليمين." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Sağa dön.",
+    "arabic": "انعطف يميناً.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Tamam, döndüm.", "arabic": "حسناً، انعطفت." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Sola dön.",
+    "arabic": "انعطف يساراً.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Anlaşıldı.", "arabic": "فهمت." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Düz git.",
+    "arabic": "اذهب مباشرة.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Ne kadar uzağa?", "arabic": "إلى أي مدى؟" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Yakın mı?",
+    "arabic": "هل هو قريب؟",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Evet, çok yakın.", "arabic": "نعم، قريب جداً." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Uzak mı?",
+    "arabic": "هل هو بعيد؟",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Biraz uzak.", "arabic": "بعيد قليلاً." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Otobüs durağı nerede?",
+    "arabic": "أين موقف الحافلة؟",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Köşede.", "arabic": "عند الزاوية." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Buradan nasıl giderim?",
+    "arabic": "كيف أذهب من هنا؟",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Düz gidin, sonra sola dönün.", "arabic": "اذهب مباشرة ثم انعطف يساراً." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Sağda.",
+    "arabic": "على اليمين.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Teşekkürler.", "arabic": "شكراً." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Solda.",
+    "arabic": "على اليسار.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Anladım, teşekkürler.", "arabic": "فهمت، شكراً." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Nerede çalışıyorsun?",
+    "arabic": "أين تعمل؟",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Bir şirkette çalışıyorum.", "arabic": "أعمل في شركة." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Öğrenciyim.",
+    "arabic": "أنا طالب.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Hangi okulda okuyorsun?", "arabic": "في أي مدرسة تدرس؟" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Ödevim var.",
+    "arabic": "لدي واجب.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Yardım ister misin?", "arabic": "هل تريد مساعدة؟" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Sınavım var.",
+    "arabic": "لدي امتحان.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Başarılar!", "arabic": "بالتوفيق!" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Toplantım var.",
+    "arabic": "لدي اجتماع.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Saat kaçta?", "arabic": "في أي ساعة؟" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "İşe gidiyorum.",
+    "arabic": "أنا ذاهب إلى العمل.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "İyi günler.", "arabic": "يوماً سعيداً." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Yorucu bir gün.",
+    "arabic": "يوم متعب.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Biraz dinlen.", "arabic": "استرح قليلاً." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Yeni bir iş buldum.",
+    "arabic": "وجدت عملاً جديداً.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Tebrikler!", "arabic": "مبروك!" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Patronum çok iyi.",
+    "arabic": "مديري جيد جداً.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Ne kadar şanslısın!", "arabic": "ما أحظاك!" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Mesai bitti.",
+    "arabic": "انتهى الدوام.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "İyi akşamlar.", "arabic": "مساء الخير." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Hastayım.",
+    "arabic": "أنا مريض.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Geçmiş olsun.", "arabic": "سلامتك." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Başım ağrıyor.",
+    "arabic": "رأسي يؤلمني.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "İlaç almalısın.", "arabic": "يجب أن تأخذ دواءً." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Doktor lazım.",
+    "arabic": "أحتاج طبيباً.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Seni hastaneye götüreyim.", "arabic": "دعني آخذك إلى المستشفى." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "İyileştim.",
+    "arabic": "تعافيت.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Çok sevindim!", "arabic": "سررت كثيراً!" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "İlaç aldım.",
+    "arabic": "أخذت دواءً.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Umarım iyileşirsin.", "arabic": "أتمنى لك الشفاء." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Ateşim var.",
+    "arabic": "لدي حمى.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Dinlenmen lazım.", "arabic": "تحتاج للراحة." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Çok iyiyim.",
+    "arabic": "أنا بخير جداً.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Ne güzel haber!", "arabic": "يا لها من أخبار جميلة!" }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Dinlenmem lazım.",
+    "arabic": "أحتاج للراحة.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Haklısın, biraz uyu.", "arabic": "أنت محق، نم قليلاً." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Karnım ağrıyor.",
+    "arabic": "بطني تؤلمني.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Doktora gitmelisin.", "arabic": "يجب أن تذهب للطبيب." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "sentence-of-day",
+    "turkish": "Geçmiş olsun.",
+    "arabic": "سلامتك.",
+    "sectionTitle": "ردود شائعة",
+    "items": [
+      { "turkish": "Teşekkür ederim.", "arabic": "شكراً لك." },
+      { "turkish": "Allah razı olsun.", "arabic": "الله يرضى عنك." }
+    ],
+    "footerHandle": "@rawi.turkish"
+  }
+]

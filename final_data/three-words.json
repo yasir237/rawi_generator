@@ -1,0 +1,2602 @@
+[
+  {
+    "type": "three-words",
+    "title": "كلمات التحية",
+    "badge": "أول كلمات تتعلمها",
+    "footerHandle": "@rawi.turkish",
+    "background": "aurora",
+    "tip": "استخدمها أول ما تلتقي بأحد",
+    "teaImage": "/assets/three-words/greeting.png",
+    "words": [
+      {
+        "turkish": "Merhaba",
+        "arabic": "مرحباً",
+        "icon": "hand"
+      },
+      {
+        "turkish": "Selam",
+        "arabic": "أهلاً",
+        "icon": "smile"
+      },
+      {
+        "turkish": "Günaydın",
+        "arabic": "صباح الخير",
+        "icon": "sunrise"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "كلمات الوداع",
+    "badge": "قبل ما تفارقهم",
+    "footerHandle": "@rawi.turkish",
+    "background": "orbit",
+    "tip": "قلها بابتسامة وأنت تودّعهم",
+    "teaImage": "/assets/three-words/farewell.png",
+    "words": [
+      {
+        "turkish": "Hoşça kal",
+        "arabic": "مع السلامة",
+        "icon": "waving-hand"
+      },
+      {
+        "turkish": "Görüşürüz",
+        "arabic": "إلى اللقاء",
+        "icon": "refresh-cw"
+      },
+      {
+        "turkish": "İyi geceler",
+        "arabic": "تصبح على خير",
+        "icon": "moon"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "كلمات الشكر",
+    "badge": "لا تنسَ تستخدمها",
+    "footerHandle": "@rawi.turkish",
+    "background": "waves",
+    "tip": "الشكر يفتح لك قلوب الناس",
+    "teaImage": "/assets/three-words/thanks.png",
+    "words": [
+      {
+        "turkish": "Teşekkürler",
+        "arabic": "شكراً",
+        "icon": "heart"
+      },
+      {
+        "turkish": "Sağol",
+        "arabic": "الله يسلمك",
+        "icon": "smile"
+      },
+      {
+        "turkish": "Minnettarım",
+        "arabic": "أنا ممتن",
+        "icon": "hand-heart"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "كلمات الاعتذار",
+    "badge": "لما تحتاج تعتذر",
+    "footerHandle": "@rawi.turkish",
+    "background": "dots",
+    "tip": "الاعتذار الصادق يقرّب الناس",
+    "teaImage": "/assets/three-words/apology.png",
+    "words": [
+      {
+        "turkish": "Özür dilerim",
+        "arabic": "أنا آسف",
+        "icon": "frown"
+      },
+      {
+        "turkish": "Affedersiniz",
+        "arabic": "المعذرة",
+        "icon": "alert-circle"
+      },
+      {
+        "turkish": "Kusura bakma",
+        "arabic": "لا تؤاخذني",
+        "icon": "meh"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أفراد العائلة",
+    "badge": "كلمات تستخدمها كل يوم",
+    "footerHandle": "@rawi.turkish",
+    "background": "swoosh",
+    "tip": "احفظها أول شيء عن عائلتك",
+    "teaImage": "/assets/three-words/family.png",
+    "words": [
+      {
+        "turkish": "Anne",
+        "arabic": "أم",
+        "icon": "user"
+      },
+      {
+        "turkish": "Baba",
+        "arabic": "أب",
+        "icon": "user"
+      },
+      {
+        "turkish": "Kardeş",
+        "arabic": "أخ / أخت",
+        "icon": "users"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "العائلة الكبيرة",
+    "badge": "الجدّ والجدّة",
+    "footerHandle": "@rawi.turkish",
+    "background": "aurora",
+    "tip": "مهمة لما تتكلم عن عائلتك الممتدة",
+    "teaImage": "/assets/three-words/grandparents.png",
+    "words": [
+      {
+        "turkish": "Dede",
+        "arabic": "جد",
+        "icon": "user"
+      },
+      {
+        "turkish": "Nine",
+        "arabic": "جدة",
+        "icon": "user"
+      },
+      {
+        "turkish": "Amca",
+        "arabic": "عم",
+        "icon": "user"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أقارب العائلة",
+    "badge": "العمة والخال",
+    "footerHandle": "@rawi.turkish",
+    "background": "orbit",
+    "tip": "توسّع دائرة مفرداتك العائلية",
+    "teaImage": "/assets/three-words/relatives.png",
+    "words": [
+      {
+        "turkish": "Teyze",
+        "arabic": "خالة",
+        "icon": "user"
+      },
+      {
+        "turkish": "Hala",
+        "arabic": "عمة",
+        "icon": "user"
+      },
+      {
+        "turkish": "Dayı",
+        "arabic": "خال",
+        "icon": "user"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "الألوان الأساسية",
+    "badge": "أول ألوان تتعلمها",
+    "footerHandle": "@rawi.turkish",
+    "background": "waves",
+    "tip": "استخدمها لوصف أي شيء حولك",
+    "teaImage": "/assets/three-words/colors-primary.png",
+    "words": [
+      {
+        "turkish": "Kırmızı",
+        "arabic": "أحمر",
+        "icon": "palette"
+      },
+      {
+        "turkish": "Mavi",
+        "arabic": "أزرق",
+        "icon": "droplet"
+      },
+      {
+        "turkish": "Yeşil",
+        "arabic": "أخضر",
+        "icon": "leaf"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "ألوان إضافية",
+    "badge": "وسّع مفرداتك اللونية",
+    "footerHandle": "@rawi.turkish",
+    "background": "dots",
+    "tip": "جرّب تصف ملابسك بهذه الألوان",
+    "teaImage": "/assets/three-words/colors-secondary.png",
+    "words": [
+      {
+        "turkish": "Sarı",
+        "arabic": "أصفر",
+        "icon": "sun"
+      },
+      {
+        "turkish": "Siyah",
+        "arabic": "أسود",
+        "icon": "circle"
+      },
+      {
+        "turkish": "Beyaz",
+        "arabic": "أبيض",
+        "icon": "circle"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "ألوان جديدة",
+    "badge": "ألوان تراها كثيراً",
+    "footerHandle": "@rawi.turkish",
+    "background": "swoosh",
+    "tip": "طبّقها على أشياء من حولك",
+    "teaImage": "/assets/three-words/colors-third.png",
+    "words": [
+      {
+        "turkish": "Turuncu",
+        "arabic": "برتقالي",
+        "icon": "sun"
+      },
+      {
+        "turkish": "Mor",
+        "arabic": "بنفسجي",
+        "icon": "palette"
+      },
+      {
+        "turkish": "Pembe",
+        "arabic": "وردي",
+        "icon": "heart"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "الأرقام 1-3",
+    "badge": "أول أرقام تتعلمها",
+    "footerHandle": "@rawi.turkish",
+    "background": "aurora",
+    "tip": "احفظها بالترتيب",
+    "teaImage": "/assets/three-words/numbers-1.png",
+    "words": [
+      {
+        "turkish": "Bir",
+        "arabic": "واحد",
+        "icon": "hash"
+      },
+      {
+        "turkish": "İki",
+        "arabic": "اثنان",
+        "icon": "hash"
+      },
+      {
+        "turkish": "Üç",
+        "arabic": "ثلاثة",
+        "icon": "hash"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "الأرقام 4-6",
+    "badge": "كمّل عد الأرقام",
+    "footerHandle": "@rawi.turkish",
+    "background": "orbit",
+    "tip": "استخدمها في العد اليومي",
+    "teaImage": "/assets/three-words/numbers-2.png",
+    "words": [
+      {
+        "turkish": "Dört",
+        "arabic": "أربعة",
+        "icon": "hash"
+      },
+      {
+        "turkish": "Beş",
+        "arabic": "خمسة",
+        "icon": "hash"
+      },
+      {
+        "turkish": "Altı",
+        "arabic": "ستة",
+        "icon": "hash"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "الأرقام 7-9",
+    "badge": "قرّبنا من العشرة",
+    "footerHandle": "@rawi.turkish",
+    "background": "waves",
+    "tip": "راجع الأرقام السابقة معها",
+    "teaImage": "/assets/three-words/numbers-3.png",
+    "words": [
+      {
+        "turkish": "Yedi",
+        "arabic": "سبعة",
+        "icon": "hash"
+      },
+      {
+        "turkish": "Sekiz",
+        "arabic": "ثمانية",
+        "icon": "hash"
+      },
+      {
+        "turkish": "Dokuz",
+        "arabic": "تسعة",
+        "icon": "hash"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أرقام العشرات",
+    "badge": "10 و20 و30",
+    "footerHandle": "@rawi.turkish",
+    "background": "dots",
+    "tip": "مفيدة في الأسعار والأعمار",
+    "teaImage": "/assets/three-words/numbers-tens.png",
+    "words": [
+      {
+        "turkish": "On",
+        "arabic": "عشرة",
+        "icon": "hash"
+      },
+      {
+        "turkish": "Yirmi",
+        "arabic": "عشرون",
+        "icon": "hash"
+      },
+      {
+        "turkish": "Otuz",
+        "arabic": "ثلاثون",
+        "icon": "hash"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أرقام كبيرة",
+    "badge": "مئة وألف ومليون",
+    "footerHandle": "@rawi.turkish",
+    "background": "swoosh",
+    "tip": "تحتاجها في الأرقام الكبيرة",
+    "teaImage": "/assets/three-words/numbers-big.png",
+    "words": [
+      {
+        "turkish": "Yüz",
+        "arabic": "مئة",
+        "icon": "hash"
+      },
+      {
+        "turkish": "Bin",
+        "arabic": "ألف",
+        "icon": "hash"
+      },
+      {
+        "turkish": "Milyon",
+        "arabic": "مليون",
+        "icon": "hash"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "كلمات الطعام",
+    "badge": "أساسيات المائدة التركية",
+    "footerHandle": "@rawi.turkish",
+    "background": "aurora",
+    "tip": "جرّب تطلبها في أول مطعم تركي",
+    "teaImage": "/assets/three-words/food-basics.png",
+    "words": [
+      {
+        "turkish": "Ekmek",
+        "arabic": "خبز",
+        "icon": "wheat"
+      },
+      {
+        "turkish": "Peynir",
+        "arabic": "جبنة",
+        "icon": "square"
+      },
+      {
+        "turkish": "Zeytin",
+        "arabic": "زيتون",
+        "icon": "circle"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أطباق رئيسية",
+    "badge": "أشهر الأطباق التركية",
+    "footerHandle": "@rawi.turkish",
+    "background": "orbit",
+    "tip": "لازم تعرفها قبل ما تطلب أكلك",
+    "teaImage": "/assets/three-words/food-mains.png",
+    "words": [
+      {
+        "turkish": "Et",
+        "arabic": "لحم",
+        "icon": "beef"
+      },
+      {
+        "turkish": "Tavuk",
+        "arabic": "دجاج",
+        "icon": "drumstick"
+      },
+      {
+        "turkish": "Balık",
+        "arabic": "سمك",
+        "icon": "fish"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أطباق جانبية",
+    "badge": "تكمّل وجبتك التركية",
+    "footerHandle": "@rawi.turkish",
+    "background": "waves",
+    "tip": "جربها مع الطبق الرئيسي",
+    "teaImage": "/assets/three-words/food-sides.png",
+    "words": [
+      {
+        "turkish": "Pilav",
+        "arabic": "أرز",
+        "icon": "utensils"
+      },
+      {
+        "turkish": "Çorba",
+        "arabic": "شوربة",
+        "icon": "soup"
+      },
+      {
+        "turkish": "Salata",
+        "arabic": "سلطة",
+        "icon": "salad"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "المشروبات",
+    "badge": "أشهر المشروبات في تركيا",
+    "footerHandle": "@rawi.turkish",
+    "background": "dots",
+    "tip": "الشاي التركي لازم تجربه",
+    "teaImage": "/assets/three-words/drinks-basics.png",
+    "words": [
+      {
+        "turkish": "Su",
+        "arabic": "ماء",
+        "icon": "droplet"
+      },
+      {
+        "turkish": "Çay",
+        "arabic": "شاي",
+        "icon": "cup"
+      },
+      {
+        "turkish": "Kahve",
+        "arabic": "قهوة",
+        "icon": "coffee"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "مشروبات أخرى",
+    "badge": "وسّع خياراتك من المشروبات",
+    "footerHandle": "@rawi.turkish",
+    "background": "swoosh",
+    "tip": "جربها في وجبة الفطور",
+    "teaImage": "/assets/three-words/drinks-more.png",
+    "words": [
+      {
+        "turkish": "Süt",
+        "arabic": "حليب",
+        "icon": "milk"
+      },
+      {
+        "turkish": "Ayran",
+        "arabic": "عيران",
+        "icon": "cup"
+      },
+      {
+        "turkish": "Meyve suyu",
+        "arabic": "عصير فواكه",
+        "icon": "cup-soda"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "الفواكه",
+    "badge": "فواكه تراها في كل سوق",
+    "footerHandle": "@rawi.turkish",
+    "background": "aurora",
+    "tip": "اطلبها بثقة من البائع",
+    "teaImage": "/assets/three-words/fruits-1.png",
+    "words": [
+      {
+        "turkish": "Elma",
+        "arabic": "تفاح",
+        "icon": "apple"
+      },
+      {
+        "turkish": "Muz",
+        "arabic": "موز",
+        "icon": "banana"
+      },
+      {
+        "turkish": "Portakal",
+        "arabic": "برتقال",
+        "icon": "citrus"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "فواكه صيفية",
+    "badge": "منعشة في الصيف التركي",
+    "footerHandle": "@rawi.turkish",
+    "background": "orbit",
+    "tip": "جربها في فصل الصيف",
+    "teaImage": "/assets/three-words/fruits-2.png",
+    "words": [
+      {
+        "turkish": "Üzüm",
+        "arabic": "عنب",
+        "icon": "grape"
+      },
+      {
+        "turkish": "Çilek",
+        "arabic": "فراولة",
+        "icon": "cherry"
+      },
+      {
+        "turkish": "Karpuz",
+        "arabic": "بطيخ",
+        "icon": "circle"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "الخضروات",
+    "badge": "خضار تستخدم يومياً",
+    "footerHandle": "@rawi.turkish",
+    "background": "waves",
+    "tip": "أساسية في المطبخ التركي",
+    "teaImage": "/assets/three-words/vegetables.png",
+    "words": [
+      {
+        "turkish": "Domates",
+        "arabic": "طماطم",
+        "icon": "apple"
+      },
+      {
+        "turkish": "Patates",
+        "arabic": "بطاطا",
+        "icon": "circle"
+      },
+      {
+        "turkish": "Salatalık",
+        "arabic": "خيار",
+        "icon": "leaf"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "الحيوانات الأليفة",
+    "badge": "حيوانات تراها في البيت والشارع",
+    "footerHandle": "@rawi.turkish",
+    "background": "dots",
+    "tip": "كلمات محببة للأطفال أيضاً",
+    "teaImage": "/assets/three-words/animals-pets.png",
+    "words": [
+      {
+        "turkish": "Kedi",
+        "arabic": "قطة",
+        "icon": "cat"
+      },
+      {
+        "turkish": "Köpek",
+        "arabic": "كلب",
+        "icon": "dog"
+      },
+      {
+        "turkish": "Kuş",
+        "arabic": "طائر",
+        "icon": "bird"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "حيوانات المزرعة",
+    "badge": "حيوانات تراها في الريف",
+    "footerHandle": "@rawi.turkish",
+    "background": "swoosh",
+    "tip": "مفيدة لو زرت قرية تركية",
+    "teaImage": "/assets/three-words/animals-farm.png",
+    "words": [
+      {
+        "turkish": "At",
+        "arabic": "حصان",
+        "icon": "rabbit"
+      },
+      {
+        "turkish": "İnek",
+        "arabic": "بقرة",
+        "icon": "beef"
+      },
+      {
+        "turkish": "Koyun",
+        "arabic": "خروف",
+        "icon": "cloud"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أجزاء الجسم",
+    "badge": "أساسيات جسم الإنسان",
+    "footerHandle": "@rawi.turkish",
+    "background": "aurora",
+    "tip": "مهمة لو احتجت طبيب",
+    "teaImage": "/assets/three-words/body-1.png",
+    "words": [
+      {
+        "turkish": "Baş",
+        "arabic": "رأس",
+        "icon": "circle"
+      },
+      {
+        "turkish": "El",
+        "arabic": "يد",
+        "icon": "hand"
+      },
+      {
+        "turkish": "Ayak",
+        "arabic": "قدم",
+        "icon": "footprints"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أجزاء الوجه",
+    "badge": "تفاصيل الوجه",
+    "footerHandle": "@rawi.turkish",
+    "background": "orbit",
+    "tip": "استخدمها في وصف شخص",
+    "teaImage": "/assets/three-words/body-2.png",
+    "words": [
+      {
+        "turkish": "Göz",
+        "arabic": "عين",
+        "icon": "eye"
+      },
+      {
+        "turkish": "Kulak",
+        "arabic": "أذن",
+        "icon": "ear"
+      },
+      {
+        "turkish": "Burun",
+        "arabic": "أنف",
+        "icon": "triangle"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "الملابس",
+    "badge": "قطع أساسية في خزانتك",
+    "footerHandle": "@rawi.turkish",
+    "background": "waves",
+    "tip": "تحتاجها وأنت تتسوق",
+    "teaImage": "/assets/three-words/clothes-1.png",
+    "words": [
+      {
+        "turkish": "Gömlek",
+        "arabic": "قميص",
+        "icon": "shirt"
+      },
+      {
+        "turkish": "Pantolon",
+        "arabic": "بنطال",
+        "icon": "square"
+      },
+      {
+        "turkish": "Elbise",
+        "arabic": "فستان",
+        "icon": "shirt"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "ملابس إضافية",
+    "badge": "أكمل إطلالتك بها",
+    "footerHandle": "@rawi.turkish",
+    "background": "dots",
+    "tip": "مفيدة في محلات الملابس",
+    "teaImage": "/assets/three-words/clothes-2.png",
+    "words": [
+      {
+        "turkish": "Ayakkabı",
+        "arabic": "حذاء",
+        "icon": "footprints"
+      },
+      {
+        "turkish": "Çorap",
+        "arabic": "جوارب",
+        "icon": "layers"
+      },
+      {
+        "turkish": "Ceket",
+        "arabic": "جاكيت",
+        "icon": "shirt"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أثاث المنزل",
+    "badge": "قطع أساسية في كل بيت",
+    "footerHandle": "@rawi.turkish",
+    "background": "swoosh",
+    "tip": "استخدمها وأنت تصف بيتك",
+    "teaImage": "/assets/three-words/furniture-1.png",
+    "words": [
+      {
+        "turkish": "Masa",
+        "arabic": "طاولة",
+        "icon": "square"
+      },
+      {
+        "turkish": "Sandalye",
+        "arabic": "كرسي",
+        "icon": "armchair"
+      },
+      {
+        "turkish": "Yatak",
+        "arabic": "سرير",
+        "icon": "bed"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أثاث إضافي",
+    "badge": "زوايا مهمة في البيت",
+    "footerHandle": "@rawi.turkish",
+    "background": "aurora",
+    "tip": "تكمل وصف غرفتك",
+    "teaImage": "/assets/three-words/furniture-2.png",
+    "words": [
+      {
+        "turkish": "Koltuk",
+        "arabic": "أريكة",
+        "icon": "sofa"
+      },
+      {
+        "turkish": "Dolap",
+        "arabic": "خزانة",
+        "icon": "archive"
+      },
+      {
+        "turkish": "Ayna",
+        "arabic": "مرآة",
+        "icon": "square"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أدوات المطبخ",
+    "badge": "لازمة لك كل وجبة",
+    "footerHandle": "@rawi.turkish",
+    "background": "orbit",
+    "tip": "استخدمها وأنت تجهز الطاولة",
+    "teaImage": "/assets/three-words/kitchen-1.png",
+    "words": [
+      {
+        "turkish": "Tabak",
+        "arabic": "طبق",
+        "icon": "circle"
+      },
+      {
+        "turkish": "Bardak",
+        "arabic": "كوب",
+        "icon": "cup"
+      },
+      {
+        "turkish": "Kaşık",
+        "arabic": "ملعقة",
+        "icon": "utensils"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أدوات مطبخ أخرى",
+    "badge": "تكمل مستلزمات المطبخ",
+    "footerHandle": "@rawi.turkish",
+    "background": "waves",
+    "tip": "مفيدة وأنت تطبخ",
+    "teaImage": "/assets/three-words/kitchen-2.png",
+    "words": [
+      {
+        "turkish": "Çatal",
+        "arabic": "شوكة",
+        "icon": "utensils"
+      },
+      {
+        "turkish": "Bıçak",
+        "arabic": "سكين",
+        "icon": "utensils"
+      },
+      {
+        "turkish": "Tencere",
+        "arabic": "قدر",
+        "icon": "cooking-pot"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "حالة الطقس",
+    "badge": "صف الجو بثقة",
+    "footerHandle": "@rawi.turkish",
+    "background": "dots",
+    "tip": "تحتاجها كل يوم تقريباً",
+    "teaImage": "/assets/three-words/weather-1.png",
+    "words": [
+      {
+        "turkish": "Güneşli",
+        "arabic": "مشمس",
+        "icon": "sun"
+      },
+      {
+        "turkish": "Yağmurlu",
+        "arabic": "ممطر",
+        "icon": "cloud-rain"
+      },
+      {
+        "turkish": "Rüzgarlı",
+        "arabic": "عاصف",
+        "icon": "wind"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "طقس إضافي",
+    "badge": "أوصاف أخرى للطقس",
+    "footerHandle": "@rawi.turkish",
+    "background": "swoosh",
+    "tip": "مفيدة في الأيام الباردة",
+    "teaImage": "/assets/three-words/weather-2.png",
+    "words": [
+      {
+        "turkish": "Karlı",
+        "arabic": "مثلج",
+        "icon": "snowflake"
+      },
+      {
+        "turkish": "Bulutlu",
+        "arabic": "غائم",
+        "icon": "cloud"
+      },
+      {
+        "turkish": "Sisli",
+        "arabic": "ضبابي",
+        "icon": "cloud-fog"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "فصول السنة",
+    "badge": "ثلاثة من الفصول الأربعة",
+    "footerHandle": "@rawi.turkish",
+    "background": "aurora",
+    "tip": "لكل فصل جماله الخاص",
+    "teaImage": "/assets/three-words/seasons-1.png",
+    "words": [
+      {
+        "turkish": "İlkbahar",
+        "arabic": "الربيع",
+        "icon": "flower"
+      },
+      {
+        "turkish": "Yaz",
+        "arabic": "الصيف",
+        "icon": "sun"
+      },
+      {
+        "turkish": "Sonbahar",
+        "arabic": "الخريف",
+        "icon": "leaf"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "فصل الشتاء",
+    "badge": "كلمات عن البرد والثلج",
+    "footerHandle": "@rawi.turkish",
+    "background": "orbit",
+    "tip": "استعد لها قبل زيارتك الشتوية",
+    "teaImage": "/assets/three-words/winter.png",
+    "words": [
+      {
+        "turkish": "Kış",
+        "arabic": "الشتاء",
+        "icon": "snowflake"
+      },
+      {
+        "turkish": "Kar",
+        "arabic": "ثلج",
+        "icon": "snowflake"
+      },
+      {
+        "turkish": "Soğuk",
+        "arabic": "بارد",
+        "icon": "thermometer"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أيام الأسبوع",
+    "badge": "أول ثلاثة أيام",
+    "footerHandle": "@rawi.turkish",
+    "background": "waves",
+    "tip": "احفظها بالترتيب من البداية",
+    "teaImage": "/assets/three-words/days-1.png",
+    "words": [
+      {
+        "turkish": "Pazartesi",
+        "arabic": "الاثنين",
+        "icon": "calendar"
+      },
+      {
+        "turkish": "Salı",
+        "arabic": "الثلاثاء",
+        "icon": "calendar"
+      },
+      {
+        "turkish": "Çarşamba",
+        "arabic": "الأربعاء",
+        "icon": "calendar"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أيام الأسبوع 2",
+    "badge": "منتصف الأسبوع",
+    "footerHandle": "@rawi.turkish",
+    "background": "dots",
+    "tip": "كمّل حفظ الأيام معها",
+    "teaImage": "/assets/three-words/days-2.png",
+    "words": [
+      {
+        "turkish": "Perşembe",
+        "arabic": "الخميس",
+        "icon": "calendar"
+      },
+      {
+        "turkish": "Cuma",
+        "arabic": "الجمعة",
+        "icon": "calendar"
+      },
+      {
+        "turkish": "Cumartesi",
+        "arabic": "السبت",
+        "icon": "calendar"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أيام مهمة",
+    "badge": "آخر يوم وكلمتان مفيدتان",
+    "footerHandle": "@rawi.turkish",
+    "background": "swoosh",
+    "tip": "استخدمها في التخطيط اليومي",
+    "teaImage": "/assets/three-words/days-3.png",
+    "words": [
+      {
+        "turkish": "Pazar",
+        "arabic": "الأحد",
+        "icon": "calendar"
+      },
+      {
+        "turkish": "Bugün",
+        "arabic": "اليوم",
+        "icon": "calendar-check"
+      },
+      {
+        "turkish": "Yarın",
+        "arabic": "غداً",
+        "icon": "calendar-plus"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أشهر السنة 1",
+    "badge": "أول ثلاثة أشهر",
+    "footerHandle": "@rawi.turkish",
+    "background": "aurora",
+    "tip": "ابدأ حفظ الأشهر من هنا",
+    "teaImage": "/assets/three-words/months-1.png",
+    "words": [
+      {
+        "turkish": "Ocak",
+        "arabic": "يناير",
+        "icon": "calendar"
+      },
+      {
+        "turkish": "Şubat",
+        "arabic": "فبراير",
+        "icon": "calendar"
+      },
+      {
+        "turkish": "Mart",
+        "arabic": "مارس",
+        "icon": "calendar"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أشهر السنة 2",
+    "badge": "أشهر الربيع",
+    "footerHandle": "@rawi.turkish",
+    "background": "orbit",
+    "tip": "استمر بترتيب الأشهر",
+    "teaImage": "/assets/three-words/months-2.png",
+    "words": [
+      {
+        "turkish": "Nisan",
+        "arabic": "أبريل",
+        "icon": "calendar"
+      },
+      {
+        "turkish": "Mayıs",
+        "arabic": "مايو",
+        "icon": "calendar"
+      },
+      {
+        "turkish": "Haziran",
+        "arabic": "يونيو",
+        "icon": "calendar"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أشهر السنة 3",
+    "badge": "أشهر الصيف",
+    "footerHandle": "@rawi.turkish",
+    "background": "waves",
+    "tip": "أشهر تركيا الأكثر حرارة",
+    "teaImage": "/assets/three-words/months-3.png",
+    "words": [
+      {
+        "turkish": "Temmuz",
+        "arabic": "يوليو",
+        "icon": "calendar"
+      },
+      {
+        "turkish": "Ağustos",
+        "arabic": "أغسطس",
+        "icon": "calendar"
+      },
+      {
+        "turkish": "Eylül",
+        "arabic": "سبتمبر",
+        "icon": "calendar"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أشهر السنة 4",
+    "badge": "آخر ثلاثة أشهر",
+    "footerHandle": "@rawi.turkish",
+    "background": "dots",
+    "tip": "أكمل حفظ السنة كاملة",
+    "teaImage": "/assets/three-words/months-4.png",
+    "words": [
+      {
+        "turkish": "Ekim",
+        "arabic": "أكتوبر",
+        "icon": "calendar"
+      },
+      {
+        "turkish": "Kasım",
+        "arabic": "نوفمبر",
+        "icon": "calendar"
+      },
+      {
+        "turkish": "Aralık",
+        "arabic": "ديسمبر",
+        "icon": "calendar"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "المهن الشائعة",
+    "badge": "مهن تصادفها كثيراً",
+    "footerHandle": "@rawi.turkish",
+    "background": "swoosh",
+    "tip": "استخدمها وأنت تعرّف عن نفسك",
+    "teaImage": "/assets/three-words/jobs-1.png",
+    "words": [
+      {
+        "turkish": "Doktor",
+        "arabic": "طبيب",
+        "icon": "stethoscope"
+      },
+      {
+        "turkish": "Öğretmen",
+        "arabic": "معلم",
+        "icon": "book-open"
+      },
+      {
+        "turkish": "Mühendis",
+        "arabic": "مهندس",
+        "icon": "wrench"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "مهن إضافية",
+    "badge": "وسّع معرفتك بالمهن",
+    "footerHandle": "@rawi.turkish",
+    "background": "aurora",
+    "tip": "مفيدة في الحديث عن العمل",
+    "teaImage": "/assets/three-words/jobs-2.png",
+    "words": [
+      {
+        "turkish": "Avukat",
+        "arabic": "محامي",
+        "icon": "scale"
+      },
+      {
+        "turkish": "Polis",
+        "arabic": "شرطي",
+        "icon": "shield"
+      },
+      {
+        "turkish": "Aşçı",
+        "arabic": "طباخ",
+        "icon": "chef-hat"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "التعبير عن المشاعر",
+    "badge": "أساسيات المشاعر",
+    "footerHandle": "@rawi.turkish",
+    "background": "orbit",
+    "tip": "مهمة جداً في أي محادثة",
+    "teaImage": "/assets/three-words/emotions-1.png",
+    "words": [
+      {
+        "turkish": "Mutlu",
+        "arabic": "سعيد",
+        "icon": "smile"
+      },
+      {
+        "turkish": "Üzgün",
+        "arabic": "حزين",
+        "icon": "frown"
+      },
+      {
+        "turkish": "Kızgın",
+        "arabic": "غاضب",
+        "icon": "angry"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "مشاعر إضافية",
+    "badge": "وسّع تعبيرك عن حالتك",
+    "footerHandle": "@rawi.turkish",
+    "background": "waves",
+    "tip": "استخدمها لما يسألونك كيف حالك",
+    "teaImage": "/assets/three-words/emotions-2.png",
+    "words": [
+      {
+        "turkish": "Yorgun",
+        "arabic": "متعب",
+        "icon": "battery-low"
+      },
+      {
+        "turkish": "Heyecanlı",
+        "arabic": "متحمس",
+        "icon": "zap"
+      },
+      {
+        "turkish": "Şaşkın",
+        "arabic": "مندهش",
+        "icon": "alert-circle"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "وسائل النقل",
+    "badge": "كيف تتنقل في المدينة",
+    "footerHandle": "@rawi.turkish",
+    "background": "dots",
+    "tip": "مفيدة لو حجزت رحلة",
+    "teaImage": "/assets/three-words/transport-1.png",
+    "words": [
+      {
+        "turkish": "Araba",
+        "arabic": "سيارة",
+        "icon": "car"
+      },
+      {
+        "turkish": "Otobüs",
+        "arabic": "حافلة",
+        "icon": "bus"
+      },
+      {
+        "turkish": "Uçak",
+        "arabic": "طائرة",
+        "icon": "plane"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "وسائل نقل أخرى",
+    "badge": "خيارات تنقل إضافية",
+    "footerHandle": "@rawi.turkish",
+    "background": "swoosh",
+    "tip": "جربها في رحلتك القادمة",
+    "teaImage": "/assets/three-words/transport-2.png",
+    "words": [
+      {
+        "turkish": "Tren",
+        "arabic": "قطار",
+        "icon": "train-front"
+      },
+      {
+        "turkish": "Gemi",
+        "arabic": "سفينة",
+        "icon": "ship"
+      },
+      {
+        "turkish": "Bisiklet",
+        "arabic": "دراجة",
+        "icon": "bike"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "كلمات المدينة",
+    "badge": "أساسيات الحياة في المدينة",
+    "footerHandle": "@rawi.turkish",
+    "background": "aurora",
+    "tip": "تحتاجها وأنت تتجول",
+    "teaImage": "/assets/three-words/city.png",
+    "words": [
+      {
+        "turkish": "Şehir",
+        "arabic": "مدينة",
+        "icon": "building-2"
+      },
+      {
+        "turkish": "Sokak",
+        "arabic": "شارع",
+        "icon": "route"
+      },
+      {
+        "turkish": "Meydan",
+        "arabic": "ميدان",
+        "icon": "map-pin"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "عناصر الطبيعة",
+    "badge": "جمال الطبيعة بكلمات بسيطة",
+    "footerHandle": "@rawi.turkish",
+    "background": "orbit",
+    "tip": "استخدمها في وصف المناظر",
+    "teaImage": "/assets/three-words/nature-1.png",
+    "words": [
+      {
+        "turkish": "Ağaç",
+        "arabic": "شجرة",
+        "icon": "tree-pine"
+      },
+      {
+        "turkish": "Çiçek",
+        "arabic": "زهرة",
+        "icon": "flower"
+      },
+      {
+        "turkish": "Deniz",
+        "arabic": "بحر",
+        "icon": "waves"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "طبيعة إضافية",
+    "badge": "المزيد من عناصر الطبيعة",
+    "footerHandle": "@rawi.turkish",
+    "background": "waves",
+    "tip": "مفيدة في رحلات الطبيعة",
+    "teaImage": "/assets/three-words/nature-2.png",
+    "words": [
+      {
+        "turkish": "Dağ",
+        "arabic": "جبل",
+        "icon": "mountain"
+      },
+      {
+        "turkish": "Nehir",
+        "arabic": "نهر",
+        "icon": "waves"
+      },
+      {
+        "turkish": "Göl",
+        "arabic": "بحيرة",
+        "icon": "droplet"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أجهزة التكنولوجيا",
+    "badge": "أدوات لا يمكن الاستغناء عنها",
+    "footerHandle": "@rawi.turkish",
+    "background": "dots",
+    "tip": "استخدمها في حياتك اليومية",
+    "teaImage": "/assets/three-words/tech-1.png",
+    "words": [
+      {
+        "turkish": "Telefon",
+        "arabic": "هاتف",
+        "icon": "smartphone"
+      },
+      {
+        "turkish": "Bilgisayar",
+        "arabic": "حاسوب",
+        "icon": "laptop"
+      },
+      {
+        "turkish": "İnternet",
+        "arabic": "إنترنت",
+        "icon": "wifi"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "تكنولوجيا إضافية",
+    "badge": "أجهزة إضافية شائعة",
+    "footerHandle": "@rawi.turkish",
+    "background": "swoosh",
+    "tip": "مفيدة عند شراء الإلكترونيات",
+    "teaImage": "/assets/three-words/tech-2.png",
+    "words": [
+      {
+        "turkish": "Televizyon",
+        "arabic": "تلفاز",
+        "icon": "tv"
+      },
+      {
+        "turkish": "Kamera",
+        "arabic": "كاميرا",
+        "icon": "camera"
+      },
+      {
+        "turkish": "Kulaklık",
+        "arabic": "سماعة",
+        "icon": "headphones"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "الرياضة",
+    "badge": "أشهر الرياضات",
+    "footerHandle": "@rawi.turkish",
+    "background": "aurora",
+    "tip": "مثالية لو تحب تتكلم عن الرياضة",
+    "teaImage": "/assets/three-words/sports.png",
+    "words": [
+      {
+        "turkish": "Futbol",
+        "arabic": "كرة القدم",
+        "icon": "goal"
+      },
+      {
+        "turkish": "Basketbol",
+        "arabic": "كرة السلة",
+        "icon": "circle"
+      },
+      {
+        "turkish": "Yüzme",
+        "arabic": "السباحة",
+        "icon": "waves"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "كلمات المدرسة",
+    "badge": "أساسيات الحياة الدراسية",
+    "footerHandle": "@rawi.turkish",
+    "background": "orbit",
+    "tip": "مفيدة لو كنت طالباً",
+    "teaImage": "/assets/three-words/school-1.png",
+    "words": [
+      {
+        "turkish": "Okul",
+        "arabic": "مدرسة",
+        "icon": "school"
+      },
+      {
+        "turkish": "Öğrenci",
+        "arabic": "طالب",
+        "icon": "graduation-cap"
+      },
+      {
+        "turkish": "Kitap",
+        "arabic": "كتاب",
+        "icon": "book"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أدوات المدرسة",
+    "badge": "أدوات تحتاجها في الفصل",
+    "footerHandle": "@rawi.turkish",
+    "background": "waves",
+    "tip": "لا تنسَ إحضارها معك",
+    "teaImage": "/assets/three-words/school-2.png",
+    "words": [
+      {
+        "turkish": "Kalem",
+        "arabic": "قلم",
+        "icon": "pencil"
+      },
+      {
+        "turkish": "Defter",
+        "arabic": "دفتر",
+        "icon": "notebook"
+      },
+      {
+        "turkish": "Sınıf",
+        "arabic": "صف",
+        "icon": "school"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "تعابير زمنية",
+    "badge": "قبل وبعد والآن",
+    "footerHandle": "@rawi.turkish",
+    "background": "dots",
+    "tip": "مفيدة في ترتيب الأحداث",
+    "teaImage": "/assets/three-words/time-1.png",
+    "words": [
+      {
+        "turkish": "Şimdi",
+        "arabic": "الآن",
+        "icon": "clock"
+      },
+      {
+        "turkish": "Sonra",
+        "arabic": "بعد ذلك",
+        "icon": "clock-3"
+      },
+      {
+        "turkish": "Önce",
+        "arabic": "قبل ذلك",
+        "icon": "clock-9"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أوقات اليوم",
+    "badge": "الصباح والظهر والمساء",
+    "footerHandle": "@rawi.turkish",
+    "background": "swoosh",
+    "tip": "استخدمها في تحديد المواعيد",
+    "teaImage": "/assets/three-words/time-2.png",
+    "words": [
+      {
+        "turkish": "Sabah",
+        "arabic": "صباح",
+        "icon": "sunrise"
+      },
+      {
+        "turkish": "Öğle",
+        "arabic": "ظهر",
+        "icon": "sun"
+      },
+      {
+        "turkish": "Akşam",
+        "arabic": "مساء",
+        "icon": "sunset"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أدوات السؤال",
+    "badge": "ماذا وأين ومتى",
+    "footerHandle": "@rawi.turkish",
+    "background": "aurora",
+    "tip": "أساسية لتكوين أي سؤال",
+    "teaImage": "/assets/three-words/questions-1.png",
+    "words": [
+      {
+        "turkish": "Ne",
+        "arabic": "ماذا",
+        "icon": "help-circle"
+      },
+      {
+        "turkish": "Nerede",
+        "arabic": "أين",
+        "icon": "map-pin"
+      },
+      {
+        "turkish": "Ne zaman",
+        "arabic": "متى",
+        "icon": "clock"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أدوات سؤال أخرى",
+    "badge": "من وكيف ولماذا",
+    "footerHandle": "@rawi.turkish",
+    "background": "orbit",
+    "tip": "تكمل أدوات السؤال",
+    "teaImage": "/assets/three-words/questions-2.png",
+    "words": [
+      {
+        "turkish": "Kim",
+        "arabic": "من",
+        "icon": "user"
+      },
+      {
+        "turkish": "Nasıl",
+        "arabic": "كيف",
+        "icon": "help-circle"
+      },
+      {
+        "turkish": "Neden",
+        "arabic": "لماذا",
+        "icon": "help-circle"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "كلمات الاتجاهات",
+    "badge": "يمين ويسار ومستقيم",
+    "footerHandle": "@rawi.turkish",
+    "background": "waves",
+    "tip": "تحتاجها وأنت تسأل عن الطريق",
+    "teaImage": "/assets/three-words/directions-1.png",
+    "words": [
+      {
+        "turkish": "Sağ",
+        "arabic": "يمين",
+        "icon": "arrow-right"
+      },
+      {
+        "turkish": "Sol",
+        "arabic": "يسار",
+        "icon": "arrow-left"
+      },
+      {
+        "turkish": "Düz",
+        "arabic": "مستقيم",
+        "icon": "arrow-up"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "اتجاهات إضافية",
+    "badge": "فوق وتحت ومقابل",
+    "footerHandle": "@rawi.turkish",
+    "background": "dots",
+    "tip": "مفيدة في وصف الأماكن",
+    "teaImage": "/assets/three-words/directions-2.png",
+    "words": [
+      {
+        "turkish": "Yukarı",
+        "arabic": "فوق",
+        "icon": "arrow-up"
+      },
+      {
+        "turkish": "Aşağı",
+        "arabic": "تحت",
+        "icon": "arrow-down"
+      },
+      {
+        "turkish": "Karşı",
+        "arabic": "مقابل",
+        "icon": "move-horizontal"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "كلمات التسوق",
+    "badge": "أساسيات التسوق",
+    "footerHandle": "@rawi.turkish",
+    "background": "swoosh",
+    "tip": "تحتاجها في كل محل",
+    "teaImage": "/assets/three-words/shopping-1.png",
+    "words": [
+      {
+        "turkish": "Para",
+        "arabic": "نقود",
+        "icon": "banknote"
+      },
+      {
+        "turkish": "Fiyat",
+        "arabic": "سعر",
+        "icon": "tag"
+      },
+      {
+        "turkish": "İndirim",
+        "arabic": "تخفيض",
+        "icon": "percent"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "تسوق إضافي",
+    "badge": "أكمل تجربة التسوق",
+    "footerHandle": "@rawi.turkish",
+    "background": "aurora",
+    "tip": "مفيدة عند الدفع",
+    "teaImage": "/assets/three-words/shopping-2.png",
+    "words": [
+      {
+        "turkish": "Mağaza",
+        "arabic": "متجر",
+        "icon": "store"
+      },
+      {
+        "turkish": "Kasa",
+        "arabic": "صندوق الدفع",
+        "icon": "credit-card"
+      },
+      {
+        "turkish": "Fatura",
+        "arabic": "فاتورة",
+        "icon": "receipt"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "في المطعم",
+    "badge": "كلمات تحتاجها وأنت تطلب أكلك",
+    "footerHandle": "@rawi.turkish",
+    "background": "orbit",
+    "tip": "استخدمها عند زيارتك القادمة لمطعم",
+    "teaImage": "/assets/three-words/restaurant.png",
+    "words": [
+      {
+        "turkish": "Menü",
+        "arabic": "قائمة الطعام",
+        "icon": "book-open"
+      },
+      {
+        "turkish": "Garson",
+        "arabic": "نادل",
+        "icon": "user"
+      },
+      {
+        "turkish": "Hesap",
+        "arabic": "الحساب",
+        "icon": "receipt"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "كلمات السفر",
+    "badge": "أساسيات لأي مسافر",
+    "footerHandle": "@rawi.turkish",
+    "background": "waves",
+    "tip": "لا تسافر بدون حفظها",
+    "teaImage": "/assets/three-words/travel-1.png",
+    "words": [
+      {
+        "turkish": "Bavul",
+        "arabic": "حقيبة سفر",
+        "icon": "luggage"
+      },
+      {
+        "turkish": "Pasaport",
+        "arabic": "جواز سفر",
+        "icon": "book"
+      },
+      {
+        "turkish": "Bilet",
+        "arabic": "تذكرة",
+        "icon": "ticket"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "سفر إضافي",
+    "badge": "تكمل رحلتك بثقة",
+    "footerHandle": "@rawi.turkish",
+    "background": "dots",
+    "tip": "مفيدة عند حجز رحلتك",
+    "teaImage": "/assets/three-words/travel-2.png",
+    "words": [
+      {
+        "turkish": "Otel",
+        "arabic": "فندق",
+        "icon": "building"
+      },
+      {
+        "turkish": "Havalimanı",
+        "arabic": "مطار",
+        "icon": "plane"
+      },
+      {
+        "turkish": "Rezervasyon",
+        "arabic": "حجز",
+        "icon": "calendar-check"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "كلمات العلاقات",
+    "badge": "أشخاص مهمون في حياتك",
+    "footerHandle": "@rawi.turkish",
+    "background": "swoosh",
+    "tip": "استخدمها وأنت تتكلم عن الناس حولك",
+    "teaImage": "/assets/three-words/relationships.png",
+    "words": [
+      {
+        "turkish": "Arkadaş",
+        "arabic": "صديق",
+        "icon": "users"
+      },
+      {
+        "turkish": "Sevgili",
+        "arabic": "حبيب",
+        "icon": "heart"
+      },
+      {
+        "turkish": "Eş",
+        "arabic": "زوج / زوجة",
+        "icon": "heart-handshake"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "كلمات صحية",
+    "badge": "مفيدة في حالات الطوارئ",
+    "footerHandle": "@rawi.turkish",
+    "background": "aurora",
+    "tip": "احفظها احتياطاً لأي موقف صحي",
+    "teaImage": "/assets/three-words/health-1.png",
+    "words": [
+      {
+        "turkish": "Ateş",
+        "arabic": "حمى",
+        "icon": "thermometer"
+      },
+      {
+        "turkish": "İlaç",
+        "arabic": "دواء",
+        "icon": "pill"
+      },
+      {
+        "turkish": "Hastane",
+        "arabic": "مستشفى",
+        "icon": "hospital"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "صحة إضافية",
+    "badge": "أعراض شائعة",
+    "footerHandle": "@rawi.turkish",
+    "background": "orbit",
+    "tip": "مفيدة عند زيارة الصيدلية",
+    "teaImage": "/assets/three-words/health-2.png",
+    "words": [
+      {
+        "turkish": "Baş ağrısı",
+        "arabic": "صداع",
+        "icon": "brain"
+      },
+      {
+        "turkish": "Grip",
+        "arabic": "إنفلونزا",
+        "icon": "thermometer"
+      },
+      {
+        "turkish": "Reçete",
+        "arabic": "وصفة طبية",
+        "icon": "file-text"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "الهوايات",
+    "badge": "كيف تقضي وقت فراغك",
+    "footerHandle": "@rawi.turkish",
+    "background": "waves",
+    "tip": "شارك هوايتك مع أصدقائك الجدد",
+    "teaImage": "/assets/three-words/hobbies-1.png",
+    "words": [
+      {
+        "turkish": "Müzik",
+        "arabic": "موسيقى",
+        "icon": "music"
+      },
+      {
+        "turkish": "Resim",
+        "arabic": "رسم",
+        "icon": "palette"
+      },
+      {
+        "turkish": "Dans",
+        "arabic": "رقص",
+        "icon": "music-2"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "هوايات إضافية",
+    "badge": "أنشطة ممتعة أخرى",
+    "footerHandle": "@rawi.turkish",
+    "background": "dots",
+    "tip": "جرّب واحدة منها هذا الأسبوع",
+    "teaImage": "/assets/three-words/hobbies-2.png",
+    "words": [
+      {
+        "turkish": "Kitap okumak",
+        "arabic": "القراءة",
+        "icon": "book-open"
+      },
+      {
+        "turkish": "Yüzmek",
+        "arabic": "السباحة",
+        "icon": "waves"
+      },
+      {
+        "turkish": "Yürüyüş",
+        "arabic": "المشي",
+        "icon": "footprints"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "كلمات السينما",
+    "badge": "لمحبي الأفلام",
+    "footerHandle": "@rawi.turkish",
+    "background": "swoosh",
+    "tip": "استخدمها وأنت تناقش فيلمك المفضل",
+    "teaImage": "/assets/three-words/cinema.png",
+    "words": [
+      {
+        "turkish": "Film",
+        "arabic": "فيلم",
+        "icon": "clapperboard"
+      },
+      {
+        "turkish": "Sahne",
+        "arabic": "مشهد",
+        "icon": "film"
+      },
+      {
+        "turkish": "Oyuncu",
+        "arabic": "ممثل",
+        "icon": "user"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "كلمات الموسيقى",
+    "badge": "لمحبي الغناء والألحان",
+    "footerHandle": "@rawi.turkish",
+    "background": "aurora",
+    "tip": "شارك أغنيتك المفضلة بهذه الكلمات",
+    "teaImage": "/assets/three-words/music.png",
+    "words": [
+      {
+        "turkish": "Şarkı",
+        "arabic": "أغنية",
+        "icon": "music"
+      },
+      {
+        "turkish": "Şarkıcı",
+        "arabic": "مغني",
+        "icon": "mic"
+      },
+      {
+        "turkish": "Enstrüman",
+        "arabic": "آلة موسيقية",
+        "icon": "music-2"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "ظواهر طبيعية",
+    "badge": "مشاهد تستحق التوقف عندها",
+    "footerHandle": "@rawi.turkish",
+    "background": "orbit",
+    "tip": "التقط صورة لها إن حالفك الحظ",
+    "teaImage": "/assets/three-words/phenomena.png",
+    "words": [
+      {
+        "turkish": "Yıldırım",
+        "arabic": "برق",
+        "icon": "zap"
+      },
+      {
+        "turkish": "Gökkuşağı",
+        "arabic": "قوس قزح",
+        "icon": "rainbow"
+      },
+      {
+        "turkish": "Fırtına",
+        "arabic": "عاصفة",
+        "icon": "cloud-lightning"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "وحدات الوقت",
+    "badge": "الساعة والدقيقة والثانية",
+    "footerHandle": "@rawi.turkish",
+    "background": "waves",
+    "tip": "أساسية لمعرفة الوقت بدقة",
+    "teaImage": "/assets/three-words/time-units.png",
+    "words": [
+      {
+        "turkish": "Saat",
+        "arabic": "ساعة",
+        "icon": "clock"
+      },
+      {
+        "turkish": "Dakika",
+        "arabic": "دقيقة",
+        "icon": "timer"
+      },
+      {
+        "turkish": "Saniye",
+        "arabic": "ثانية",
+        "icon": "timer"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "وحدات القياس",
+    "badge": "الكيلو والمتر واللتر",
+    "footerHandle": "@rawi.turkish",
+    "background": "dots",
+    "tip": "تحتاجها في السوق كثيراً",
+    "teaImage": "/assets/three-words/measures.png",
+    "words": [
+      {
+        "turkish": "Kilo",
+        "arabic": "كيلوغرام",
+        "icon": "weight"
+      },
+      {
+        "turkish": "Metre",
+        "arabic": "متر",
+        "icon": "ruler"
+      },
+      {
+        "turkish": "Litre",
+        "arabic": "لتر",
+        "icon": "droplet"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "صفات الحجم",
+    "badge": "كبير وصغير ومتوسط",
+    "footerHandle": "@rawi.turkish",
+    "background": "swoosh",
+    "tip": "استخدمها في وصف أي شيء",
+    "teaImage": "/assets/three-words/adjectives-size.png",
+    "words": [
+      {
+        "turkish": "Büyük",
+        "arabic": "كبير",
+        "icon": "maximize"
+      },
+      {
+        "turkish": "Küçük",
+        "arabic": "صغير",
+        "icon": "minimize"
+      },
+      {
+        "turkish": "Orta",
+        "arabic": "متوسط",
+        "icon": "square"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "صفات الجمال",
+    "badge": "جميل وقبيح وأنيق",
+    "footerHandle": "@rawi.turkish",
+    "background": "aurora",
+    "tip": "تكمل وصفك للأشياء والأشخاص",
+    "teaImage": "/assets/three-words/adjectives-look.png",
+    "words": [
+      {
+        "turkish": "Güzel",
+        "arabic": "جميل",
+        "icon": "sparkles"
+      },
+      {
+        "turkish": "Çirkin",
+        "arabic": "قبيح",
+        "icon": "frown"
+      },
+      {
+        "turkish": "Şık",
+        "arabic": "أنيق",
+        "icon": "shirt"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أفعال يومية",
+    "badge": "أفعال تستخدمها كل يوم",
+    "footerHandle": "@rawi.turkish",
+    "background": "orbit",
+    "tip": "أساس بناء أي جملة",
+    "teaImage": "/assets/three-words/verbs-1.png",
+    "words": [
+      {
+        "turkish": "Gitmek",
+        "arabic": "الذهاب",
+        "icon": "arrow-right"
+      },
+      {
+        "turkish": "Gelmek",
+        "arabic": "المجيء",
+        "icon": "arrow-left"
+      },
+      {
+        "turkish": "Yemek",
+        "arabic": "الأكل",
+        "icon": "utensils"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أفعال إضافية",
+    "badge": "وسّع مفرداتك من الأفعال",
+    "footerHandle": "@rawi.turkish",
+    "background": "waves",
+    "tip": "مفيدة في المحادثات اليومية",
+    "teaImage": "/assets/three-words/verbs-2.png",
+    "words": [
+      {
+        "turkish": "İçmek",
+        "arabic": "الشرب",
+        "icon": "cup"
+      },
+      {
+        "turkish": "Uyumak",
+        "arabic": "النوم",
+        "icon": "moon"
+      },
+      {
+        "turkish": "Koşmak",
+        "arabic": "الركض",
+        "icon": "footprints"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أفعال التواصل",
+    "badge": "التحدث والاستماع",
+    "footerHandle": "@rawi.turkish",
+    "background": "dots",
+    "tip": "أساسية لأي محادثة ناجحة",
+    "teaImage": "/assets/three-words/verbs-3.png",
+    "words": [
+      {
+        "turkish": "Konuşmak",
+        "arabic": "التحدث",
+        "icon": "message-circle"
+      },
+      {
+        "turkish": "Dinlemek",
+        "arabic": "الاستماع",
+        "icon": "ear"
+      },
+      {
+        "turkish": "Okumak",
+        "arabic": "القراءة",
+        "icon": "book-open"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أفعال إضافية 2",
+    "badge": "الكتابة والرؤية والمعرفة",
+    "footerHandle": "@rawi.turkish",
+    "background": "swoosh",
+    "tip": "تكمل قائمة أفعالك الأساسية",
+    "teaImage": "/assets/three-words/verbs-4.png",
+    "words": [
+      {
+        "turkish": "Yazmak",
+        "arabic": "الكتابة",
+        "icon": "pen"
+      },
+      {
+        "turkish": "Görmek",
+        "arabic": "الرؤية",
+        "icon": "eye"
+      },
+      {
+        "turkish": "Bilmek",
+        "arabic": "المعرفة",
+        "icon": "brain"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "سؤال عن الحال",
+    "badge": "كيف حالك وأجب عنها",
+    "footerHandle": "@rawi.turkish",
+    "background": "aurora",
+    "tip": "تُستخدم في بداية كل محادثة",
+    "teaImage": "/assets/three-words/how-are-you.png",
+    "words": [
+      {
+        "turkish": "Nasılsın",
+        "arabic": "كيف حالك",
+        "icon": "help-circle"
+      },
+      {
+        "turkish": "İyiyim",
+        "arabic": "أنا بخير",
+        "icon": "smile"
+      },
+      {
+        "turkish": "Sen nasılsın",
+        "arabic": "وأنت كيف حالك",
+        "icon": "message-circle"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "تعابير مهذبة",
+    "badge": "من فضلك وتفضل",
+    "footerHandle": "@rawi.turkish",
+    "background": "orbit",
+    "tip": "تُظهر احترامك في أي موقف",
+    "teaImage": "/assets/three-words/polite.png",
+    "words": [
+      {
+        "turkish": "Lütfen",
+        "arabic": "من فضلك",
+        "icon": "hand"
+      },
+      {
+        "turkish": "Buyrun",
+        "arabic": "تفضل",
+        "icon": "hand"
+      },
+      {
+        "turkish": "Rica ederim",
+        "arabic": "العفو",
+        "icon": "handshake"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "كلمات الحب",
+    "badge": "أساسيات للتعبير عن المشاعر",
+    "footerHandle": "@rawi.turkish",
+    "background": "waves",
+    "tip": "استخدمها مع من تحب",
+    "teaImage": "/assets/three-words/love.png",
+    "words": [
+      {
+        "turkish": "Aşk",
+        "arabic": "حب",
+        "icon": "heart"
+      },
+      {
+        "turkish": "Kalp",
+        "arabic": "قلب",
+        "icon": "heart"
+      },
+      {
+        "turkish": "Öpücük",
+        "arabic": "قبلة",
+        "icon": "heart"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "الأعياد والمناسبات",
+    "badge": "كلمات تستخدمها في الاحتفالات",
+    "footerHandle": "@rawi.turkish",
+    "background": "dots",
+    "tip": "قلها في أي مناسبة سعيدة",
+    "teaImage": "/assets/three-words/holidays.png",
+    "words": [
+      {
+        "turkish": "Bayram",
+        "arabic": "عيد",
+        "icon": "gift"
+      },
+      {
+        "turkish": "Kutlama",
+        "arabic": "احتفال",
+        "icon": "party-popper"
+      },
+      {
+        "turkish": "Hediye",
+        "arabic": "هدية",
+        "icon": "gift"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "عناصر السماء",
+    "badge": "الغيوم والنجوم والقمر",
+    "footerHandle": "@rawi.turkish",
+    "background": "swoosh",
+    "tip": "ارفع بصرك واستخدمها",
+    "teaImage": "/assets/three-words/sky-1.png",
+    "words": [
+      {
+        "turkish": "Bulut",
+        "arabic": "غيمة",
+        "icon": "cloud"
+      },
+      {
+        "turkish": "Yıldız",
+        "arabic": "نجمة",
+        "icon": "star"
+      },
+      {
+        "turkish": "Ay",
+        "arabic": "قمر",
+        "icon": "moon"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "عناصر الطبيعة 3",
+    "badge": "الشمس والسماء والتراب",
+    "footerHandle": "@rawi.turkish",
+    "background": "aurora",
+    "tip": "استخدمها في وصف يوم مشمس",
+    "teaImage": "/assets/three-words/sky-2.png",
+    "words": [
+      {
+        "turkish": "Güneş",
+        "arabic": "شمس",
+        "icon": "sun"
+      },
+      {
+        "turkish": "Gökyüzü",
+        "arabic": "سماء",
+        "icon": "cloud"
+      },
+      {
+        "turkish": "Toprak",
+        "arabic": "تراب",
+        "icon": "mountain"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "غرف المنزل",
+    "badge": "الصالة والمطبخ والحمام",
+    "footerHandle": "@rawi.turkish",
+    "background": "orbit",
+    "tip": "استخدمها وأنت تصف بيتك",
+    "teaImage": "/assets/three-words/rooms-1.png",
+    "words": [
+      {
+        "turkish": "Salon",
+        "arabic": "صالة",
+        "icon": "sofa"
+      },
+      {
+        "turkish": "Mutfak",
+        "arabic": "مطبخ",
+        "icon": "cooking-pot"
+      },
+      {
+        "turkish": "Banyo",
+        "arabic": "حمام",
+        "icon": "bath"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "غرف إضافية",
+    "badge": "غرفة النوم والحديقة والشرفة",
+    "footerHandle": "@rawi.turkish",
+    "background": "waves",
+    "tip": "تكمل جولتك في وصف البيت",
+    "teaImage": "/assets/three-words/rooms-2.png",
+    "words": [
+      {
+        "turkish": "Yatak odası",
+        "arabic": "غرفة نوم",
+        "icon": "bed"
+      },
+      {
+        "turkish": "Bahçe",
+        "arabic": "حديقة",
+        "icon": "flower"
+      },
+      {
+        "turkish": "Balkon",
+        "arabic": "شرفة",
+        "icon": "layout-panel-top"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "كلمات الفطور",
+    "badge": "طاولة الصباح التركية",
+    "footerHandle": "@rawi.turkish",
+    "background": "dots",
+    "tip": "جرب فطوراً تركياً أصيلاً",
+    "teaImage": "/assets/three-words/breakfast.png",
+    "words": [
+      {
+        "turkish": "Kahvaltı",
+        "arabic": "فطور",
+        "icon": "coffee"
+      },
+      {
+        "turkish": "Bal",
+        "arabic": "عسل",
+        "icon": "droplet"
+      },
+      {
+        "turkish": "Reçel",
+        "arabic": "مربى",
+        "icon": "jar"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "الحلويات التركية",
+    "badge": "أشهر الحلويات في تركيا",
+    "footerHandle": "@rawi.turkish",
+    "background": "swoosh",
+    "tip": "لازم تجربها وأنت في تركيا",
+    "teaImage": "/assets/three-words/desserts.png",
+    "words": [
+      {
+        "turkish": "Baklava",
+        "arabic": "بقلاوة",
+        "icon": "cake"
+      },
+      {
+        "turkish": "Lokum",
+        "arabic": "راحة الحلقوم",
+        "icon": "candy"
+      },
+      {
+        "turkish": "Dondurma",
+        "arabic": "آيس كريم",
+        "icon": "ice-cream-cone"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "البهارات الأساسية",
+    "badge": "نكهات المطبخ التركي",
+    "footerHandle": "@rawi.turkish",
+    "background": "aurora",
+    "tip": "استخدمها وأنت تطلب طبقك",
+    "teaImage": "/assets/three-words/spices.png",
+    "words": [
+      {
+        "turkish": "Tuz",
+        "arabic": "ملح",
+        "icon": "flask-conical"
+      },
+      {
+        "turkish": "Biber",
+        "arabic": "فلفل",
+        "icon": "flame"
+      },
+      {
+        "turkish": "Şeker",
+        "arabic": "سكر",
+        "icon": "candy"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "أقارب إضافيون",
+    "badge": "ابن العم والحفيد",
+    "footerHandle": "@rawi.turkish",
+    "background": "orbit",
+    "tip": "توسّع دائرة عائلتك بالكلمات",
+    "teaImage": "/assets/three-words/family-extra.png",
+    "words": [
+      {
+        "turkish": "Kuzen",
+        "arabic": "ابن العم / الخال",
+        "icon": "user"
+      },
+      {
+        "turkish": "Yeğen",
+        "arabic": "ابن الأخ / الأخت",
+        "icon": "user"
+      },
+      {
+        "turkish": "Torun",
+        "arabic": "حفيد",
+        "icon": "baby"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "تفاصيل الوجه 2",
+    "badge": "الشعر والوجه والرقبة",
+    "footerHandle": "@rawi.turkish",
+    "background": "waves",
+    "tip": "تكمل وصف شكل الشخص",
+    "teaImage": "/assets/three-words/body-3.png",
+    "words": [
+      {
+        "turkish": "Saç",
+        "arabic": "شعر",
+        "icon": "scissors"
+      },
+      {
+        "turkish": "Yüz",
+        "arabic": "وجه",
+        "icon": "smile"
+      },
+      {
+        "turkish": "Boyun",
+        "arabic": "رقبة",
+        "icon": "user"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "عبارات شائعة",
+    "badge": "ردود سريعة في أي محادثة",
+    "footerHandle": "@rawi.turkish",
+    "background": "dots",
+    "tip": "استخدمها للرد بسرعة وثقة",
+    "teaImage": "/assets/three-words/common-phrases.png",
+    "words": [
+      {
+        "turkish": "Elbette",
+        "arabic": "بالتأكيد",
+        "icon": "check"
+      },
+      {
+        "turkish": "Tabii ki",
+        "arabic": "طبعاً",
+        "icon": "check-circle"
+      },
+      {
+        "turkish": "Belki",
+        "arabic": "ربما",
+        "icon": "help-circle"
+      }
+    ]
+  },
+  {
+    "type": "three-words",
+    "title": "كلمات البيت",
+    "badge": "مفردات أساسية عن المنزل",
+    "footerHandle": "@rawi.turkish",
+    "background": "swoosh",
+    "tip": "استخدمها وأنت تصف مكان سكنك",
+    "teaImage": "/assets/three-words/home-basics.png",
+    "words": [
+      {
+        "turkish": "Ev",
+        "arabic": "بيت",
+        "icon": "home"
+      },
+      {
+        "turkish": "Kapı",
+        "arabic": "باب",
+        "icon": "door-open"
+      },
+      {
+        "turkish": "Pencere",
+        "arabic": "نافذة",
+        "icon": "square"
+      }
+    ]
+  }
+]

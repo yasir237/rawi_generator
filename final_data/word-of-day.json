@@ -1,0 +1,1002 @@
+[
+  {
+    "type": "word-of-day",
+    "turkish": "Merhaba",
+    "phonetic": "mer-ha-ba",
+    "translation": "مرحباً",
+    "usageEmoji": "👋",
+    "usageText": "تستخدم عند اللقاء",
+    "engagementQuestion": "💜 هل تعرف كلمة أجمل من Merhaba؟ اكتبها في التعليقات.",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Teşekkürler",
+    "phonetic": "te-şek-kür-ler",
+    "translation": "شكراً",
+    "usageEmoji": "🙏",
+    "usageText": "تستخدم لشكر أي شخص",
+    "engagementQuestion": "💜 جرّب تكتب جملة فيها Teşekkürler بالتعليقات.",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Lütfen",
+    "phonetic": "lüt-fen",
+    "translation": "من فضلك",
+    "usageEmoji": "🙏",
+    "usageText": "تستخدم عند طلب شيء بأدب",
+    "engagementQuestion": "💜 وين بتستخدم Lütfen أول ما توصل تركيا؟ خبرنا.",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Afiyet olsun",
+    "phonetic": "a-fi-yet ol-sun",
+    "translation": "بالهناء والشفاء",
+    "usageEmoji": "🍽️",
+    "usageText": "تُقال قبل أو بعد الأكل",
+    "engagementQuestion": "💜 شنو أكلتك التركية المفضلة؟ اكتبها بالتعليقات.",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Günaydın",
+    "phonetic": "gün-ay-dın",
+    "translation": "صباح الخير",
+    "usageEmoji": "☀️",
+    "usageText": "تستخدم بالصباح عند اللقاء",
+    "engagementQuestion": "💜 شلون تقول صباح الخير بلهجتك؟ شاركنا.",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "İyi geceler",
+    "phonetic": "i-yi ge-ce-ler",
+    "translation": "تصبح على خير",
+    "usageEmoji": "🌙",
+    "usageText": "تُقال قبل النوم",
+    "engagementQuestion": "💜 مين بتقولها له الليلة؟ 😄",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Nasılsın",
+    "phonetic": "na-sıl-sın",
+    "translation": "كيف حالك",
+    "usageEmoji": "😊",
+    "usageText": "تستخدم للسؤال عن حال شخص تعرفه",
+    "engagementQuestion": "💜 جاوب بالتركي: أنت اليوم Nasılsın؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Hoşça kal",
+    "phonetic": "hoş-ça kal",
+    "translation": "مع السلامة",
+    "usageEmoji": "👋",
+    "usageText": "يقولها الشخص المغادر عند الوداع",
+    "engagementQuestion": "💜 تعرف الرد الصح عليها؟ جاوب قبل ما نكتبه بالتعليقات!",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Güle güle",
+    "phonetic": "gü-le gü-le",
+    "translation": "مع السلامة",
+    "usageEmoji": "👋",
+    "usageText": "رد الشخص الباقي على من يودّعه",
+    "engagementQuestion": "💜 لاحظت الفرق بينها وبين Hoşça kal؟ خبرنا شلون فهمتها.",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Anlamadım",
+    "phonetic": "an-la-ma-dım",
+    "translation": "ما فهمت",
+    "usageEmoji": "🤔",
+    "usageText": "تستخدم لما ما تفهم كلام أحد",
+    "engagementQuestion": "💜 صارت وياك موقف احتجت تقول فيه Anlamadım؟ 😅",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Yardım",
+    "phonetic": "yar-dım",
+    "translation": "مساعدة",
+    "usageEmoji": "🆘",
+    "usageText": "تستخدم لطلب المساعدة",
+    "engagementQuestion": "💜 كوّن جملة فيها كلمة Yardım واكتبها بالتعليقات.",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Su",
+    "phonetic": "su",
+    "translation": "ماء",
+    "usageEmoji": "💧",
+    "usageText": "من أهم الكلمات اللي تحتاجها بأي مكان",
+    "engagementQuestion": "💜 شنو أول كلمة تركية تعلمتها بحياتك؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Ekmek",
+    "phonetic": "ek-mek",
+    "translation": "خبز",
+    "usageEmoji": "🍞",
+    "usageText": "تستخدم بالمطعم أو السوق",
+    "engagementQuestion": "💜 جربت الخبز التركي؟ شلون كان طعمه؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Sevgi",
+    "phonetic": "sev-gi",
+    "translation": "حب",
+    "usageEmoji": "❤️",
+    "usageText": "تستخدم للتعبير عن المشاعر الجميلة",
+    "engagementQuestion": "💜 اكتب جملة حلوة فيها Sevgi بالتعليقات.",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Aile",
+    "phonetic": "a-i-le",
+    "translation": "عائلة",
+    "usageEmoji": "👨‍👩‍👧",
+    "usageText": "تستخدم للحديث عن أفراد بيتك",
+    "engagementQuestion": "💜 شلون تقول \"عائلتي\" بالتركي؟ فكّر وجاوب.",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Arkadaş",
+    "phonetic": "ar-ka-daş",
+    "translation": "صديق",
+    "usageEmoji": "🤝",
+    "usageText": "تستخدم للحديث عن الأصدقاء",
+    "engagementQuestion": "💜 تاگ صديقك اللي يستاهل يشوف هالكلمة! 👇",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Bugün",
+    "phonetic": "bu-gün",
+    "translation": "اليوم",
+    "usageEmoji": "📅",
+    "usageText": "تستخدم للحديث عن الوقت الحاضر",
+    "engagementQuestion": "💜 شنو سويت Bugün؟ خبرنا بجملة وحدة.",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Yarın",
+    "phonetic": "ya-rın",
+    "translation": "غداً",
+    "usageEmoji": "📅",
+    "usageText": "تستخدم للحديث عن المستقبل القريب",
+    "engagementQuestion": "💜 شنو خططك ليوم Yarın؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Para",
+    "phonetic": "pa-ra",
+    "translation": "مال / نقود",
+    "usageEmoji": "💰",
+    "usageText": "تستخدم بالتسوق والمعاملات اليومية",
+    "engagementQuestion": "💜 شنو أول شي بتشتريه لو زرت تركيا؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Çok güzel",
+    "phonetic": "çok gü-zel",
+    "translation": "جميل جداً",
+    "usageEmoji": "😍",
+    "usageText": "تستخدم للتعبير عن الإعجاب بشيء",
+    "engagementQuestion": "💜 شنو آخر شي قلت عليه Çok güzel؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Evet",
+    "phonetic": "e-vet",
+    "translation": "نعم",
+    "usageEmoji": "✅",
+    "usageText": "تستخدم للموافقة على شي",
+    "engagementQuestion": "💜 شنو آخر مرة قلت فيها Evet بحماس؟ 😄",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Hayır",
+    "phonetic": "ha-yır",
+    "translation": "لا",
+    "usageEmoji": "❌",
+    "usageText": "تستخدم لرفض أو نفي شي",
+    "engagementQuestion": "💜 موقف قلت فيه Hayır وكان قرار صح؟ خبرنا.",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Özür dilerim",
+    "phonetic": "ö-zür di-le-rim",
+    "translation": "أعتذر",
+    "usageEmoji": "🙏",
+    "usageText": "تستخدم للاعتذار عن خطأ",
+    "engagementQuestion": "💜 صعب عليك تعتذر أحياناً؟ شاركنا رأيك.",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Rica ederim",
+    "phonetic": "ri-ca e-de-rim",
+    "translation": "عفواً (رد على الشكر)",
+    "usageEmoji": "😊",
+    "usageText": "تستخدم كرد على Teşekkürler",
+    "engagementQuestion": "💜 جرب تكتب حوار كامل: شكر ورد عليه بالتركي!",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Ne",
+    "phonetic": "ne",
+    "translation": "ماذا",
+    "usageEmoji": "❓",
+    "usageText": "تستخدم للسؤال عن شي",
+    "engagementQuestion": "💜 كوّن سؤال فيه Ne واكتبه بالتعليقات.",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Nerede",
+    "phonetic": "ne-re-de",
+    "translation": "أين",
+    "usageEmoji": "📍",
+    "usageText": "تستخدم للسؤال عن مكان",
+    "engagementQuestion": "💜 Nerede بتحب تقضي عطلتك القادمة؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Kim",
+    "phonetic": "kim",
+    "translation": "من",
+    "usageEmoji": "🙋",
+    "usageText": "تستخدم للسؤال عن شخص",
+    "engagementQuestion": "💜 Kim أكثر شخص علّمك تركي؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Nasıl",
+    "phonetic": "na-sıl",
+    "translation": "كيف",
+    "usageEmoji": "🤷",
+    "usageText": "تستخدم للسؤال عن طريقة عمل شي",
+    "engagementQuestion": "💜 Nasıl تعلمت أول كلمة تركية بحياتك؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Kaç",
+    "phonetic": "kaç",
+    "translation": "كم",
+    "usageEmoji": "🔢",
+    "usageText": "تستخدم للسؤال عن العدد أو الكمية",
+    "engagementQuestion": "💜 Kaç كلمة تركية تعرف لحد الآن؟ عدّها!",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Ev",
+    "phonetic": "ev",
+    "translation": "بيت",
+    "usageEmoji": "🏠",
+    "usageText": "تستخدم للحديث عن المنزل",
+    "engagementQuestion": "💜 وصف Ev أحلامك بجملة وحدة.",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Okul",
+    "phonetic": "o-kul",
+    "translation": "مدرسة",
+    "usageEmoji": "🏫",
+    "usageText": "تستخدم للحديث عن الدراسة",
+    "engagementQuestion": "💜 أحلى ذكرى من Okul أيام الدراسة؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Kitap",
+    "phonetic": "ki-tap",
+    "translation": "كتاب",
+    "usageEmoji": "📖",
+    "usageText": "تستخدم للحديث عن القراءة",
+    "engagementQuestion": "💜 شنو آخر Kitap قريته؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Zaman",
+    "phonetic": "za-man",
+    "translation": "وقت",
+    "usageEmoji": "⏰",
+    "usageText": "تستخدم للحديث عن الوقت بشكل عام",
+    "engagementQuestion": "💜 شلون تقضي Zaman فراغك؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Hafta",
+    "phonetic": "haf-ta",
+    "translation": "أسبوع",
+    "usageEmoji": "🗓️",
+    "usageText": "تستخدم للحديث عن الفترة الزمنية",
+    "engagementQuestion": "💜 شنو خططك لهذا Hafta؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Renk",
+    "phonetic": "renk",
+    "translation": "لون",
+    "usageEmoji": "🎨",
+    "usageText": "تستخدم للسؤال أو الحديث عن الألوان",
+    "engagementQuestion": "💜 شنو Renk المفضل عندك؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Bir",
+    "phonetic": "bir",
+    "translation": "واحد",
+    "usageEmoji": "1️⃣",
+    "usageText": "أول رقم بالتركي، تستخدم بالعد",
+    "engagementQuestion": "💜 عد وياي من Bir لحد On بالتعليقات!",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "İki",
+    "phonetic": "i-ki",
+    "translation": "اثنان",
+    "usageEmoji": "2️⃣",
+    "usageText": "تستخدم بالعد والأرقام",
+    "engagementQuestion": "💜 شنو أول شيء عندك İki منه؟ 😄",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Üç",
+    "phonetic": "üç",
+    "translation": "ثلاثة",
+    "usageEmoji": "3️⃣",
+    "usageText": "تستخدم بالعد والأرقام",
+    "engagementQuestion": "💜 شنو Üç أشياء تحبها بحياتك؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Dört",
+    "phonetic": "dört",
+    "translation": "أربعة",
+    "usageEmoji": "4️⃣",
+    "usageText": "تستخدم بالعد والأرقام",
+    "engagementQuestion": "💜 كم يوم بالأسبوع تشتغل؟ عدّها Dört لو أكثر!",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Beş",
+    "phonetic": "beş",
+    "translation": "خمسة",
+    "usageEmoji": "5️⃣",
+    "usageText": "تستخدم بالعد والأرقام",
+    "engagementQuestion": "💜 عدّ لنا لغاية Beş بالتركي بالتعليقات.",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Altı",
+    "phonetic": "al-tı",
+    "translation": "ستة",
+    "usageEmoji": "6️⃣",
+    "usageText": "تستخدم بالعد والأرقام",
+    "engagementQuestion": "💜 هل حفظت الأرقام لحد Altı؟ جرب!",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Yedi",
+    "phonetic": "ye-di",
+    "translation": "سبعة",
+    "usageEmoji": "7️⃣",
+    "usageText": "تستخدم بالعد والأرقام",
+    "engagementQuestion": "💜 كم ساعة تنام؟ قريبة من Yedi؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Sekiz",
+    "phonetic": "se-kiz",
+    "translation": "ثمانية",
+    "usageEmoji": "8️⃣",
+    "usageText": "تستخدم بالعد والأرقام",
+    "engagementQuestion": "💜 كم ساعة تشتغل باليوم؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Dokuz",
+    "phonetic": "do-kuz",
+    "translation": "تسعة",
+    "usageEmoji": "9️⃣",
+    "usageText": "تستخدم بالعد والأرقام",
+    "engagementQuestion": "💜 اقترب حفظك من Dokuz أرقام؟ كملها!",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "On",
+    "phonetic": "on",
+    "translation": "عشرة",
+    "usageEmoji": "🔟",
+    "usageText": "تستخدم بالعد والأرقام",
+    "engagementQuestion": "💜 مبروك! لو وصلت On تكون حفظت أول عشرة أرقام بالتركي 🎉",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Anne",
+    "phonetic": "an-ne",
+    "translation": "أم",
+    "usageEmoji": "👩",
+    "usageText": "تستخدم للحديث عن الأم",
+    "engagementQuestion": "💜 دزّ هالكلمة لـ Anne حقتك 💜",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Baba",
+    "phonetic": "ba-ba",
+    "translation": "أب",
+    "usageEmoji": "👨",
+    "usageText": "تستخدم للحديث عن الأب",
+    "engagementQuestion": "💜 شارك هالمنشور مع Baba حقك.",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Kardeş",
+    "phonetic": "kar-deş",
+    "translation": "أخ / أخت",
+    "usageEmoji": "👫",
+    "usageText": "تستخدم للحديث عن الإخوة",
+    "engagementQuestion": "💜 كم Kardeş عندك؟ خبرنا بالتعليقات.",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Çocuk",
+    "phonetic": "ço-cuk",
+    "translation": "طفل",
+    "usageEmoji": "🧒",
+    "usageText": "تستخدم للحديث عن الأطفال",
+    "engagementQuestion": "💜 شنو أحلى ذكرى عندك وأنت Çocuk؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Dede",
+    "phonetic": "de-de",
+    "translation": "جد",
+    "usageEmoji": "👴",
+    "usageText": "تستخدم للحديث عن الجد",
+    "engagementQuestion": "💜 حكاية حلوة سمعتها من Dede حقك؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Nine",
+    "phonetic": "ni-ne",
+    "translation": "جدة",
+    "usageEmoji": "👵",
+    "usageText": "تستخدم للحديث عن الجدة",
+    "engagementQuestion": "💜 أحلى أكلة تسويها Nine حقتك؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Çay",
+    "phonetic": "çay",
+    "translation": "شاي",
+    "usageEmoji": "🍵",
+    "usageText": "من أشهر المشروبات بتركيا",
+    "engagementQuestion": "💜 Çay ولا قهوة؟ اختر بالتعليقات.",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Kahve",
+    "phonetic": "kah-ve",
+    "translation": "قهوة",
+    "usageEmoji": "☕",
+    "usageText": "تستخدم للحديث عن القهوة التركية",
+    "engagementQuestion": "💜 جربت Kahve التركية؟ شلون كانت؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Süt",
+    "phonetic": "süt",
+    "translation": "حليب",
+    "usageEmoji": "🥛",
+    "usageText": "تستخدم بالمطعم والسوق",
+    "engagementQuestion": "💜 تحب Süt سخن ولا بارد؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Peynir",
+    "phonetic": "pey-nir",
+    "translation": "جبن",
+    "usageEmoji": "🧀",
+    "usageText": "من أساسيات الفطور التركي",
+    "engagementQuestion": "💜 شنو نوع Peynir المفضل عندك؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Meyve",
+    "phonetic": "mey-ve",
+    "translation": "فاكهة",
+    "usageEmoji": "🍇",
+    "usageText": "تستخدم للحديث عن الفواكه",
+    "engagementQuestion": "💜 شنو Meyve المفضلة عندك؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Elma",
+    "phonetic": "el-ma",
+    "translation": "تفاح",
+    "usageEmoji": "🍎",
+    "usageText": "من أشهر الفواكه المتوفرة بتركيا",
+    "engagementQuestion": "💜 آخر مرة أكلت فيها Elma كان وين؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Et",
+    "phonetic": "et",
+    "translation": "لحم",
+    "usageEmoji": "🥩",
+    "usageText": "تستخدم بالمطعم والطبخ",
+    "engagementQuestion": "💜 شنو أكلتك المفضلة فيها Et؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Tuz",
+    "phonetic": "tuz",
+    "translation": "ملح",
+    "usageEmoji": "🧂",
+    "usageText": "تستخدم بالطبخ والمطعم",
+    "engagementQuestion": "💜 تحب أكلك فيه Tuz زيادة ولا لأ؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Şeker",
+    "phonetic": "şe-ker",
+    "translation": "سكر",
+    "usageEmoji": "🍬",
+    "usageText": "تستخدم بالمشروبات والحلويات",
+    "engagementQuestion": "💜 Şeker بالشاي كثير ولا شوي؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Şehir",
+    "phonetic": "şe-hir",
+    "translation": "مدينة",
+    "usageEmoji": "🏙️",
+    "usageText": "تستخدم للحديث عن المدن",
+    "engagementQuestion": "💜 أي Şehir تركية تحب تزورها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Ülke",
+    "phonetic": "ül-ke",
+    "translation": "بلد / دولة",
+    "usageEmoji": "🌍",
+    "usageText": "تستخدم للحديث عن البلدان",
+    "engagementQuestion": "💜 أي Ülke زرتها وحبيتها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Sokak",
+    "phonetic": "so-kak",
+    "translation": "شارع",
+    "usageEmoji": "🛣️",
+    "usageText": "تستخدم للحديث عن الطرقات",
+    "engagementQuestion": "💜 وصف Sokak حيك بجملة وحدة.",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Market",
+    "phonetic": "mar-ket",
+    "translation": "سوق / محل",
+    "usageEmoji": "🛒",
+    "usageText": "تستخدم عند التسوق",
+    "engagementQuestion": "💜 شنو آخر شي اشتريته من Market؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Hastane",
+    "phonetic": "has-ta-ne",
+    "translation": "مستشفى",
+    "usageEmoji": "🏥",
+    "usageText": "تستخدم بالحالات الطبية",
+    "engagementQuestion": "💜 هل تعرف كيف تسأل عن أقرب Hastane؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Otel",
+    "phonetic": "o-tel",
+    "translation": "فندق",
+    "usageEmoji": "🏨",
+    "usageText": "تستخدم بالسفر والحجوزات",
+    "engagementQuestion": "💜 شنو أحلى Otel نمت فيه؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Havalimanı",
+    "phonetic": "ha-va-li-ma-nı",
+    "translation": "مطار",
+    "usageEmoji": "✈️",
+    "usageText": "تستخدم بالسفر",
+    "engagementQuestion": "💜 أول مرة نزلت فيها Havalimanı تركيا شلون كانت؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Deniz",
+    "phonetic": "de-niz",
+    "translation": "بحر",
+    "usageEmoji": "🌊",
+    "usageText": "تستخدم للحديث عن السفر والطبيعة",
+    "engagementQuestion": "💜 تحب Deniz ولا الجبل؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Dağ",
+    "phonetic": "dağ",
+    "translation": "جبل",
+    "usageEmoji": "⛰️",
+    "usageText": "تستخدم للحديث عن الطبيعة",
+    "engagementQuestion": "💜 صعدت Dağ من قبل؟ شاركنا التجربة.",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "El",
+    "phonetic": "el",
+    "translation": "يد",
+    "usageEmoji": "✋",
+    "usageText": "تستخدم للحديث عن أجزاء الجسم",
+    "engagementQuestion": "💜 ارفع El حقك لو حفظت هالكلمة! 🙌",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Göz",
+    "phonetic": "göz",
+    "translation": "عين",
+    "usageEmoji": "👁️",
+    "usageText": "تستخدم للحديث عن أجزاء الجسم",
+    "engagementQuestion": "💜 شنو لون Göz عندك؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Baş",
+    "phonetic": "baş",
+    "translation": "رأس",
+    "usageEmoji": "🗣️",
+    "usageText": "تستخدم للحديث عن أجزاء الجسم",
+    "engagementQuestion": "💜 صار عندك وجع Baş اليوم؟ 😅",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Kalp",
+    "phonetic": "kalp",
+    "translation": "قلب",
+    "usageEmoji": "❤️",
+    "usageText": "تستخدم للتعبير عن المشاعر",
+    "engagementQuestion": "💜 اكتب كلمة من Kalp لشخص تحبه.",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Kırmızı",
+    "phonetic": "kır-mı-zı",
+    "translation": "أحمر",
+    "usageEmoji": "🔴",
+    "usageText": "تستخدم للحديث عن الألوان",
+    "engagementQuestion": "💜 شنو أول شي عندك لونه Kırmızı؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Mavi",
+    "phonetic": "ma-vi",
+    "translation": "أزرق",
+    "usageEmoji": "🔵",
+    "usageText": "تستخدم للحديث عن الألوان",
+    "engagementQuestion": "💜 السماء اليوم Mavi عندك؟ 🌤️",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Yeşil",
+    "phonetic": "ye-şil",
+    "translation": "أخضر",
+    "usageEmoji": "🟢",
+    "usageText": "تستخدم للحديث عن الألوان",
+    "engagementQuestion": "💜 شنو عندك لونه Yeşil؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Sarı",
+    "phonetic": "sa-rı",
+    "translation": "أصفر",
+    "usageEmoji": "🟡",
+    "usageText": "تستخدم للحديث عن الألوان",
+    "engagementQuestion": "💜 الشمس تشبه لون Sarı صح؟ ☀️",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Siyah",
+    "phonetic": "si-yah",
+    "translation": "أسود",
+    "usageEmoji": "⚫",
+    "usageText": "تستخدم للحديث عن الألوان",
+    "engagementQuestion": "💜 تحب الملابس Siyah ولا Beyaz أكثر؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Beyaz",
+    "phonetic": "be-yaz",
+    "translation": "أبيض",
+    "usageEmoji": "⚪",
+    "usageText": "تستخدم للحديث عن الألوان",
+    "engagementQuestion": "💜 شنو شي عندك لونه Beyaz؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Saat",
+    "phonetic": "sa-at",
+    "translation": "ساعة",
+    "usageEmoji": "🕐",
+    "usageText": "تستخدم للسؤال عن الوقت",
+    "engagementQuestion": "💜 كم Saat الحين عندك؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Dakika",
+    "phonetic": "da-ki-ka",
+    "translation": "دقيقة",
+    "usageEmoji": "⏱️",
+    "usageText": "تستخدم للحديث عن الوقت القصير",
+    "engagementQuestion": "💜 كم Dakika تحتاج تصل شغلك؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Ay",
+    "phonetic": "ay",
+    "translation": "شهر / قمر",
+    "usageEmoji": "🌙",
+    "usageText": "تستخدم للحديث عن الأشهر أو القمر",
+    "engagementQuestion": "💜 شنو Ay ولدت فيه؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Yıl",
+    "phonetic": "yıl",
+    "translation": "سنة",
+    "usageEmoji": "📆",
+    "usageText": "تستخدم للحديث عن السنوات",
+    "engagementQuestion": "💜 شنو أهم حدث صار وياك هذا Yıl؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Sabah",
+    "phonetic": "sa-bah",
+    "translation": "صباح",
+    "usageEmoji": "🌅",
+    "usageText": "تستخدم للحديث عن الصباح",
+    "engagementQuestion": "💜 شنو أول شي تسويه بال Sabah؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Akşam",
+    "phonetic": "ak-şam",
+    "translation": "مساء",
+    "usageEmoji": "🌆",
+    "usageText": "تستخدم للحديث عن المساء",
+    "engagementQuestion": "💜 شنو خططك هذا Akşam؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Gece",
+    "phonetic": "ge-ce",
+    "translation": "ليل",
+    "usageEmoji": "🌃",
+    "usageText": "تستخدم للحديث عن الليل",
+    "engagementQuestion": "💜 تحب تسهر Gece ولا تنام بدري؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Öğle",
+    "phonetic": "öğ-le",
+    "translation": "ظهر",
+    "usageEmoji": "🕛",
+    "usageText": "تستخدم للحديث عن وقت الظهيرة",
+    "engagementQuestion": "💜 شنو تاكل وقت Öğle عادةً؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Hava",
+    "phonetic": "ha-va",
+    "translation": "جو / طقس",
+    "usageEmoji": "🌤️",
+    "usageText": "تستخدم للسؤال عن الطقس",
+    "engagementQuestion": "💜 شلون Hava عندك اليوم؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Yağmur",
+    "phonetic": "yağ-mur",
+    "translation": "مطر",
+    "usageEmoji": "🌧️",
+    "usageText": "تستخدم للحديث عن الطقس الماطر",
+    "engagementQuestion": "💜 تحب Yağmur ولا الشمس أكثر؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Güneş",
+    "phonetic": "gü-neş",
+    "translation": "شمس",
+    "usageEmoji": "☀️",
+    "usageText": "تستخدم للحديث عن الطقس المشمس",
+    "engagementQuestion": "💜 شنو أحلى مكان شفت فيه Güneş تغرب؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Kar",
+    "phonetic": "kar",
+    "translation": "ثلج",
+    "usageEmoji": "❄️",
+    "usageText": "تستخدم للحديث عن الطقس البارد",
+    "engagementQuestion": "💜 شفت Kar بعيونك من قبل؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Rüzgar",
+    "phonetic": "rüz-gar",
+    "translation": "رياح",
+    "usageEmoji": "💨",
+    "usageText": "تستخدم للحديث عن الطقس",
+    "engagementQuestion": "💜 شلون Rüzgar الجو عندك اليوم؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Büyük",
+    "phonetic": "bü-yük",
+    "translation": "كبير",
+    "usageEmoji": "🐘",
+    "usageText": "تستخدم لوصف حجم الأشياء",
+    "engagementQuestion": "💜 شنو أكبر Büyük حلم عندك؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Küçük",
+    "phonetic": "kü-çük",
+    "translation": "صغير",
+    "usageEmoji": "🐭",
+    "usageText": "تستخدم لوصف حجم الأشياء",
+    "engagementQuestion": "💜 شنو أحلى شي Küçük عندك بالبيت؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Yeni",
+    "phonetic": "ye-ni",
+    "translation": "جديد",
+    "usageEmoji": "✨",
+    "usageText": "تستخدم لوصف الأشياء الجديدة",
+    "engagementQuestion": "💜 شنو آخر شي Yeni اشتريته؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Eski",
+    "phonetic": "es-ki",
+    "translation": "قديم",
+    "usageEmoji": "🕰️",
+    "usageText": "تستخدم لوصف الأشياء القديمة",
+    "engagementQuestion": "💜 شنو أحلى ذكرى Eski تتذكرها؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Sıcak",
+    "phonetic": "sı-cak",
+    "translation": "حار / ساخن",
+    "usageEmoji": "🔥",
+    "usageText": "تستخدم لوصف الطقس أو الطعام",
+    "engagementQuestion": "💜 تحب الشاي Sıcak ولا فاتر؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Soğuk",
+    "phonetic": "so-ğuk",
+    "translation": "بارد",
+    "usageEmoji": "🥶",
+    "usageText": "تستخدم لوصف الطقس أو المشروبات",
+    "engagementQuestion": "💜 عندك ماي Soğuk بالثلاجة الحين؟ 😄",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Hızlı",
+    "phonetic": "hız-lı",
+    "translation": "سريع",
+    "usageEmoji": "⚡",
+    "usageText": "تستخدم لوصف السرعة",
+    "engagementQuestion": "💜 شنو أسرع Hızlı شي جربته بحياتك؟",
+    "footerHandle": "@rawi.turkish"
+  },
+  {
+    "type": "word-of-day",
+    "turkish": "Yavaş",
+    "phonetic": "ya-vaş",
+    "translation": "بطيء",
+    "usageEmoji": "🐢",
+    "usageText": "تستخدم لوصف السرعة البطيئة",
+    "engagementQuestion": "💜 شنو شي تحب تسويه Yavaş وبهدوء؟",
+    "footerHandle": "@rawi.turkish"
+  }
+]

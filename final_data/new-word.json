@@ -1,0 +1,702 @@
+[
+  {
+    "type": "new-word",
+    "arabicWord": "مرحباً",
+    "turkishWord": "Merhaba",
+    "turkishSentence": "Merhaba, nasılsın?",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "شكراً",
+    "turkishWord": "Teşekkürler",
+    "turkishSentence": "Her şey için teşekkürler.",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "نعم",
+    "turkishWord": "Evet",
+    "turkishSentence": "Evet, geliyorum.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "لا",
+    "turkishWord": "Hayır",
+    "turkishSentence": "Hayır, istemiyorum.",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "من فضلك",
+    "turkishWord": "Lütfen",
+    "turkishSentence": "Lütfen pencereyi aç.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "حسنًا / موافق",
+    "turkishWord": "Tamam",
+    "turkishSentence": "Tamam, yarın görüşürüz.",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "صباح الخير",
+    "turkishWord": "Günaydın",
+    "turkishSentence": "Günaydın, yeni gün başladı.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "مساء الخير",
+    "turkishWord": "İyi akşamlar",
+    "turkishSentence": "İyi akşamlar, iyi dinlenmeler.",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "أراك لاحقاً",
+    "turkishWord": "Görüşürüz",
+    "turkishSentence": "Sonra görüşürüz, kendine iyi bak.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "أهلاً وسهلاً",
+    "turkishWord": "Hoş geldiniz",
+    "turkishSentence": "Evimize hoş geldiniz.",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "وداعاً",
+    "turkishWord": "Hoşça kal",
+    "turkishSentence": "Hoşça kal, her şey için teşekkürler.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "كيف حالك",
+    "turkishWord": "Nasılsın",
+    "turkishSentence": "Bugün nasılsın, iyi misin?",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "أنا بخير",
+    "turkishWord": "İyiyim",
+    "turkishSentence": "Ben çok iyiyim, teşekkürler.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "تفضل",
+    "turkishWord": "Buyurun",
+    "turkishSentence": "Buyurun, ne istiyorsunuz?",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "عذراً / معذرة",
+    "turkishWord": "Pardon",
+    "turkishSentence": "Pardon, otobüs geçti mi?",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "أنا آسف",
+    "turkishWord": "Özür dilerim",
+    "turkishSentence": "Geç kaldım, özür dilerim.",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "متى",
+    "turkishWord": "Ne zaman",
+    "turkishSentence": "Tren ne zaman kalkıyor?",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "أين",
+    "turkishWord": "Nerede",
+    "turkishSentence": "Benim anahtarım nerede?",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "كيف",
+    "turkishWord": "Nasıl",
+    "turkishSentence": "Bu yemek nasıl yapılıyor?",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "من",
+    "turkishWord": "Kim",
+    "turkishSentence": "O kapıdaki kim?",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "ماذا",
+    "turkishWord": "Ne",
+    "turkishSentence": "Akşam ne yiyeceğiz?",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "لماذا",
+    "turkishWord": "Neden",
+    "turkishSentence": "Neden geç kaldın?",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "لأن",
+    "turkishWord": "Çünkü",
+    "turkishSentence": "Gelmedim, çünkü çok yoruldum.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "اليوم",
+    "turkishWord": "Bugün",
+    "turkishSentence": "Bugün hava çok güzel.",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "غداً",
+    "turkishWord": "Yarın",
+    "turkishSentence": "Yarın sınavım var.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "البارحة",
+    "turkishWord": "Dün",
+    "turkishSentence": "Dün sinemaya gittim.",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "الآن",
+    "turkishWord": "Şimdi",
+    "turkishSentence": "Şimdi eve gidiyorum.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "الصباح",
+    "turkishWord": "Sabah",
+    "turkishSentence": "Her sabah spor yaparım.",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "المساء",
+    "turkishWord": "Akşam",
+    "turkishSentence": "Akşam ailemle yemek yerim.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "الليل",
+    "turkishWord": "Gece",
+    "turkishSentence": "Gece gökyüzü çok karanlık.",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "أسبوع",
+    "turkishWord": "Hafta",
+    "turkishSentence": "Bu hafta çok çalıştım.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "شهر",
+    "turkishWord": "Ay",
+    "turkishSentence": "Gelecek ay tatile gidiyorum.",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "سنة",
+    "turkishWord": "Yıl",
+    "turkishSentence": "Bu yıl üniversiteye başlayacağım.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "ساعة",
+    "turkishWord": "Saat",
+    "turkishSentence": "Saat kaçta buluşacağız?",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "دقيقة",
+    "turkishWord": "Dakika",
+    "turkishSentence": "Beş dakika sonra geliyorum.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "يوم",
+    "turkishWord": "Gün",
+    "turkishSentence": "Bugün haftanın ilk günü.",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "جميل",
+    "turkishWord": "Güzel",
+    "turkishSentence": "İstanbul çok güzel bir şehir.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "كبير",
+    "turkishWord": "Büyük",
+    "turkishSentence": "Bizim büyük bir bahçemiz var.",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "صغير",
+    "turkishWord": "Küçük",
+    "turkishSentence": "Sokakta küçük bir kedi gördüm.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "جديد",
+    "turkishWord": "Yeni",
+    "turkishSentence": "Yeni bir eve taşındık.",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "قديم",
+    "turkishWord": "Eski",
+    "turkishSentence": "Bu kitap çok eski.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "سهل",
+    "turkishWord": "Kolay",
+    "turkishSentence": "Türkçe öğrenmek çok kolay.",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "صعب",
+    "turkishWord": "Zor",
+    "turkishSentence": "Bu soru biraz zor.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "حار / دافئ",
+    "turkishWord": "Sıcak",
+    "turkishSentence": "Bugün çay çok sıcak.",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "بارد",
+    "turkishWord": "Soğuk",
+    "turkishSentence": "Kışın hava çok soğuk olur.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "غالٍ",
+    "turkishWord": "Pahalı",
+    "turkishSentence": "Bu araba çok pahalı.",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "رخيص",
+    "turkishWord": "Ucuz",
+    "turkishSentence": "Pazardaki sebzeler çok ucuz.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "نظيف",
+    "turkishWord": "Temiz",
+    "turkishSentence": "Oda şimdi çok temiz.",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "متسخ",
+    "turkishWord": "Kirli",
+    "turkishSentence": "Bu elbiseler çok kirli.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "قريب",
+    "turkishWord": "Yakın",
+    "turkishSentence": "Okul evimize çok yakın.",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "بعيد",
+    "turkishWord": "Uzak",
+    "turkishSentence": "Market buradan çok uzak.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "سريع",
+    "turkishWord": "Hızlı",
+    "turkishSentence": "Tren çok hızlı gidiyor.",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "بطيء",
+    "turkishWord": "Yavaş",
+    "turkishSentence": "Lütfen daha yavaş konuşun.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "سعيد",
+    "turkishWord": "Mutlu",
+    "turkishSentence": "Sizi gördüğüme çok mutlu oldum.",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "حزين",
+    "turkishWord": "Üzgün",
+    "turkishSentence": "Arkadaşım bugün çok üzgün.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "تعبان",
+    "turkishWord": "Yorgun",
+    "turkishSentence": "İşten sonra çok yorgunum.",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "شبعان",
+    "turkishWord": "Tok",
+    "turkishSentence": "Yemek yemeyeceğim, çünkü tokum.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "جائع",
+    "turkishWord": "Aç",
+    "turkishSentence": "Çok açım, yemek yiyelim mi?",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "ماء",
+    "turkishWord": "Su",
+    "turkishSentence": "Lütfen bana bir bardak su ver.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "خبز",
+    "turkishWord": "Ekmek",
+    "turkishSentence": "Her öğünde ekmek yeriz.",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "طعام / أكل",
+    "turkishWord": "Yemek",
+    "turkishSentence": "Annem çok lezzetli yemek yapar.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "حليب",
+    "turkishWord": "Süt",
+    "turkishSentence": "Çocuk her gece süt içer.",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "شاي",
+    "turkishWord": "Çay",
+    "turkishSentence": "Sabahları çay içmeyi severim.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "قهوة",
+    "turkishWord": "Kahve",
+    "turkishSentence": "Türk kahvesi çok ünlüdür.",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "فطور",
+    "turkishWord": "Kahvaltı",
+    "turkishSentence": "Sabah güzel bir kahvaltı yaptık.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "الغداء",
+    "turkishWord": "Öğle yemeği",
+    "turkishSentence": "Öğle yemeğinde çorba içtim.",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "العشاء",
+    "turkishWord": "Akşam yemeği",
+    "turkishSentence": "Akşam yemeğini saat sekizde yeriz.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "فاكهة",
+    "turkishWord": "Meyve",
+    "turkishSentence": "Her gün taze meyve yerim.",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "خضار",
+    "turkishWord": "Sebze",
+    "turkishSentence": "Sebze yemekleri sağlığa çok yararlıdır.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "بيت / منزل",
+    "turkishWord": "Ev",
+    "turkishSentence": "Bizim evimiz çok geniştir.",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "غرفة",
+    "turkishWord": "Oda",
+    "turkishSentence": "Benim odam çok güneş alıyor.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "باب",
+    "turkishWord": "Kapı",
+    "turkishSentence": "Lütfen kapıyı kapatır mısın?",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "نافذة",
+    "turkishWord": "Pencere",
+    "turkishSentence": "Dışarıyı görmek için pencereyi açtım.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "طاولة",
+    "turkishWord": "Masa",
+    "turkishSentence": "Defter masanın üzerinde duruyor.",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "كرسي",
+    "turkishWord": "Sandalye",
+    "turkishSentence": "Lütfen bu sandalyeye oturun.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "سرير",
+    "turkishWord": "Yatak",
+    "turkishSentence": "Yatak odası çok rahat.",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "مدرسة",
+    "turkishWord": "Okul",
+    "turkishSentence": "Kardeşim okula başladı.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "صف",
+    "turkishWord": "Sınıf",
+    "turkishSentence": "Sınıfta yirmi öğrenci var.",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "كتاب",
+    "turkishWord": "Kitap",
+    "turkishSentence": "Her akşam kitap okurum.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "قلم",
+    "turkishWord": "Kalem",
+    "turkishSentence": "Bana bir kalem ödünç verir misin?",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "دفتر",
+    "turkishWord": "Defter",
+    "turkishSentence": "Önemli notları deftere yazdım.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "معلم",
+    "turkishWord": "Öğretmen",
+    "turkishSentence": "Öğretmen dersi çok iyi anlattı.",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "طالب",
+    "turkishWord": "Öğrenci",
+    "turkishSentence": "Üniversitede binlerce öğrenci var.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "صديق",
+    "turkishWord": "Arkadaş",
+    "turkishSentence": "Ahmet benim en iyi arkadaşım.",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "عائلة",
+    "turkishWord": "Aile",
+    "turkishSentence": "Ailemle vakit geçirmeyi seviyorum.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "أم",
+    "turkishWord": "Anne",
+    "turkishSentence": "Annem beni her gün arar.",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "أب",
+    "turkishWord": "Baba",
+    "turkishSentence": "Babam fabrikada çalışıyor.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "أخ / أخت",
+    "turkishWord": "Kardeş",
+    "turkishSentence": "Benim iki kardeşim var.",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "طفل",
+    "turkishWord": "Çocuk",
+    "turkishSentence": "Çocuk parkta oyun oynuyor.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "رجل",
+    "turkishWord": "Adam",
+    "turkishSentence": "O yaşlı adam bana yardım etti.",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "امرأة",
+    "turkishWord": "Kadın",
+    "turkishSentence": "Otobüsteki kadın çok kibardı.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "طريق",
+    "turkishWord": "Yol",
+    "turkishSentence": "Evimizin yolu çok uzundur.",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "سيارة",
+    "turkishWord": "Araba",
+    "turkishSentence": "Araba kapının önünde duruyor.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "حافلة",
+    "turkishWord": "Otobüs",
+    "turkishSentence": "İşe gitmek için otobüse biniyorum.",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "بحر",
+    "turkishWord": "Deniz",
+    "turkishSentence": "Yazın denizde yüzüyorum.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "طقس / هواء",
+    "turkishWord": "Hava",
+    "turkishSentence": "Bugün hava yağmurlu.",
+    "background": "/assets/backgrounds/stories/galata.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "مال / نقود",
+    "turkishWord": "Para",
+    "turkishSentence": "Cüzdanımda hiç para kalmadı.",
+    "background": "/assets/backgrounds/stories/kiz-kulesi.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "عمل / وظيفة",
+    "turkishWord": "İş",
+    "turkishSentence": "Bugün iş yerinde çok yoğunum.",
+    "background": "/assets/backgrounds/stories/ortakoy.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "صحة",
+    "turkishWord": "Sağlık",
+    "turkishSentence": "Sağlık hayattaki en önemli şeydir.",
+    "background": "/assets/backgrounds/stories/camlica.png"
+  },
+  {
+    "type": "new-word",
+    "arabicWord": "وقت",
+    "turkishWord": "Zaman",
+    "turkishSentence": "Kitap okumak için zaman ayırıyorum.",
+    "background": "/assets/backgrounds/stories/galata.png"
+  }
+]

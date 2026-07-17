@@ -1,0 +1,9002 @@
+[
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ماذا تعني كلمة \"parmak\" بالتركية؟",
+        "options": [
+          {
+            "text": "إصبع"
+          },
+          {
+            "text": "عظمة الرقبة"
+          },
+          {
+            "text": "فم"
+          },
+          {
+            "text": "حاجب"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"yarın\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "مبكرًا"
+          },
+          {
+            "text": "غدًا"
+          },
+          {
+            "text": "ساعة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"Eylül\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "سبتمبر"
+          },
+          {
+            "text": "مارس"
+          },
+          {
+            "text": "يناير"
+          },
+          {
+            "text": "مايو"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"burun\"؟",
+        "options": [
+          {
+            "text": "أنف"
+          },
+          {
+            "text": "بطن"
+          },
+          {
+            "text": "سن"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"siyah\":",
+        "options": [
+          {
+            "text": "برتقالي"
+          },
+          {
+            "text": "كحلي"
+          },
+          {
+            "text": "أبيض"
+          },
+          {
+            "text": "أسود"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ما معنى \"nine\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "عمة"
+          },
+          {
+            "text": "أم"
+          },
+          {
+            "text": "جدة"
+          },
+          {
+            "text": "أخ"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"polis\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "شرطي"
+          },
+          {
+            "text": "معلم"
+          },
+          {
+            "text": "فلاح"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"halı\"؟",
+        "options": [
+          {
+            "text": "باب"
+          },
+          {
+            "text": "ثلاجة"
+          },
+          {
+            "text": "سجادة"
+          },
+          {
+            "text": "ملعقة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"hala\":",
+        "options": [
+          {
+            "text": "عمة"
+          },
+          {
+            "text": "حفيد"
+          },
+          {
+            "text": "أخ/أخت"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"cami\" بالتركية؟",
+        "options": [
+          {
+            "text": "بحر"
+          },
+          {
+            "text": "مسجد"
+          },
+          {
+            "text": "محطة"
+          },
+          {
+            "text": "شارع"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "كلمة \"iyi akşamlar\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "من فضلك"
+          },
+          {
+            "text": "ما اسمك"
+          },
+          {
+            "text": "حسنًا"
+          },
+          {
+            "text": "مساء الخير"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"adım ne\"؟",
+        "options": [
+          {
+            "text": "ما اسمك"
+          },
+          {
+            "text": "بالهناء والشفاء"
+          },
+          {
+            "text": "من فضلك"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"pirinç\":",
+        "options": [
+          {
+            "text": "أرز"
+          },
+          {
+            "text": "فلفل"
+          },
+          {
+            "text": "ماء"
+          },
+          {
+            "text": "طماطم"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"bıçak\" بالتركية؟",
+        "options": [
+          {
+            "text": "كوب"
+          },
+          {
+            "text": "سكين"
+          },
+          {
+            "text": "فرن"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"basketbol\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "كرة السلة"
+          },
+          {
+            "text": "الجري"
+          },
+          {
+            "text": "المصارعة"
+          },
+          {
+            "text": "الملاكمة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "أي خيار يطابق معنى كلمة \"kahverengi\"؟",
+        "options": [
+          {
+            "text": "أحمر"
+          },
+          {
+            "text": "بني"
+          },
+          {
+            "text": "ذهبي"
+          },
+          {
+            "text": "أصفر"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"uçuş\":",
+        "options": [
+          {
+            "text": "دراجة"
+          },
+          {
+            "text": "رحلة طيران"
+          },
+          {
+            "text": "قطار"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"el\" بالتركية؟",
+        "options": [
+          {
+            "text": "عظمة الرقبة"
+          },
+          {
+            "text": "ذقن"
+          },
+          {
+            "text": "لسان"
+          },
+          {
+            "text": "يد"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "ما معنى \"perde\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "ستارة"
+          },
+          {
+            "text": "باب"
+          },
+          {
+            "text": "فرن"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "كلمة \"satmak\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "يفتح"
+          },
+          {
+            "text": "يبيع"
+          },
+          {
+            "text": "يرى"
+          },
+          {
+            "text": "يعطي"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"sınav\":",
+        "options": [
+          {
+            "text": "درس"
+          },
+          {
+            "text": "دفتر"
+          },
+          {
+            "text": "سبورة"
+          },
+          {
+            "text": "امتحان"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "ماذا تعني كلمة \"berber\" بالتركية؟",
+        "options": [
+          {
+            "text": "صحفي"
+          },
+          {
+            "text": "حلاق"
+          },
+          {
+            "text": "صيدلي"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"tatlı\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "بارد"
+          },
+          {
+            "text": "وسخ"
+          },
+          {
+            "text": "حلو"
+          },
+          {
+            "text": "نظيف"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"erken\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "مبكرًا"
+          },
+          {
+            "text": "سنة"
+          },
+          {
+            "text": "ساعة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"sekiz\"؟",
+        "options": [
+          {
+            "text": "ستة"
+          },
+          {
+            "text": "ثلاثون"
+          },
+          {
+            "text": "اثنان"
+          },
+          {
+            "text": "ثمانية"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ماذا تعني كلمة \"güney\" بالتركية؟",
+        "options": [
+          {
+            "text": "جنوب"
+          },
+          {
+            "text": "يمين"
+          },
+          {
+            "text": "شمال"
+          },
+          {
+            "text": "فوق"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"pişirmek\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "يطبخ"
+          },
+          {
+            "text": "يقوم"
+          },
+          {
+            "text": "يأخذ"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "كلمة \"yazmak\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "يغلق"
+          },
+          {
+            "text": "يعطي"
+          },
+          {
+            "text": "يبيع"
+          },
+          {
+            "text": "يكتب"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"beklemek\"؟",
+        "options": [
+          {
+            "text": "يستيقظ"
+          },
+          {
+            "text": "ينظف"
+          },
+          {
+            "text": "ينتظر"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"buzdolabı\":",
+        "options": [
+          {
+            "text": "بيت"
+          },
+          {
+            "text": "صحن"
+          },
+          {
+            "text": "ثلاجة"
+          },
+          {
+            "text": "شوكة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ما معنى \"koyun\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "ضفدع"
+          },
+          {
+            "text": "خروف"
+          },
+          {
+            "text": "جمل"
+          },
+          {
+            "text": "فراشة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"kol\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "فم"
+          },
+          {
+            "text": "كتف"
+          },
+          {
+            "text": "ذراع"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"yemek\"؟",
+        "options": [
+          {
+            "text": "يأكل"
+          },
+          {
+            "text": "يبكي"
+          },
+          {
+            "text": "يشرب"
+          },
+          {
+            "text": "يتعلم"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"Mayıs\":",
+        "options": [
+          {
+            "text": "مايو"
+          },
+          {
+            "text": "سبتمبر"
+          },
+          {
+            "text": "يناير"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"fakir\" بالتركية؟",
+        "options": [
+          {
+            "text": "فقير"
+          },
+          {
+            "text": "خطأ"
+          },
+          {
+            "text": "حلو"
+          },
+          {
+            "text": "صعب"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "كلمة \"seksen\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "سبعة"
+          },
+          {
+            "text": "ثمانون"
+          },
+          {
+            "text": "ألف"
+          },
+          {
+            "text": "ثلاثمئة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"kalem\"؟",
+        "options": [
+          {
+            "text": "قلم"
+          },
+          {
+            "text": "عطلة"
+          },
+          {
+            "text": "سبورة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"ağabey\":",
+        "options": [
+          {
+            "text": "ابن العم/الخال"
+          },
+          {
+            "text": "أخت كبرى"
+          },
+          {
+            "text": "جدة"
+          },
+          {
+            "text": "أخ أكبر"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "ماذا تعني كلمة \"okumak\" بالتركية؟",
+        "options": [
+          {
+            "text": "يعطي"
+          },
+          {
+            "text": "يبيع"
+          },
+          {
+            "text": "يقرأ"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ما معنى \"kurbağa\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "زرافة"
+          },
+          {
+            "text": "جمل"
+          },
+          {
+            "text": "بقرة"
+          },
+          {
+            "text": "ضفدع"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "أي خيار يطابق معنى كلمة \"sürücü\"؟",
+        "options": [
+          {
+            "text": "طريق"
+          },
+          {
+            "text": "شاحنة"
+          },
+          {
+            "text": "سائق"
+          },
+          {
+            "text": "سيارة أجرة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"bardak\":",
+        "options": [
+          {
+            "text": "مرآة"
+          },
+          {
+            "text": "حمّام"
+          },
+          {
+            "text": "كوب"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"göz\" بالتركية؟",
+        "options": [
+          {
+            "text": "عين"
+          },
+          {
+            "text": "كتف"
+          },
+          {
+            "text": "ذراع"
+          },
+          {
+            "text": "ذقن"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"pantolon\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "بنطال"
+          },
+          {
+            "text": "وشاح"
+          },
+          {
+            "text": "جوارب"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "كلمة \"gökkuşağı\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "رياح"
+          },
+          {
+            "text": "ثلج"
+          },
+          {
+            "text": "درجة حرارة"
+          },
+          {
+            "text": "قوس قزح"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"ördek\":",
+        "options": [
+          {
+            "text": "ثعبان"
+          },
+          {
+            "text": "بطة"
+          },
+          {
+            "text": "أرنب"
+          },
+          {
+            "text": "ذئب"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"deve\" بالتركية؟",
+        "options": [
+          {
+            "text": "فيل"
+          },
+          {
+            "text": "جمل"
+          },
+          {
+            "text": "نحلة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"satıcı\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "فلاح"
+          },
+          {
+            "text": "بائع"
+          },
+          {
+            "text": "سائق"
+          },
+          {
+            "text": "محامي"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"boyun kemiği\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "عظمة الرقبة"
+          },
+          {
+            "text": "لسان"
+          },
+          {
+            "text": "أذن"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"kalp\"؟",
+        "options": [
+          {
+            "text": "ظهر"
+          },
+          {
+            "text": "ذقن"
+          },
+          {
+            "text": "ذراع"
+          },
+          {
+            "text": "قلب"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ماذا تعني كلمة \"yumurta\" بالتركية؟",
+        "options": [
+          {
+            "text": "سكر"
+          },
+          {
+            "text": "بيضة"
+          },
+          {
+            "text": "ماء"
+          },
+          {
+            "text": "دجاج"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"portakal\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "أرز"
+          },
+          {
+            "text": "برتقال"
+          },
+          {
+            "text": "فلفل"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"tahta\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "مسطرة"
+          },
+          {
+            "text": "قلم"
+          },
+          {
+            "text": "سبورة"
+          },
+          {
+            "text": "قلم تلوين"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"neden\"؟",
+        "options": [
+          {
+            "text": "كم"
+          },
+          {
+            "text": "هم"
+          },
+          {
+            "text": "لماذا"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"mavi\":",
+        "options": [
+          {
+            "text": "بيج"
+          },
+          {
+            "text": "أزرق"
+          },
+          {
+            "text": "أصفر"
+          },
+          {
+            "text": "أبيض"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ما معنى \"banyo\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "حمّام"
+          },
+          {
+            "text": "شوكة"
+          },
+          {
+            "text": "ستارة"
+          },
+          {
+            "text": "سجادة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "كلمة \"bu\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "لك/ملكك"
+          },
+          {
+            "text": "هذا"
+          },
+          {
+            "text": "نفسه"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"aslan\"؟",
+        "options": [
+          {
+            "text": "نحلة"
+          },
+          {
+            "text": "أسد"
+          },
+          {
+            "text": "نمر"
+          },
+          {
+            "text": "حصان"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"biber\":",
+        "options": [
+          {
+            "text": "أرز"
+          },
+          {
+            "text": "معكرونة"
+          },
+          {
+            "text": "فلفل"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"uçak\" بالتركية؟",
+        "options": [
+          {
+            "text": "طائرة"
+          },
+          {
+            "text": "قطار"
+          },
+          {
+            "text": "طريق"
+          },
+          {
+            "text": "رحلة طيران"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "كلمة \"ceket\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "سترة"
+          },
+          {
+            "text": "قفازات"
+          },
+          {
+            "text": "قميص"
+          },
+          {
+            "text": "ربطة عنق"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"yolcu\"؟",
+        "options": [
+          {
+            "text": "شاحنة"
+          },
+          {
+            "text": "راكب"
+          },
+          {
+            "text": "دراجة نارية"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"Ocak\":",
+        "options": [
+          {
+            "text": "ديسمبر"
+          },
+          {
+            "text": "أغسطس"
+          },
+          {
+            "text": "يوليو"
+          },
+          {
+            "text": "يناير"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "ماذا تعني كلمة \"boyun\" بالتركية؟",
+        "options": [
+          {
+            "text": "رقبة"
+          },
+          {
+            "text": "شعر"
+          },
+          {
+            "text": "سن"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"beş\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "واحد"
+          },
+          {
+            "text": "أربعة"
+          },
+          {
+            "text": "خمسة"
+          },
+          {
+            "text": "أربعة عشر"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "أي خيار يطابق معنى كلمة \"makarna\"؟",
+        "options": [
+          {
+            "text": "فلفل"
+          },
+          {
+            "text": "جبنة"
+          },
+          {
+            "text": "شوكولاتة"
+          },
+          {
+            "text": "معكرونة"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"nasıl\":",
+        "options": [
+          {
+            "text": "أين"
+          },
+          {
+            "text": "متى"
+          },
+          {
+            "text": "كيف"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"çanta\" بالتركية؟",
+        "options": [
+          {
+            "text": "شبشب"
+          },
+          {
+            "text": "حقيبة"
+          },
+          {
+            "text": "معطف"
+          },
+          {
+            "text": "نظارة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"gün\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "دقيقة"
+          },
+          {
+            "text": "الآن"
+          },
+          {
+            "text": "يوم"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"sonbahar\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "الصيف"
+          },
+          {
+            "text": "الربيع"
+          },
+          {
+            "text": "الشتاء"
+          },
+          {
+            "text": "الخريف"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"elma\":",
+        "options": [
+          {
+            "text": "زبدة"
+          },
+          {
+            "text": "عصير"
+          },
+          {
+            "text": "تفاح"
+          },
+          {
+            "text": "خبز"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"heyecan\" بالتركية؟",
+        "options": [
+          {
+            "text": "غضب"
+          },
+          {
+            "text": "ملل"
+          },
+          {
+            "text": "حماس"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ما معنى \"sen\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "نفسه"
+          },
+          {
+            "text": "من"
+          },
+          {
+            "text": "لي/ملكي"
+          },
+          {
+            "text": "أنت"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "كلمة \"havalimanı\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "مطار"
+          },
+          {
+            "text": "متحف"
+          },
+          {
+            "text": "مدرسة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"teşekkür ederim\"؟",
+        "options": [
+          {
+            "text": "شكرًا لك"
+          },
+          {
+            "text": "مرحبًا"
+          },
+          {
+            "text": "حسنًا"
+          },
+          {
+            "text": "تشرفت بك"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ماذا تعني كلمة \"rica ederim\" بالتركية؟",
+        "options": [
+          {
+            "text": "لا"
+          },
+          {
+            "text": "إلى اللقاء"
+          },
+          {
+            "text": "عفوًا"
+          },
+          {
+            "text": "آسف"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ما معنى \"kemer\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "شبشب"
+          },
+          {
+            "text": "حزام"
+          },
+          {
+            "text": "بنطال"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"market\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "مطار"
+          },
+          {
+            "text": "سوق"
+          },
+          {
+            "text": "فندق"
+          },
+          {
+            "text": "بنك"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"çatal\"؟",
+        "options": [
+          {
+            "text": "طاولة"
+          },
+          {
+            "text": "شوكة"
+          },
+          {
+            "text": "غرفة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"at\":",
+        "options": [
+          {
+            "text": "حصان"
+          },
+          {
+            "text": "فراشة"
+          },
+          {
+            "text": "جمل"
+          },
+          {
+            "text": "فأر"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ما معنى \"on iki\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "ثلاثة"
+          },
+          {
+            "text": "اثنا عشر"
+          },
+          {
+            "text": "تسعون"
+          },
+          {
+            "text": "أربعة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"yedi\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "خمسة"
+          },
+          {
+            "text": "أربعة عشر"
+          },
+          {
+            "text": "سبعة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"ders\"؟",
+        "options": [
+          {
+            "text": "طالب"
+          },
+          {
+            "text": "مقص"
+          },
+          {
+            "text": "مسطرة"
+          },
+          {
+            "text": "درس"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"aramak\":",
+        "options": [
+          {
+            "text": "يعرف"
+          },
+          {
+            "text": "يبحث/يتصل"
+          },
+          {
+            "text": "يبكي"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"bulut\" بالتركية؟",
+        "options": [
+          {
+            "text": "مطر"
+          },
+          {
+            "text": "ثلج"
+          },
+          {
+            "text": "عاصفة"
+          },
+          {
+            "text": "غيمة"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "كلمة \"çöl\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "نار"
+          },
+          {
+            "text": "أرض/عالم"
+          },
+          {
+            "text": "صحراء"
+          },
+          {
+            "text": "تراب"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"müze\"؟",
+        "options": [
+          {
+            "text": "متحف"
+          },
+          {
+            "text": "مسجد"
+          },
+          {
+            "text": "صيدلية"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"et\":",
+        "options": [
+          {
+            "text": "لحم"
+          },
+          {
+            "text": "ثوم"
+          },
+          {
+            "text": "عصير"
+          },
+          {
+            "text": "آيس كريم"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"taş\" بالتركية؟",
+        "options": [
+          {
+            "text": "ورقة شجر"
+          },
+          {
+            "text": "حجر"
+          },
+          {
+            "text": "تراب"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"iki yüz\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "اثنان"
+          },
+          {
+            "text": "ثلاثة عشر"
+          },
+          {
+            "text": "مئتان"
+          },
+          {
+            "text": "ثمانية"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "أي خيار يطابق معنى كلمة \"kuzen\"؟",
+        "options": [
+          {
+            "text": "ابن العم/الخال"
+          },
+          {
+            "text": "أم"
+          },
+          {
+            "text": "أخ"
+          },
+          {
+            "text": "أخت كبرى"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"şapka\":",
+        "options": [
+          {
+            "text": "جوارب"
+          },
+          {
+            "text": "شبشب"
+          },
+          {
+            "text": "قبعة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"küçük\" بالتركية؟",
+        "options": [
+          {
+            "text": "حلو"
+          },
+          {
+            "text": "صغير"
+          },
+          {
+            "text": "جديد"
+          },
+          {
+            "text": "ثقيل"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"ayna\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "مرآة"
+          },
+          {
+            "text": "باب"
+          },
+          {
+            "text": "درج"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "كلمة \"ayakkabı\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "بدلة"
+          },
+          {
+            "text": "ربطة عنق"
+          },
+          {
+            "text": "حذاء"
+          },
+          {
+            "text": "جوارب"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"muz\":",
+        "options": [
+          {
+            "text": "موز"
+          },
+          {
+            "text": "شوكولاتة"
+          },
+          {
+            "text": "بطيخ"
+          },
+          {
+            "text": "دجاج"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"domates\" بالتركية؟",
+        "options": [
+          {
+            "text": "كعكة"
+          },
+          {
+            "text": "شاي"
+          },
+          {
+            "text": "طماطم"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ما معنى \"Allah'a ısmarladık\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "حسنًا"
+          },
+          {
+            "text": "في أمان الله"
+          },
+          {
+            "text": "لا"
+          },
+          {
+            "text": "بالهناء والشفاء"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"kar\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "رطوبة"
+          },
+          {
+            "text": "غيمة"
+          },
+          {
+            "text": "ثلج"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"kulak\"؟",
+        "options": [
+          {
+            "text": "أذن"
+          },
+          {
+            "text": "قلب"
+          },
+          {
+            "text": "شعر"
+          },
+          {
+            "text": "رأس"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ماذا تعني كلمة \"dinlemek\" بالتركية؟",
+        "options": [
+          {
+            "text": "يشرب"
+          },
+          {
+            "text": "يغلق"
+          },
+          {
+            "text": "يجلس"
+          },
+          {
+            "text": "يستمع"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "ما معنى \"motosiklet\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "دراجة نارية"
+          },
+          {
+            "text": "رحلة طيران"
+          },
+          {
+            "text": "سائق"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "كلمة \"koşmak\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "يبكي"
+          },
+          {
+            "text": "يتكلم"
+          },
+          {
+            "text": "يريد"
+          },
+          {
+            "text": "يجري"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"deniz\"؟",
+        "options": [
+          {
+            "text": "بحر"
+          },
+          {
+            "text": "مسجد"
+          },
+          {
+            "text": "جبل"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"su\":",
+        "options": [
+          {
+            "text": "خبز"
+          },
+          {
+            "text": "بصل"
+          },
+          {
+            "text": "زبدة"
+          },
+          {
+            "text": "ماء"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ما معنى \"yazar\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "رسام"
+          },
+          {
+            "text": "شرطي"
+          },
+          {
+            "text": "عامل"
+          },
+          {
+            "text": "كاتب"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "كلمة \"kaş\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "ذقن"
+          },
+          {
+            "text": "إصبع"
+          },
+          {
+            "text": "حاجب"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"yağmur\"؟",
+        "options": [
+          {
+            "text": "مطر"
+          },
+          {
+            "text": "عاصفة"
+          },
+          {
+            "text": "غيمة"
+          },
+          {
+            "text": "قوس قزح"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"saç\":",
+        "options": [
+          {
+            "text": "عظمة الرقبة"
+          },
+          {
+            "text": "شعر"
+          },
+          {
+            "text": "كتف"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"mühendis\" بالتركية؟",
+        "options": [
+          {
+            "text": "سائق"
+          },
+          {
+            "text": "طيار"
+          },
+          {
+            "text": "مهندس"
+          },
+          {
+            "text": "صحفي"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "كلمة \"Şubat\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "ديسمبر"
+          },
+          {
+            "text": "يناير"
+          },
+          {
+            "text": "فبراير"
+          },
+          {
+            "text": "نوفمبر"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"güneş\"؟",
+        "options": [
+          {
+            "text": "شمس"
+          },
+          {
+            "text": "رطوبة"
+          },
+          {
+            "text": "رياح"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"kız kardeş\":",
+        "options": [
+          {
+            "text": "أب"
+          },
+          {
+            "text": "زوجة"
+          },
+          {
+            "text": "أخت"
+          },
+          {
+            "text": "أخت كبرى"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"tuz\" بالتركية؟",
+        "options": [
+          {
+            "text": "عسل"
+          },
+          {
+            "text": "ملح"
+          },
+          {
+            "text": "فراولة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"sokak\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "مطعم"
+          },
+          {
+            "text": "مدرسة"
+          },
+          {
+            "text": "شارع"
+          },
+          {
+            "text": "مدينة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "أي خيار يطابق معنى كلمة \"tarih\"؟",
+        "options": [
+          {
+            "text": "رياضيات"
+          },
+          {
+            "text": "تاريخ"
+          },
+          {
+            "text": "تركي"
+          },
+          {
+            "text": "موسيقى"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"toprak\":",
+        "options": [
+          {
+            "text": "سماء"
+          },
+          {
+            "text": "صحراء"
+          },
+          {
+            "text": "تراب"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"diş\" بالتركية؟",
+        "options": [
+          {
+            "text": "سن"
+          },
+          {
+            "text": "كتف"
+          },
+          {
+            "text": "ظهر"
+          },
+          {
+            "text": "عين"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"Salı\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "الثلاثاء"
+          },
+          {
+            "text": "الخميس"
+          },
+          {
+            "text": "الإثنين"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "كلمة \"kapatmak\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "يغلق"
+          },
+          {
+            "text": "يقرأ"
+          },
+          {
+            "text": "يكتب"
+          },
+          {
+            "text": "يبيع"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"dokuz\":",
+        "options": [
+          {
+            "text": "سبعة"
+          },
+          {
+            "text": "ألف"
+          },
+          {
+            "text": "تسعة"
+          },
+          {
+            "text": "مئة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"güzel\" بالتركية؟",
+        "options": [
+          {
+            "text": "جميل"
+          },
+          {
+            "text": "حار (طعم)"
+          },
+          {
+            "text": "خطأ"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"güreş\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "اليوغا"
+          },
+          {
+            "text": "الملاكمة"
+          },
+          {
+            "text": "ركوب الدراجة"
+          },
+          {
+            "text": "المصارعة"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "كلمة \"sevmek\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "يحب"
+          },
+          {
+            "text": "يتكلم"
+          },
+          {
+            "text": "يعطي"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"büyük\"؟",
+        "options": [
+          {
+            "text": "بارد"
+          },
+          {
+            "text": "كبير"
+          },
+          {
+            "text": "ثقيل"
+          },
+          {
+            "text": "جميل"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ماذا تعني كلمة \"merhaba\" بالتركية؟",
+        "options": [
+          {
+            "text": "مرحبًا"
+          },
+          {
+            "text": "آسف"
+          },
+          {
+            "text": "صباح الخير"
+          },
+          {
+            "text": "تشرفت بك"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"ben\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "لماذا"
+          },
+          {
+            "text": "نفسه"
+          },
+          {
+            "text": "أنا"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"mutfak\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "سجادة"
+          },
+          {
+            "text": "ستارة"
+          },
+          {
+            "text": "مطبخ"
+          },
+          {
+            "text": "فرن"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"kaplan\"؟",
+        "options": [
+          {
+            "text": "عنكبوت"
+          },
+          {
+            "text": "ثعبان"
+          },
+          {
+            "text": "نمر"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"gazeteci\":",
+        "options": [
+          {
+            "text": "فلاح"
+          },
+          {
+            "text": "محامي"
+          },
+          {
+            "text": "جندي"
+          },
+          {
+            "text": "صحفي"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ما معنى \"ressam\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "سائق"
+          },
+          {
+            "text": "مهندس معماري"
+          },
+          {
+            "text": "رسام"
+          },
+          {
+            "text": "شرطي"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"üç\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "ستون"
+          },
+          {
+            "text": "ثلاثة"
+          },
+          {
+            "text": "عشرون"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"elli\"؟",
+        "options": [
+          {
+            "text": "ثلاثون"
+          },
+          {
+            "text": "خمسون"
+          },
+          {
+            "text": "ثلاثة عشر"
+          },
+          {
+            "text": "ستة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"matematik\":",
+        "options": [
+          {
+            "text": "رياضيات"
+          },
+          {
+            "text": "إنجليزي"
+          },
+          {
+            "text": "تربية بدنية"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"uzun\" بالتركية؟",
+        "options": [
+          {
+            "text": "خفيف"
+          },
+          {
+            "text": "ضعيف"
+          },
+          {
+            "text": "كبير"
+          },
+          {
+            "text": "طويل"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "كلمة \"teyze\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "أخ أكبر"
+          },
+          {
+            "text": "خالة"
+          },
+          {
+            "text": "عم"
+          },
+          {
+            "text": "أخ"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"öğretmek\"؟",
+        "options": [
+          {
+            "text": "يستمع"
+          },
+          {
+            "text": "يتكلم"
+          },
+          {
+            "text": "يعلّم"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"hemşire\":",
+        "options": [
+          {
+            "text": "محامي"
+          },
+          {
+            "text": "ممرضة"
+          },
+          {
+            "text": "صحفي"
+          },
+          {
+            "text": "طباخ"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"ülke\" بالتركية؟",
+        "options": [
+          {
+            "text": "بلد"
+          },
+          {
+            "text": "مطعم"
+          },
+          {
+            "text": "مكتبة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"umut\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "خجل"
+          },
+          {
+            "text": "خوف"
+          },
+          {
+            "text": "ملل"
+          },
+          {
+            "text": "أمل"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "أي خيار يطابق معنى كلمة \"kaplumbağa\"؟",
+        "options": [
+          {
+            "text": "نحلة"
+          },
+          {
+            "text": "طائر"
+          },
+          {
+            "text": "سلحفاة"
+          },
+          {
+            "text": "عنكبوت"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"boya kalemi\":",
+        "options": [
+          {
+            "text": "طالب"
+          },
+          {
+            "text": "قلم تلوين"
+          },
+          {
+            "text": "سبورة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"kardeş\" بالتركية؟",
+        "options": [
+          {
+            "text": "أخ/أخت"
+          },
+          {
+            "text": "خالة"
+          },
+          {
+            "text": "جدة"
+          },
+          {
+            "text": "أم"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"etek\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "قميص"
+          },
+          {
+            "text": "حذاء"
+          },
+          {
+            "text": "تنورة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"fil\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "ثعبان"
+          },
+          {
+            "text": "فيل"
+          },
+          {
+            "text": "ديك"
+          },
+          {
+            "text": "زرافة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"fare\":",
+        "options": [
+          {
+            "text": "فأر"
+          },
+          {
+            "text": "ماعز"
+          },
+          {
+            "text": "كلب"
+          },
+          {
+            "text": "ضفدع"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"görüşürüz\" بالتركية؟",
+        "options": [
+          {
+            "text": "من فضلك"
+          },
+          {
+            "text": "مساء الخير"
+          },
+          {
+            "text": "إلى اللقاء"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ما معنى \"kirli\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "جميل"
+          },
+          {
+            "text": "سعيد"
+          },
+          {
+            "text": "ضعيف"
+          },
+          {
+            "text": "وسخ"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "كلمة \"sıcak\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "حار/ساخن"
+          },
+          {
+            "text": "فقير"
+          },
+          {
+            "text": "نظيف"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"öfke\"؟",
+        "options": [
+          {
+            "text": "حب"
+          },
+          {
+            "text": "خوف"
+          },
+          {
+            "text": "غضب"
+          },
+          {
+            "text": "سعادة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ماذا تعني كلمة \"lamba\" بالتركية؟",
+        "options": [
+          {
+            "text": "مصباح"
+          },
+          {
+            "text": "ملعقة"
+          },
+          {
+            "text": "نافذة"
+          },
+          {
+            "text": "غرفة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"arı\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "نحلة"
+          },
+          {
+            "text": "كلب"
+          },
+          {
+            "text": "زرافة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "كلمة \"ateş\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "ورقة شجر"
+          },
+          {
+            "text": "نجمة"
+          },
+          {
+            "text": "حجر"
+          },
+          {
+            "text": "نار"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"zengin\"؟",
+        "options": [
+          {
+            "text": "فقير"
+          },
+          {
+            "text": "غني"
+          },
+          {
+            "text": "وسخ"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"istasyon\":",
+        "options": [
+          {
+            "text": "محطة"
+          },
+          {
+            "text": "مطعم"
+          },
+          {
+            "text": "فندق"
+          },
+          {
+            "text": "جسر"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ما معنى \"korku\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "ثقة"
+          },
+          {
+            "text": "حماس"
+          },
+          {
+            "text": "خوف"
+          },
+          {
+            "text": "سعادة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"çiftçi\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "طيار"
+          },
+          {
+            "text": "صحفي"
+          },
+          {
+            "text": "فلاح"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"kırk\"؟",
+        "options": [
+          {
+            "text": "تسعون"
+          },
+          {
+            "text": "أربعون"
+          },
+          {
+            "text": "صفر"
+          },
+          {
+            "text": "ستون"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"yapıştırıcı\":",
+        "options": [
+          {
+            "text": "غراء"
+          },
+          {
+            "text": "صف"
+          },
+          {
+            "text": "عطلة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"yetmiş\" بالتركية؟",
+        "options": [
+          {
+            "text": "سبعون"
+          },
+          {
+            "text": "اثنا عشر"
+          },
+          {
+            "text": "أربعون"
+          },
+          {
+            "text": "تسعة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "كلمة \"tavşan\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "ماعز"
+          },
+          {
+            "text": "نملة"
+          },
+          {
+            "text": "عنكبوت"
+          },
+          {
+            "text": "أرنب"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"yürümek\"؟",
+        "options": [
+          {
+            "text": "يعطي"
+          },
+          {
+            "text": "يمشي"
+          },
+          {
+            "text": "يستمع"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"onlar\":",
+        "options": [
+          {
+            "text": "لي/ملكي"
+          },
+          {
+            "text": "هذا"
+          },
+          {
+            "text": "نحن"
+          },
+          {
+            "text": "هم"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "ماذا تعني كلمة \"yanlış\" بالتركية؟",
+        "options": [
+          {
+            "text": "مفتوح"
+          },
+          {
+            "text": "خطأ"
+          },
+          {
+            "text": "بارد"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"kütüphane\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "بحر"
+          },
+          {
+            "text": "مطار"
+          },
+          {
+            "text": "شارع"
+          },
+          {
+            "text": "مكتبة"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "أي خيار يطابق معنى كلمة \"ne\"؟",
+        "options": [
+          {
+            "text": "متى"
+          },
+          {
+            "text": "لنا"
+          },
+          {
+            "text": "ماذا"
+          },
+          {
+            "text": "هو/هي"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"zürafa\":",
+        "options": [
+          {
+            "text": "قطة"
+          },
+          {
+            "text": "زرافة"
+          },
+          {
+            "text": "فأر"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"masa\" بالتركية؟",
+        "options": [
+          {
+            "text": "درج"
+          },
+          {
+            "text": "سجادة"
+          },
+          {
+            "text": "غرفة"
+          },
+          {
+            "text": "طاولة"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "ما معنى \"bazen\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "شهر"
+          },
+          {
+            "text": "ظهر"
+          },
+          {
+            "text": "أحيانًا"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"fırtına\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "رياح"
+          },
+          {
+            "text": "عاصفة"
+          },
+          {
+            "text": "قوس قزح"
+          },
+          {
+            "text": "غيمة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"mont\":",
+        "options": [
+          {
+            "text": "حذاء"
+          },
+          {
+            "text": "شبشب"
+          },
+          {
+            "text": "معطف"
+          },
+          {
+            "text": "قفازات"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"kapı\" بالتركية؟",
+        "options": [
+          {
+            "text": "سكين"
+          },
+          {
+            "text": "ثلاجة"
+          },
+          {
+            "text": "باب"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ما معنى \"afiyet olsun\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "حسنًا"
+          },
+          {
+            "text": "بالهناء والشفاء"
+          },
+          {
+            "text": "ما اسمك"
+          },
+          {
+            "text": "مرحبًا"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"on beş\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "خمسة"
+          },
+          {
+            "text": "ثلاثمئة"
+          },
+          {
+            "text": "خمسة عشر"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"turuncu\"؟",
+        "options": [
+          {
+            "text": "بنفسجي"
+          },
+          {
+            "text": "أصفر"
+          },
+          {
+            "text": "برتقالي"
+          },
+          {
+            "text": "أسود"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ماذا تعني كلمة \"dayı\" بالتركية؟",
+        "options": [
+          {
+            "text": "عمة"
+          },
+          {
+            "text": "أخ أكبر"
+          },
+          {
+            "text": "خال"
+          },
+          {
+            "text": "عم"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ما معنى \"kapalı\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "جديد"
+          },
+          {
+            "text": "قصير"
+          },
+          {
+            "text": "مغلق"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"Mart\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "فبراير"
+          },
+          {
+            "text": "مارس"
+          },
+          {
+            "text": "ديسمبر"
+          },
+          {
+            "text": "أبريل"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"hava\"؟",
+        "options": [
+          {
+            "text": "رياح"
+          },
+          {
+            "text": "الطقس"
+          },
+          {
+            "text": "عاصفة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"geri\":",
+        "options": [
+          {
+            "text": "إلى الخلف"
+          },
+          {
+            "text": "جنوب"
+          },
+          {
+            "text": "يسار"
+          },
+          {
+            "text": "فوق"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ما معنى \"anlamak\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "يحب"
+          },
+          {
+            "text": "يساعد"
+          },
+          {
+            "text": "ينتظر"
+          },
+          {
+            "text": "يفهم"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "كلمة \"elbise\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "نظارة"
+          },
+          {
+            "text": "فستان"
+          },
+          {
+            "text": "ربطة عنق"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"fırın\"؟",
+        "options": [
+          {
+            "text": "فرن"
+          },
+          {
+            "text": "طاولة"
+          },
+          {
+            "text": "سكين"
+          },
+          {
+            "text": "مصباح"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"merak\":",
+        "options": [
+          {
+            "text": "ملل"
+          },
+          {
+            "text": "فضول"
+          },
+          {
+            "text": "سعادة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"tamam\" بالتركية؟",
+        "options": [
+          {
+            "text": "حسنًا"
+          },
+          {
+            "text": "مع السلامة"
+          },
+          {
+            "text": "شكرًا لك"
+          },
+          {
+            "text": "تشرفت بك"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "كلمة \"abla\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "ابن العم/الخال"
+          },
+          {
+            "text": "خال"
+          },
+          {
+            "text": "أخت كبرى"
+          },
+          {
+            "text": "أخ أكبر"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"karpuz\"؟",
+        "options": [
+          {
+            "text": "ثوم"
+          },
+          {
+            "text": "عسل"
+          },
+          {
+            "text": "بطيخ"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"sıkıntı\":",
+        "options": [
+          {
+            "text": "تعب"
+          },
+          {
+            "text": "ثقة"
+          },
+          {
+            "text": "ملل"
+          },
+          {
+            "text": "راحة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"üzüm\" بالتركية؟",
+        "options": [
+          {
+            "text": "خوخ"
+          },
+          {
+            "text": "عنب"
+          },
+          {
+            "text": "سكر"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"ev\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "حديقة"
+          },
+          {
+            "text": "ثلاجة"
+          },
+          {
+            "text": "كوب"
+          },
+          {
+            "text": "بيت"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "أي خيار يطابق معنى كلمة \"restoran\"؟",
+        "options": [
+          {
+            "text": "قرية"
+          },
+          {
+            "text": "مكتبة"
+          },
+          {
+            "text": "جامعة"
+          },
+          {
+            "text": "مطعم"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"zayıf\":",
+        "options": [
+          {
+            "text": "صغير"
+          },
+          {
+            "text": "كبير"
+          },
+          {
+            "text": "ضعيف"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"şoför\" بالتركية؟",
+        "options": [
+          {
+            "text": "جندي"
+          },
+          {
+            "text": "كاتب"
+          },
+          {
+            "text": "صيدلي"
+          },
+          {
+            "text": "سائق"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "ما معنى \"yukarı\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "شمال"
+          },
+          {
+            "text": "إلى الأمام"
+          },
+          {
+            "text": "فوق"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"kedi\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "سلحفاة"
+          },
+          {
+            "text": "قطة"
+          },
+          {
+            "text": "فراشة"
+          },
+          {
+            "text": "نمر"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"vermek\":",
+        "options": [
+          {
+            "text": "يستيقظ"
+          },
+          {
+            "text": "يشرب"
+          },
+          {
+            "text": "يطبخ"
+          },
+          {
+            "text": "يعطي"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "ماذا تعني كلمة \"Haziran\" بالتركية؟",
+        "options": [
+          {
+            "text": "يونيو"
+          },
+          {
+            "text": "مارس"
+          },
+          {
+            "text": "أغسطس"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"altın rengi\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "أسود"
+          },
+          {
+            "text": "ذهبي"
+          },
+          {
+            "text": "كحلي"
+          },
+          {
+            "text": "بنفسجي"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"bot\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "قبعة"
+          },
+          {
+            "text": "حذاء طويل"
+          },
+          {
+            "text": "حقيبة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"çiçek\"؟",
+        "options": [
+          {
+            "text": "سماء"
+          },
+          {
+            "text": "ريح"
+          },
+          {
+            "text": "حجر"
+          },
+          {
+            "text": "زهرة"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ماذا تعني كلمة \"eski\" بالتركية؟",
+        "options": [
+          {
+            "text": "سريع"
+          },
+          {
+            "text": "قديم"
+          },
+          {
+            "text": "نظيف"
+          },
+          {
+            "text": "سهل"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"gülmek\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "يذهب"
+          },
+          {
+            "text": "يضحك"
+          },
+          {
+            "text": "يمشي"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"dün\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "أمس"
+          },
+          {
+            "text": "دقيقة"
+          },
+          {
+            "text": "سنة"
+          },
+          {
+            "text": "يوم"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"beden eğitimi\"؟",
+        "options": [
+          {
+            "text": "موسيقى"
+          },
+          {
+            "text": "تربية بدنية"
+          },
+          {
+            "text": "تاريخ"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"uyanmak\":",
+        "options": [
+          {
+            "text": "يشرب"
+          },
+          {
+            "text": "يستمع"
+          },
+          {
+            "text": "يستيقظ"
+          },
+          {
+            "text": "يذهب"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ما معنى \"resim\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "رياضيات"
+          },
+          {
+            "text": "فن/رسم"
+          },
+          {
+            "text": "تاريخ"
+          },
+          {
+            "text": "موسيقى"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"yağ\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "معكرونة"
+          },
+          {
+            "text": "خوخ"
+          },
+          {
+            "text": "زيت"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"altmış\"؟",
+        "options": [
+          {
+            "text": "تسعون"
+          },
+          {
+            "text": "ستون"
+          },
+          {
+            "text": "مئة"
+          },
+          {
+            "text": "أربعة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"merdiven\":",
+        "options": [
+          {
+            "text": "درج"
+          },
+          {
+            "text": "ستارة"
+          },
+          {
+            "text": "سقف"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"fasulye\" بالتركية؟",
+        "options": [
+          {
+            "text": "سكر"
+          },
+          {
+            "text": "خبز"
+          },
+          {
+            "text": "فاصولياء"
+          },
+          {
+            "text": "خوخ"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "كلمة \"metro\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "راكب"
+          },
+          {
+            "text": "مترو"
+          },
+          {
+            "text": "سيارة أجرة"
+          },
+          {
+            "text": "دراجة نارية"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"şimdi\"؟",
+        "options": [
+          {
+            "text": "أبدًا"
+          },
+          {
+            "text": "الآن"
+          },
+          {
+            "text": "سنة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"silgi\":",
+        "options": [
+          {
+            "text": "ممحاة"
+          },
+          {
+            "text": "سبورة"
+          },
+          {
+            "text": "كتاب"
+          },
+          {
+            "text": "صف"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"o\" بالتركية؟",
+        "options": [
+          {
+            "text": "هو/هي"
+          },
+          {
+            "text": "أين"
+          },
+          {
+            "text": "لماذا"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"Arapça\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "تركي"
+          },
+          {
+            "text": "عربي"
+          },
+          {
+            "text": "تاريخ"
+          },
+          {
+            "text": "جغرافيا"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "أي خيار يطابق معنى كلمة \"sabah\"؟",
+        "options": [
+          {
+            "text": "أسبوع"
+          },
+          {
+            "text": "الآن"
+          },
+          {
+            "text": "ليل"
+          },
+          {
+            "text": "صباح"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"almak\":",
+        "options": [
+          {
+            "text": "يأخذ"
+          },
+          {
+            "text": "يغسل"
+          },
+          {
+            "text": "يساعد"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"bilgisayar\" بالتركية؟",
+        "options": [
+          {
+            "text": "غراء"
+          },
+          {
+            "text": "حاسوب"
+          },
+          {
+            "text": "قلم"
+          },
+          {
+            "text": "قلم تلوين"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"defter\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "سبورة"
+          },
+          {
+            "text": "طالب"
+          },
+          {
+            "text": "دفتر"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"üç yüz\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "أربعون"
+          },
+          {
+            "text": "ثلاثمئة"
+          },
+          {
+            "text": "أربعة"
+          },
+          {
+            "text": "ثلاثون"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"bahçe\":",
+        "options": [
+          {
+            "text": "بيت"
+          },
+          {
+            "text": "حديقة"
+          },
+          {
+            "text": "مطبخ"
+          },
+          {
+            "text": "مرآة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"şaşkınlık\" بالتركية؟",
+        "options": [
+          {
+            "text": "غضب"
+          },
+          {
+            "text": "دهشة"
+          },
+          {
+            "text": "سعادة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"süt\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "حليب"
+          },
+          {
+            "text": "فراولة"
+          },
+          {
+            "text": "فلفل"
+          },
+          {
+            "text": "خوخ"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "كلمة \"bisiklet\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "شاحنة"
+          },
+          {
+            "text": "دراجة"
+          },
+          {
+            "text": "تذكرة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"sarımsak\"؟",
+        "options": [
+          {
+            "text": "معكرونة"
+          },
+          {
+            "text": "أرز"
+          },
+          {
+            "text": "ملح"
+          },
+          {
+            "text": "ثوم"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ماذا تعني كلمة \"yüzme\" بالتركية؟",
+        "options": [
+          {
+            "text": "السباحة"
+          },
+          {
+            "text": "ركوب الدراجة"
+          },
+          {
+            "text": "الملاكمة"
+          },
+          {
+            "text": "كرة القدم"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"sıfır\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "ثمانية عشر"
+          },
+          {
+            "text": "ستون"
+          },
+          {
+            "text": "صفر"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"benim\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "من"
+          },
+          {
+            "text": "لي/ملكي"
+          },
+          {
+            "text": "ذاك"
+          },
+          {
+            "text": "كيف"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"diz\"؟",
+        "options": [
+          {
+            "text": "سن"
+          },
+          {
+            "text": "ساق"
+          },
+          {
+            "text": "ركبة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"harita\":",
+        "options": [
+          {
+            "text": "امتحان"
+          },
+          {
+            "text": "طالب"
+          },
+          {
+            "text": "سبورة"
+          },
+          {
+            "text": "خريطة"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ما معنى \"rahatlık\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "فخر"
+          },
+          {
+            "text": "خجل"
+          },
+          {
+            "text": "راحة"
+          },
+          {
+            "text": "ملل"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"evet\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "لا"
+          },
+          {
+            "text": "إلى اللقاء"
+          },
+          {
+            "text": "نعم"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"gitmek\"؟",
+        "options": [
+          {
+            "text": "يغلق"
+          },
+          {
+            "text": "يبكي"
+          },
+          {
+            "text": "يعرف"
+          },
+          {
+            "text": "يذهب"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"memnun oldum\":",
+        "options": [
+          {
+            "text": "تشرفت بك"
+          },
+          {
+            "text": "في أمان الله"
+          },
+          {
+            "text": "عفوًا"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"çorba\" بالتركية؟",
+        "options": [
+          {
+            "text": "ثوم"
+          },
+          {
+            "text": "زبدة"
+          },
+          {
+            "text": "شاي"
+          },
+          {
+            "text": "شوربة"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "كلمة \"saat\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "أحيانًا"
+          },
+          {
+            "text": "مبكرًا"
+          },
+          {
+            "text": "ساعة"
+          },
+          {
+            "text": "غدًا"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"tavuk\"؟",
+        "options": [
+          {
+            "text": "خوخ"
+          },
+          {
+            "text": "قهوة"
+          },
+          {
+            "text": "دجاج"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"yaz\":",
+        "options": [
+          {
+            "text": "الخريف"
+          },
+          {
+            "text": "الشتاء"
+          },
+          {
+            "text": "الصيف"
+          },
+          {
+            "text": "الربيع"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"sırt\" بالتركية؟",
+        "options": [
+          {
+            "text": "أذن"
+          },
+          {
+            "text": "ظهر"
+          },
+          {
+            "text": "سن"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"kalkmak\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "يعرف"
+          },
+          {
+            "text": "يفهم"
+          },
+          {
+            "text": "يقوم"
+          },
+          {
+            "text": "ينتظر"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "أي خيار يطابق معنى كلمة \"günaydın\"؟",
+        "options": [
+          {
+            "text": "في أمان الله"
+          },
+          {
+            "text": "ما اسمك"
+          },
+          {
+            "text": "صباح الخير"
+          },
+          {
+            "text": "نعم"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"Aralık\":",
+        "options": [
+          {
+            "text": "نوفمبر"
+          },
+          {
+            "text": "ديسمبر"
+          },
+          {
+            "text": "مارس"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"salata\" بالتركية؟",
+        "options": [
+          {
+            "text": "بيضة"
+          },
+          {
+            "text": "سلطة"
+          },
+          {
+            "text": "قهوة"
+          },
+          {
+            "text": "ماء"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"dolap\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "صالة"
+          },
+          {
+            "text": "سرير"
+          },
+          {
+            "text": "خزانة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"yıkamak\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "يكتب"
+          },
+          {
+            "text": "يغسل"
+          },
+          {
+            "text": "يغلق"
+          },
+          {
+            "text": "يعلّم"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"salon\":",
+        "options": [
+          {
+            "text": "صالة"
+          },
+          {
+            "text": "ملعقة"
+          },
+          {
+            "text": "خزانة"
+          },
+          {
+            "text": "مرآة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"lacivert\" بالتركية؟",
+        "options": [
+          {
+            "text": "أخضر"
+          },
+          {
+            "text": "كحلي"
+          },
+          {
+            "text": "أصفر"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"güven\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "تعب"
+          },
+          {
+            "text": "فضول"
+          },
+          {
+            "text": "ملل"
+          },
+          {
+            "text": "ثقة"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "كلمة \"örümcek\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "كلب"
+          },
+          {
+            "text": "عنكبوت"
+          },
+          {
+            "text": "ثعبان"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"kelebek\"؟",
+        "options": [
+          {
+            "text": "سلحفاة"
+          },
+          {
+            "text": "ذئب"
+          },
+          {
+            "text": "فراشة"
+          },
+          {
+            "text": "أرنب"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ماذا تعني كلمة \"uyumak\" بالتركية؟",
+        "options": [
+          {
+            "text": "يتكلم"
+          },
+          {
+            "text": "يفكر"
+          },
+          {
+            "text": "ينام"
+          },
+          {
+            "text": "يكتب"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ما معنى \"ağaç\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "شجرة"
+          },
+          {
+            "text": "رمل"
+          },
+          {
+            "text": "غابة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "كلمة \"bisiklet sürmek\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "الكرة الطائرة"
+          },
+          {
+            "text": "كرة القدم"
+          },
+          {
+            "text": "السباحة"
+          },
+          {
+            "text": "ركوب الدراجة"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"fen bilgisi\"؟",
+        "options": [
+          {
+            "text": "رياضيات"
+          },
+          {
+            "text": "تربية بدنية"
+          },
+          {
+            "text": "علوم"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"ilkbahar\":",
+        "options": [
+          {
+            "text": "الربيع"
+          },
+          {
+            "text": "الصيف"
+          },
+          {
+            "text": "الخريف"
+          },
+          {
+            "text": "الشتاء"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ما معنى \"zeytin\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "شاي"
+          },
+          {
+            "text": "ماء"
+          },
+          {
+            "text": "زيتون"
+          },
+          {
+            "text": "جبنة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"biz\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "أنت"
+          },
+          {
+            "text": "أي"
+          },
+          {
+            "text": "نحن"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"sınıf\"؟",
+        "options": [
+          {
+            "text": "امتحان"
+          },
+          {
+            "text": "عطلة"
+          },
+          {
+            "text": "صف"
+          },
+          {
+            "text": "سبورة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"limon\":",
+        "options": [
+          {
+            "text": "تفاح"
+          },
+          {
+            "text": "زيتون"
+          },
+          {
+            "text": "ليمون"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"yeni\" بالتركية؟",
+        "options": [
+          {
+            "text": "جديد"
+          },
+          {
+            "text": "حار (طعم)"
+          },
+          {
+            "text": "قصير"
+          },
+          {
+            "text": "سعيد"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "كلمة \"karın\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "يد"
+          },
+          {
+            "text": "بطن"
+          },
+          {
+            "text": "ظفر"
+          },
+          {
+            "text": "أذن"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"gece\"؟",
+        "options": [
+          {
+            "text": "دائمًا"
+          },
+          {
+            "text": "اليوم"
+          },
+          {
+            "text": "ليل"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"Cuma\":",
+        "options": [
+          {
+            "text": "الجمعة"
+          },
+          {
+            "text": "الخميس"
+          },
+          {
+            "text": "الأربعاء"
+          },
+          {
+            "text": "الإثنين"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"çirkin\" بالتركية؟",
+        "options": [
+          {
+            "text": "سهل"
+          },
+          {
+            "text": "قبيح"
+          },
+          {
+            "text": "قوي"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"Pazartesi\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "الثلاثاء"
+          },
+          {
+            "text": "الجمعة"
+          },
+          {
+            "text": "الأربعاء"
+          },
+          {
+            "text": "الإثنين"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "أي خيار يطابق معنى كلمة \"nem\"؟",
+        "options": [
+          {
+            "text": "الطقس"
+          },
+          {
+            "text": "درجة حرارة"
+          },
+          {
+            "text": "رطوبة"
+          },
+          {
+            "text": "رياح"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"kuzey\":",
+        "options": [
+          {
+            "text": "شمال"
+          },
+          {
+            "text": "جنوب"
+          },
+          {
+            "text": "يسار"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"göl\" بالتركية؟",
+        "options": [
+          {
+            "text": "سوق"
+          },
+          {
+            "text": "بحيرة"
+          },
+          {
+            "text": "جبل"
+          },
+          {
+            "text": "مدينة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"bugün\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "مساء"
+          },
+          {
+            "text": "اليوم"
+          },
+          {
+            "text": "مبكرًا"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"on bir\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "أحد عشر"
+          },
+          {
+            "text": "تسعون"
+          },
+          {
+            "text": "ألف"
+          },
+          {
+            "text": "ثلاثة عشر"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"çene\":",
+        "options": [
+          {
+            "text": "ذقن"
+          },
+          {
+            "text": "فم"
+          },
+          {
+            "text": "عين"
+          },
+          {
+            "text": "قدم"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"banka\" بالتركية؟",
+        "options": [
+          {
+            "text": "بنك"
+          },
+          {
+            "text": "مدينة"
+          },
+          {
+            "text": "سوق تجاري"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"pasta\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "عنب"
+          },
+          {
+            "text": "جزر"
+          },
+          {
+            "text": "كعكة"
+          },
+          {
+            "text": "زيتون"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"taksi\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "تذكرة"
+          },
+          {
+            "text": "سفينة"
+          },
+          {
+            "text": "سيارة أجرة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"gümüş rengi\"؟",
+        "options": [
+          {
+            "text": "أبيض"
+          },
+          {
+            "text": "فضي"
+          },
+          {
+            "text": "أحمر"
+          },
+          {
+            "text": "أسود"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ماذا تعني كلمة \"görmek\" بالتركية؟",
+        "options": [
+          {
+            "text": "يشتري"
+          },
+          {
+            "text": "يستمع"
+          },
+          {
+            "text": "يرى"
+          },
+          {
+            "text": "يعرف"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ما معنى \"kısa\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "قصير"
+          },
+          {
+            "text": "وسخ"
+          },
+          {
+            "text": "حزين"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "كلمة \"içmek\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "يغسل"
+          },
+          {
+            "text": "يشرب"
+          },
+          {
+            "text": "يجري"
+          },
+          {
+            "text": "يطبخ"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"doktor\"؟",
+        "options": [
+          {
+            "text": "طبيب"
+          },
+          {
+            "text": "ممرضة"
+          },
+          {
+            "text": "طباخ"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"araba\":",
+        "options": [
+          {
+            "text": "سيارة"
+          },
+          {
+            "text": "طريق"
+          },
+          {
+            "text": "راكب"
+          },
+          {
+            "text": "سيارة أجرة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ما معنى \"dil\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "أنف"
+          },
+          {
+            "text": "عظمة الرقبة"
+          },
+          {
+            "text": "بطن"
+          },
+          {
+            "text": "لسان"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "كلمة \"soğan\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "موز"
+          },
+          {
+            "text": "بصل"
+          },
+          {
+            "text": "أرز"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"kendi\"؟",
+        "options": [
+          {
+            "text": "نفسه"
+          },
+          {
+            "text": "كيف"
+          },
+          {
+            "text": "ماذا"
+          },
+          {
+            "text": "من"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"dakika\":",
+        "options": [
+          {
+            "text": "دقيقة"
+          },
+          {
+            "text": "أسبوع"
+          },
+          {
+            "text": "الآن"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"plaj\" بالتركية؟",
+        "options": [
+          {
+            "text": "شارع"
+          },
+          {
+            "text": "صيدلية"
+          },
+          {
+            "text": "سوق تجاري"
+          },
+          {
+            "text": "شاطئ"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "كلمة \"üniversite\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "جامعة"
+          },
+          {
+            "text": "مطار"
+          },
+          {
+            "text": "محطة"
+          },
+          {
+            "text": "مدرسة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"kamyon\"؟",
+        "options": [
+          {
+            "text": "سائق"
+          },
+          {
+            "text": "تذكرة"
+          },
+          {
+            "text": "شاحنة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"ekmek\":",
+        "options": [
+          {
+            "text": "زيتون"
+          },
+          {
+            "text": "عسل"
+          },
+          {
+            "text": "بيضة"
+          },
+          {
+            "text": "خبز"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "ماذا تعني كلمة \"ağır\" بالتركية؟",
+        "options": [
+          {
+            "text": "سهل"
+          },
+          {
+            "text": "ثقيل"
+          },
+          {
+            "text": "نظيف"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"açmak\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "ينظف"
+          },
+          {
+            "text": "ينتظر"
+          },
+          {
+            "text": "يفتح"
+          },
+          {
+            "text": "يريد"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "أي خيار يطابق معنى كلمة \"baba\"؟",
+        "options": [
+          {
+            "text": "عم"
+          },
+          {
+            "text": "أخت كبرى"
+          },
+          {
+            "text": "زوج/زوجة"
+          },
+          {
+            "text": "أب"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"anne\":",
+        "options": [
+          {
+            "text": "خالة"
+          },
+          {
+            "text": "أم"
+          },
+          {
+            "text": "ابن العم/الخال"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"yavaş\" بالتركية؟",
+        "options": [
+          {
+            "text": "قصير"
+          },
+          {
+            "text": "طويل"
+          },
+          {
+            "text": "سريع"
+          },
+          {
+            "text": "بطيء"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "ما معنى \"yaprak\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "حجر"
+          },
+          {
+            "text": "زهرة"
+          },
+          {
+            "text": "ورقة شجر"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"temizlemek\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "يبكي"
+          },
+          {
+            "text": "ينظف"
+          },
+          {
+            "text": "يفكر"
+          },
+          {
+            "text": "يأكل"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"Temmuz\":",
+        "options": [
+          {
+            "text": "ديسمبر"
+          },
+          {
+            "text": "يوليو"
+          },
+          {
+            "text": "أبريل"
+          },
+          {
+            "text": "مارس"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"hoş geldiniz\" بالتركية؟",
+        "options": [
+          {
+            "text": "عفوًا"
+          },
+          {
+            "text": "أهلاً وسهلاً"
+          },
+          {
+            "text": "ما اسمك"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"hafta\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "أسبوع"
+          },
+          {
+            "text": "يوم"
+          },
+          {
+            "text": "اليوم"
+          },
+          {
+            "text": "أمس"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "كلمة \"şeftali\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "دجاج"
+          },
+          {
+            "text": "تفاح"
+          },
+          {
+            "text": "خوخ"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"on sekiz\"؟",
+        "options": [
+          {
+            "text": "ثمانية عشر"
+          },
+          {
+            "text": "سبعون"
+          },
+          {
+            "text": "خمسة"
+          },
+          {
+            "text": "أربعة عشر"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ماذا تعني كلمة \"kavun\" بالتركية؟",
+        "options": [
+          {
+            "text": "شمام"
+          },
+          {
+            "text": "عصير"
+          },
+          {
+            "text": "فاصولياء"
+          },
+          {
+            "text": "طماطم"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"ağız\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "رقبة"
+          },
+          {
+            "text": "قدم"
+          },
+          {
+            "text": "فم"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"nehir\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "مسجد"
+          },
+          {
+            "text": "نهر"
+          },
+          {
+            "text": "شارع"
+          },
+          {
+            "text": "جامعة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"mimar\"؟",
+        "options": [
+          {
+            "text": "معلم"
+          },
+          {
+            "text": "فلاح"
+          },
+          {
+            "text": "مهندس معماري"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"on\":",
+        "options": [
+          {
+            "text": "أحد عشر"
+          },
+          {
+            "text": "مئة"
+          },
+          {
+            "text": "ستة"
+          },
+          {
+            "text": "عشرة"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ما معنى \"satın almak\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "يكتب"
+          },
+          {
+            "text": "يبكي"
+          },
+          {
+            "text": "يشتري"
+          },
+          {
+            "text": "يأخذ"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"bacak\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "قدم"
+          },
+          {
+            "text": "ظفر"
+          },
+          {
+            "text": "ساق"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"hangi\"؟",
+        "options": [
+          {
+            "text": "أنت"
+          },
+          {
+            "text": "أي"
+          },
+          {
+            "text": "أنا"
+          },
+          {
+            "text": "هذا"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"bir\":",
+        "options": [
+          {
+            "text": "واحد"
+          },
+          {
+            "text": "عشرون"
+          },
+          {
+            "text": "اثنان"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"hızlı\" بالتركية؟",
+        "options": [
+          {
+            "text": "سعيد"
+          },
+          {
+            "text": "حار (طعم)"
+          },
+          {
+            "text": "وسخ"
+          },
+          {
+            "text": "سريع"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "كلمة \"üzgün\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "صحيح"
+          },
+          {
+            "text": "حزين"
+          },
+          {
+            "text": "سعيد"
+          },
+          {
+            "text": "خطأ"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"karı\"؟",
+        "options": [
+          {
+            "text": "زوجة"
+          },
+          {
+            "text": "عم"
+          },
+          {
+            "text": "زوج"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"terlik\":",
+        "options": [
+          {
+            "text": "حقيبة"
+          },
+          {
+            "text": "كنزة"
+          },
+          {
+            "text": "شبشب"
+          },
+          {
+            "text": "حزام"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"köprü\" بالتركية؟",
+        "options": [
+          {
+            "text": "قرية"
+          },
+          {
+            "text": "جسر"
+          },
+          {
+            "text": "نهر"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"gurur\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "تعب"
+          },
+          {
+            "text": "ملل"
+          },
+          {
+            "text": "فخر"
+          },
+          {
+            "text": "غضب"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "أي خيار يطابق معنى كلمة \"sıcaklık\"؟",
+        "options": [
+          {
+            "text": "مطر"
+          },
+          {
+            "text": "درجة حرارة"
+          },
+          {
+            "text": "رياح"
+          },
+          {
+            "text": "رطوبة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"avukat\":",
+        "options": [
+          {
+            "text": "مهندس"
+          },
+          {
+            "text": "محامي"
+          },
+          {
+            "text": "مهندس معماري"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"baş\" بالتركية؟",
+        "options": [
+          {
+            "text": "لسان"
+          },
+          {
+            "text": "فم"
+          },
+          {
+            "text": "رأس"
+          },
+          {
+            "text": "سن"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ما معنى \"beyaz\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "أبيض"
+          },
+          {
+            "text": "وردي"
+          },
+          {
+            "text": "أسود"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "كلمة \"cevaplamak\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "يرى"
+          },
+          {
+            "text": "ينام"
+          },
+          {
+            "text": "يجيب"
+          },
+          {
+            "text": "يفكر"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"balık\":",
+        "options": [
+          {
+            "text": "شمام"
+          },
+          {
+            "text": "سمك"
+          },
+          {
+            "text": "بصل"
+          },
+          {
+            "text": "ماء"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"düşünmek\" بالتركية؟",
+        "options": [
+          {
+            "text": "يريد"
+          },
+          {
+            "text": "يفكر"
+          },
+          {
+            "text": "يكتب"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"yıldız\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "تراب"
+          },
+          {
+            "text": "شجرة"
+          },
+          {
+            "text": "نجمة"
+          },
+          {
+            "text": "نار"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"iki\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "ستة"
+          },
+          {
+            "text": "سبعون"
+          },
+          {
+            "text": "اثنان"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"ileri\"؟",
+        "options": [
+          {
+            "text": "فوق"
+          },
+          {
+            "text": "تحت"
+          },
+          {
+            "text": "إلى الأمام"
+          },
+          {
+            "text": "يمين"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ماذا تعني كلمة \"eş\" بالتركية؟",
+        "options": [
+          {
+            "text": "جدة"
+          },
+          {
+            "text": "زوج"
+          },
+          {
+            "text": "ابن العم/الخال"
+          },
+          {
+            "text": "زوج/زوجة"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "ما معنى \"gelmek\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "يستيقظ"
+          },
+          {
+            "text": "يأتي"
+          },
+          {
+            "text": "يجري"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"dünya\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "رمل"
+          },
+          {
+            "text": "غابة"
+          },
+          {
+            "text": "نار"
+          },
+          {
+            "text": "أرض/عالم"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"kız arkadaş\"؟",
+        "options": [
+          {
+            "text": "صديق"
+          },
+          {
+            "text": "صديقة"
+          },
+          {
+            "text": "جدة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"sağ\":",
+        "options": [
+          {
+            "text": "جنوب"
+          },
+          {
+            "text": "يسار"
+          },
+          {
+            "text": "تحت"
+          },
+          {
+            "text": "يمين"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ما معنى \"asker\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "طبيب"
+          },
+          {
+            "text": "جندي"
+          },
+          {
+            "text": "حلاق"
+          },
+          {
+            "text": "عامل"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"iyi geceler\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "حسنًا"
+          },
+          {
+            "text": "تصبح على خير"
+          },
+          {
+            "text": "أنا بخير"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"kitap\"؟",
+        "options": [
+          {
+            "text": "خريطة"
+          },
+          {
+            "text": "امتحان"
+          },
+          {
+            "text": "مقص"
+          },
+          {
+            "text": "كتاب"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"gri\":",
+        "options": [
+          {
+            "text": "كحلي"
+          },
+          {
+            "text": "بنفسجي"
+          },
+          {
+            "text": "رمادي"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"altı\" بالتركية؟",
+        "options": [
+          {
+            "text": "ستة"
+          },
+          {
+            "text": "أربعة عشر"
+          },
+          {
+            "text": "ثلاثمئة"
+          },
+          {
+            "text": "أربعون"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "كلمة \"açık\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "مفتوح"
+          },
+          {
+            "text": "خفيف"
+          },
+          {
+            "text": "بارد"
+          },
+          {
+            "text": "قصير"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"inek\"؟",
+        "options": [
+          {
+            "text": "طائر"
+          },
+          {
+            "text": "بقرة"
+          },
+          {
+            "text": "ضفدع"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"soğuk\":",
+        "options": [
+          {
+            "text": "صحيح"
+          },
+          {
+            "text": "صعب"
+          },
+          {
+            "text": "مغلق"
+          },
+          {
+            "text": "بارد"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "ماذا تعني كلمة \"oturmak\" بالتركية؟",
+        "options": [
+          {
+            "text": "يفهم"
+          },
+          {
+            "text": "يشتري"
+          },
+          {
+            "text": "يجلس"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ما معنى \"hoşça kal\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "إلى اللقاء"
+          },
+          {
+            "text": "كيف حالك"
+          },
+          {
+            "text": "أنا بخير"
+          },
+          {
+            "text": "مع السلامة"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "أي خيار يطابق معنى كلمة \"kravat\"؟",
+        "options": [
+          {
+            "text": "نظارة"
+          },
+          {
+            "text": "تنورة"
+          },
+          {
+            "text": "ربطة عنق"
+          },
+          {
+            "text": "جوارب"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"oda\":",
+        "options": [
+          {
+            "text": "سكين"
+          },
+          {
+            "text": "غرفة"
+          },
+          {
+            "text": "كوب"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"Çarşamba\" بالتركية؟",
+        "options": [
+          {
+            "text": "الإثنين"
+          },
+          {
+            "text": "الخميس"
+          },
+          {
+            "text": "الأربعاء"
+          },
+          {
+            "text": "الجمعة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ما معنى \"kaç\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "كم"
+          },
+          {
+            "text": "ماذا"
+          },
+          {
+            "text": "هم"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "كلمة \"yoga\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "اليوغا"
+          },
+          {
+            "text": "التنس"
+          },
+          {
+            "text": "ركوب الدراجة"
+          },
+          {
+            "text": "كرة السلة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"aşağı\":",
+        "options": [
+          {
+            "text": "شمال"
+          },
+          {
+            "text": "تحت"
+          },
+          {
+            "text": "جنوب"
+          },
+          {
+            "text": "يسار"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"gökyüzü\" بالتركية؟",
+        "options": [
+          {
+            "text": "سماء"
+          },
+          {
+            "text": "تراب"
+          },
+          {
+            "text": "حجر"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"oğul\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "حفيد"
+          },
+          {
+            "text": "أخ"
+          },
+          {
+            "text": "ابن"
+          },
+          {
+            "text": "أخ/أخت"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"mor\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "فضي"
+          },
+          {
+            "text": "ذهبي"
+          },
+          {
+            "text": "بنفسجي"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"bin\"؟",
+        "options": [
+          {
+            "text": "اثنا عشر"
+          },
+          {
+            "text": "ألف"
+          },
+          {
+            "text": "تسعة"
+          },
+          {
+            "text": "مئة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ماذا تعني كلمة \"Ekim\" بالتركية؟",
+        "options": [
+          {
+            "text": "أكتوبر"
+          },
+          {
+            "text": "يناير"
+          },
+          {
+            "text": "فبراير"
+          },
+          {
+            "text": "يوليو"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"öğrenmek\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "ينتظر"
+          },
+          {
+            "text": "يغسل"
+          },
+          {
+            "text": "يتعلم"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"yardım etmek\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "ينام"
+          },
+          {
+            "text": "يستمع"
+          },
+          {
+            "text": "يساعد"
+          },
+          {
+            "text": "يتكلم"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"erkek kardeş\"؟",
+        "options": [
+          {
+            "text": "زوجة"
+          },
+          {
+            "text": "ابن"
+          },
+          {
+            "text": "أخ"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"her zaman\":",
+        "options": [
+          {
+            "text": "متأخرًا"
+          },
+          {
+            "text": "دائمًا"
+          },
+          {
+            "text": "الآن"
+          },
+          {
+            "text": "مساء"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ما معنى \"kum\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "ورقة شجر"
+          },
+          {
+            "text": "نجمة"
+          },
+          {
+            "text": "رمل"
+          },
+          {
+            "text": "سماء"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"sandalye\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "كرسي"
+          },
+          {
+            "text": "حمّام"
+          },
+          {
+            "text": "بيت"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"şu\"؟",
+        "options": [
+          {
+            "text": "هو/هي"
+          },
+          {
+            "text": "ذاك"
+          },
+          {
+            "text": "ماذا"
+          },
+          {
+            "text": "كم"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"çatı\":",
+        "options": [
+          {
+            "text": "خزانة"
+          },
+          {
+            "text": "سقف"
+          },
+          {
+            "text": "فرن"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"kim\" بالتركية؟",
+        "options": [
+          {
+            "text": "كم"
+          },
+          {
+            "text": "نفسه"
+          },
+          {
+            "text": "من"
+          },
+          {
+            "text": "هو/هي"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "كلمة \"ayı\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "نحلة"
+          },
+          {
+            "text": "تمساح"
+          },
+          {
+            "text": "خروف"
+          },
+          {
+            "text": "دب"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"mutlu\"؟",
+        "options": [
+          {
+            "text": "بطيء"
+          },
+          {
+            "text": "طويل"
+          },
+          {
+            "text": "سعيد"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"utanç\":",
+        "options": [
+          {
+            "text": "ملل"
+          },
+          {
+            "text": "حزن"
+          },
+          {
+            "text": "خجل"
+          },
+          {
+            "text": "ثقة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"kuş\" بالتركية؟",
+        "options": [
+          {
+            "text": "بطة"
+          },
+          {
+            "text": "طائر"
+          },
+          {
+            "text": "جمل"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"İngilizce\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "فن/رسم"
+          },
+          {
+            "text": "رياضيات"
+          },
+          {
+            "text": "تركي"
+          },
+          {
+            "text": "إنجليزي"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "أي خيار يطابق معنى كلمة \"öğrenci\"؟",
+        "options": [
+          {
+            "text": "عطلة"
+          },
+          {
+            "text": "مسطرة"
+          },
+          {
+            "text": "طالب"
+          },
+          {
+            "text": "امتحان"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"amca\":",
+        "options": [
+          {
+            "text": "زوجة"
+          },
+          {
+            "text": "ابن العم/الخال"
+          },
+          {
+            "text": "عم"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"istemek\" بالتركية؟",
+        "options": [
+          {
+            "text": "يجلس"
+          },
+          {
+            "text": "يمشي"
+          },
+          {
+            "text": "يبكي"
+          },
+          {
+            "text": "يريد"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "ما معنى \"eczacı\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "صيدلي"
+          },
+          {
+            "text": "كاتب"
+          },
+          {
+            "text": "طباخ"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "كلمة \"pencere\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "سقف"
+          },
+          {
+            "text": "مصباح"
+          },
+          {
+            "text": "نافذة"
+          },
+          {
+            "text": "باب"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"ağlamak\":",
+        "options": [
+          {
+            "text": "يكتب"
+          },
+          {
+            "text": "يبكي"
+          },
+          {
+            "text": "يتكلم"
+          },
+          {
+            "text": "يأكل"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"park\" بالتركية؟",
+        "options": [
+          {
+            "text": "حديقة عامة"
+          },
+          {
+            "text": "بحيرة"
+          },
+          {
+            "text": "جبل"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"ay\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "مساء"
+          },
+          {
+            "text": "شهر"
+          },
+          {
+            "text": "ليل"
+          },
+          {
+            "text": "دائمًا"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"akşam\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "أسبوع"
+          },
+          {
+            "text": "متأخرًا"
+          },
+          {
+            "text": "مساء"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"bilet\"؟",
+        "options": [
+          {
+            "text": "دراجة"
+          },
+          {
+            "text": "تذكرة"
+          },
+          {
+            "text": "طائرة"
+          },
+          {
+            "text": "مترو"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ماذا تعني كلمة \"acı\" بالتركية؟",
+        "options": [
+          {
+            "text": "بطيء"
+          },
+          {
+            "text": "حار (طعم)"
+          },
+          {
+            "text": "صعب"
+          },
+          {
+            "text": "صحيح"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"bal\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "ملح"
+          },
+          {
+            "text": "جزر"
+          },
+          {
+            "text": "عسل"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"Perşembe\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "الثلاثاء"
+          },
+          {
+            "text": "الأحد"
+          },
+          {
+            "text": "السبت"
+          },
+          {
+            "text": "الخميس"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"maymun\"؟",
+        "options": [
+          {
+            "text": "قرد"
+          },
+          {
+            "text": "كلب"
+          },
+          {
+            "text": "نملة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"yatak\":",
+        "options": [
+          {
+            "text": "مطبخ"
+          },
+          {
+            "text": "غرفة"
+          },
+          {
+            "text": "خزانة"
+          },
+          {
+            "text": "سرير"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ما معنى \"omuz\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "ذراع"
+          },
+          {
+            "text": "أنف"
+          },
+          {
+            "text": "كتف"
+          },
+          {
+            "text": "فم"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"koşu\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "ركوب الدراجة"
+          },
+          {
+            "text": "كرة السلة"
+          },
+          {
+            "text": "الجري"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"çikolata\"؟",
+        "options": [
+          {
+            "text": "شوكولاتة"
+          },
+          {
+            "text": "فراولة"
+          },
+          {
+            "text": "ليمون"
+          },
+          {
+            "text": "شوربة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"on yedi\":",
+        "options": [
+          {
+            "text": "سبعة عشر"
+          },
+          {
+            "text": "ثلاثمئة"
+          },
+          {
+            "text": "أربعون"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"ayak\" بالتركية؟",
+        "options": [
+          {
+            "text": "فم"
+          },
+          {
+            "text": "سن"
+          },
+          {
+            "text": "قدم"
+          },
+          {
+            "text": "رقبة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "كلمة \"köy\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "سوق"
+          },
+          {
+            "text": "مسجد"
+          },
+          {
+            "text": "قرية"
+          },
+          {
+            "text": "مطعم"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"sevgi\"؟",
+        "options": [
+          {
+            "text": "حب"
+          },
+          {
+            "text": "حزن"
+          },
+          {
+            "text": "راحة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"doğru\":",
+        "options": [
+          {
+            "text": "قديم"
+          },
+          {
+            "text": "جديد"
+          },
+          {
+            "text": "صحيح"
+          },
+          {
+            "text": "جميل"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"dağ\" بالتركية؟",
+        "options": [
+          {
+            "text": "مستشفى"
+          },
+          {
+            "text": "مطعم"
+          },
+          {
+            "text": "جبل"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ما معنى \"erkek arkadaş\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "صديق"
+          },
+          {
+            "text": "شمام"
+          },
+          {
+            "text": "فبراير"
+          },
+          {
+            "text": "صديقة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "أي خيار يطابق معنى كلمة \"horoz\"؟",
+        "options": [
+          {
+            "text": "قرد"
+          },
+          {
+            "text": "ديك"
+          },
+          {
+            "text": "ثعبان"
+          },
+          {
+            "text": "أسد"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"mutluluk\":",
+        "options": [
+          {
+            "text": "سعادة"
+          },
+          {
+            "text": "دهشة"
+          },
+          {
+            "text": "خجل"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"oynamak\" بالتركية؟",
+        "options": [
+          {
+            "text": "يلعب"
+          },
+          {
+            "text": "يعطي"
+          },
+          {
+            "text": "يعلّم"
+          },
+          {
+            "text": "يغسل"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"özür dilerim\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "عفوًا"
+          },
+          {
+            "text": "آسف"
+          },
+          {
+            "text": "مساء الخير"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"Türkçe\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "رياضيات"
+          },
+          {
+            "text": "تركي"
+          },
+          {
+            "text": "علوم"
+          },
+          {
+            "text": "جغرافيا"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"cetvel\":",
+        "options": [
+          {
+            "text": "قلم"
+          },
+          {
+            "text": "واجب"
+          },
+          {
+            "text": "خريطة"
+          },
+          {
+            "text": "مسطرة"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "ماذا تعني كلمة \"kolay\" بالتركية؟",
+        "options": [
+          {
+            "text": "سهل"
+          },
+          {
+            "text": "قصير"
+          },
+          {
+            "text": "نظيف"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"peynir\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "جبنة"
+          },
+          {
+            "text": "بطاطا"
+          },
+          {
+            "text": "بصل"
+          },
+          {
+            "text": "سمك"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "كلمة \"hayır\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "لا"
+          },
+          {
+            "text": "مساء الخير"
+          },
+          {
+            "text": "تصبح على خير"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"öğretmen\"؟",
+        "options": [
+          {
+            "text": "ممرضة"
+          },
+          {
+            "text": "فلاح"
+          },
+          {
+            "text": "معلم"
+          },
+          {
+            "text": "شرطي"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ماذا تعني كلمة \"Pazar\" بالتركية؟",
+        "options": [
+          {
+            "text": "الخميس"
+          },
+          {
+            "text": "السبت"
+          },
+          {
+            "text": "الأربعاء"
+          },
+          {
+            "text": "الأحد"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "ما معنى \"okul\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "بنك"
+          },
+          {
+            "text": "مدرسة"
+          },
+          {
+            "text": "بحر"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"şehir\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "مدينة"
+          },
+          {
+            "text": "سوق تجاري"
+          },
+          {
+            "text": "جامعة"
+          },
+          {
+            "text": "قرية"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"yorgunluk\"؟",
+        "options": [
+          {
+            "text": "تعب"
+          },
+          {
+            "text": "غضب"
+          },
+          {
+            "text": "ثقة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"tilki\":",
+        "options": [
+          {
+            "text": "ضفدع"
+          },
+          {
+            "text": "ثعلب"
+          },
+          {
+            "text": "ذئب"
+          },
+          {
+            "text": "ديك"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ما معنى \"eczane\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "شاطئ"
+          },
+          {
+            "text": "صيدلية"
+          },
+          {
+            "text": "نهر"
+          },
+          {
+            "text": "مدينة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"şeker\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "عنب"
+          },
+          {
+            "text": "سكر"
+          },
+          {
+            "text": "قهوة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"kazak\"؟",
+        "options": [
+          {
+            "text": "شبشب"
+          },
+          {
+            "text": "كنزة"
+          },
+          {
+            "text": "حذاء"
+          },
+          {
+            "text": "سترة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"gözlük\":",
+        "options": [
+          {
+            "text": "حذاء"
+          },
+          {
+            "text": "شبشب"
+          },
+          {
+            "text": "نظارة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"torun\" بالتركية؟",
+        "options": [
+          {
+            "text": "حفيد"
+          },
+          {
+            "text": "أخ"
+          },
+          {
+            "text": "عمة"
+          },
+          {
+            "text": "أخت كبرى"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "كلمة \"atkı\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "قميص"
+          },
+          {
+            "text": "قبعة"
+          },
+          {
+            "text": "معطف"
+          },
+          {
+            "text": "وشاح"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"işçi\"؟",
+        "options": [
+          {
+            "text": "طباخ"
+          },
+          {
+            "text": "طبيب"
+          },
+          {
+            "text": "عامل"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"bilmek\":",
+        "options": [
+          {
+            "text": "يريد"
+          },
+          {
+            "text": "يضحك"
+          },
+          {
+            "text": "يعرف"
+          },
+          {
+            "text": "يمشي"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"kış\" بالتركية؟",
+        "options": [
+          {
+            "text": "الخريف"
+          },
+          {
+            "text": "الشتاء"
+          },
+          {
+            "text": "الصيف"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"makas\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "خريطة"
+          },
+          {
+            "text": "مقص"
+          },
+          {
+            "text": "دفتر"
+          },
+          {
+            "text": "قلم تلوين"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "أي خيار يطابق معنى كلمة \"yeşil\"؟",
+        "options": [
+          {
+            "text": "أزرق"
+          },
+          {
+            "text": "بنفسجي"
+          },
+          {
+            "text": "أخضر"
+          },
+          {
+            "text": "وردي"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"futbol\":",
+        "options": [
+          {
+            "text": "كرة القدم"
+          },
+          {
+            "text": "الكرة الطائرة"
+          },
+          {
+            "text": "اليوغا"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"tatil\" بالتركية؟",
+        "options": [
+          {
+            "text": "واجب"
+          },
+          {
+            "text": "قلم تلوين"
+          },
+          {
+            "text": "عطلة"
+          },
+          {
+            "text": "قلم"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ما معنى \"karınca\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "ضفدع"
+          },
+          {
+            "text": "فراشة"
+          },
+          {
+            "text": "نملة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"rüzgar\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "رياح"
+          },
+          {
+            "text": "ثلج"
+          },
+          {
+            "text": "شمس"
+          },
+          {
+            "text": "غيمة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"dondurma\":",
+        "options": [
+          {
+            "text": "آيس كريم"
+          },
+          {
+            "text": "كعكة"
+          },
+          {
+            "text": "سمك"
+          },
+          {
+            "text": "شوكولاتة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"otel\" بالتركية؟",
+        "options": [
+          {
+            "text": "متحف"
+          },
+          {
+            "text": "شارع"
+          },
+          {
+            "text": "فندق"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ما معنى \"yüz\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "أربعون"
+          },
+          {
+            "text": "واحد"
+          },
+          {
+            "text": "ثلاثون"
+          },
+          {
+            "text": "مئة"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "كلمة \"Cumartesi\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "الخميس"
+          },
+          {
+            "text": "الثلاثاء"
+          },
+          {
+            "text": "السبت"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"gemi\"؟",
+        "options": [
+          {
+            "text": "رحلة طيران"
+          },
+          {
+            "text": "طريق"
+          },
+          {
+            "text": "شاحنة"
+          },
+          {
+            "text": "سفينة"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ماذا تعني كلمة \"çilek\" بالتركية؟",
+        "options": [
+          {
+            "text": "سمك"
+          },
+          {
+            "text": "فراولة"
+          },
+          {
+            "text": "ثوم"
+          },
+          {
+            "text": "ليمون"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"siz\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "نحن"
+          },
+          {
+            "text": "أنتم"
+          },
+          {
+            "text": "لنا"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"eldiven\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "تنورة"
+          },
+          {
+            "text": "حزام"
+          },
+          {
+            "text": "قفازات"
+          },
+          {
+            "text": "حذاء طويل"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"aşçı\"؟",
+        "options": [
+          {
+            "text": "مهندس"
+          },
+          {
+            "text": "صحفي"
+          },
+          {
+            "text": "طباخ"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"terzi\":",
+        "options": [
+          {
+            "text": "كاتب"
+          },
+          {
+            "text": "شرطي"
+          },
+          {
+            "text": "طبيب"
+          },
+          {
+            "text": "خياط"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ما معنى \"orman\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "نجمة"
+          },
+          {
+            "text": "غابة"
+          },
+          {
+            "text": "سماء"
+          },
+          {
+            "text": "صحراء"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"timsah\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "تمساح"
+          },
+          {
+            "text": "ذئب"
+          },
+          {
+            "text": "نملة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"hafif\"؟",
+        "options": [
+          {
+            "text": "نظيف"
+          },
+          {
+            "text": "حار (طعم)"
+          },
+          {
+            "text": "خفيف"
+          },
+          {
+            "text": "طويل"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"Nisan\":",
+        "options": [
+          {
+            "text": "أبريل"
+          },
+          {
+            "text": "سبتمبر"
+          },
+          {
+            "text": "يناير"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"şort\" بالتركية؟",
+        "options": [
+          {
+            "text": "حذاء طويل"
+          },
+          {
+            "text": "جوارب"
+          },
+          {
+            "text": "شورت"
+          },
+          {
+            "text": "قفازات"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "كلمة \"bej\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "فضي"
+          },
+          {
+            "text": "أخضر"
+          },
+          {
+            "text": "وردي"
+          },
+          {
+            "text": "بيج"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"zor\"؟",
+        "options": [
+          {
+            "text": "قصير"
+          },
+          {
+            "text": "صعب"
+          },
+          {
+            "text": "حار/ساخن"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"çalışmak\":",
+        "options": [
+          {
+            "text": "يكتب"
+          },
+          {
+            "text": "يأخذ"
+          },
+          {
+            "text": "يعمل"
+          },
+          {
+            "text": "يضحك"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"saniye\" بالتركية؟",
+        "options": [
+          {
+            "text": "اليوم"
+          },
+          {
+            "text": "ثانية"
+          },
+          {
+            "text": "مساء"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"doksan\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "تسعون"
+          },
+          {
+            "text": "واحد"
+          },
+          {
+            "text": "ثمانية"
+          },
+          {
+            "text": "مئتان"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "أي خيار يطابق معنى كلمة \"nasılsın\"؟",
+        "options": [
+          {
+            "text": "حسنًا"
+          },
+          {
+            "text": "نعم"
+          },
+          {
+            "text": "كيف حالك"
+          },
+          {
+            "text": "تشرفت بك"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"kurt\":",
+        "options": [
+          {
+            "text": "نمر"
+          },
+          {
+            "text": "فراشة"
+          },
+          {
+            "text": "ذئب"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ماذا تعني كلمة \"bizim\" بالتركية؟",
+        "options": [
+          {
+            "text": "متى"
+          },
+          {
+            "text": "لي/ملكي"
+          },
+          {
+            "text": "أي"
+          },
+          {
+            "text": "لنا"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "ما معنى \"gömlek\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "قميص"
+          },
+          {
+            "text": "بدلة"
+          },
+          {
+            "text": "حقيبة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "كلمة \"rüzgâr\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "نجمة"
+          },
+          {
+            "text": "أرض/عالم"
+          },
+          {
+            "text": "شجرة"
+          },
+          {
+            "text": "ريح"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"çorap\":",
+        "options": [
+          {
+            "text": "جوارب"
+          },
+          {
+            "text": "سترة"
+          },
+          {
+            "text": "قبعة"
+          },
+          {
+            "text": "فستان"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"kırmızı\" بالتركية؟",
+        "options": [
+          {
+            "text": "أصفر"
+          },
+          {
+            "text": "أحمر"
+          },
+          {
+            "text": "بيج"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"takım elbise\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "شورت"
+          },
+          {
+            "text": "معطف"
+          },
+          {
+            "text": "تنورة"
+          },
+          {
+            "text": "بدلة"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "كلمة \"voleybol\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "اليوغا"
+          },
+          {
+            "text": "التنس"
+          },
+          {
+            "text": "الكرة الطائرة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"coğrafya\"؟",
+        "options": [
+          {
+            "text": "علوم"
+          },
+          {
+            "text": "عربي"
+          },
+          {
+            "text": "فن/رسم"
+          },
+          {
+            "text": "جغرافيا"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ماذا تعني كلمة \"kirpik\" بالتركية؟",
+        "options": [
+          {
+            "text": "رأس"
+          },
+          {
+            "text": "فم"
+          },
+          {
+            "text": "ساق"
+          },
+          {
+            "text": "رمش"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "ما معنى \"geç\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "غدًا"
+          },
+          {
+            "text": "متأخرًا"
+          },
+          {
+            "text": "أحيانًا"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"çay\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "بصل"
+          },
+          {
+            "text": "زيتون"
+          },
+          {
+            "text": "شاي"
+          },
+          {
+            "text": "سكر"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"kız\"؟",
+        "options": [
+          {
+            "text": "ابنة"
+          },
+          {
+            "text": "خالة"
+          },
+          {
+            "text": "أخت"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"üzüntü\":",
+        "options": [
+          {
+            "text": "غضب"
+          },
+          {
+            "text": "حزن"
+          },
+          {
+            "text": "فضول"
+          },
+          {
+            "text": "تعب"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ما معنى \"tırnak\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "إصبع"
+          },
+          {
+            "text": "رقبة"
+          },
+          {
+            "text": "أذن"
+          },
+          {
+            "text": "ظفر"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "كلمة \"tenis\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "السباحة"
+          },
+          {
+            "text": "التنس"
+          },
+          {
+            "text": "اليوغا"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"otobüs\"؟",
+        "options": [
+          {
+            "text": "حافلة"
+          },
+          {
+            "text": "راكب"
+          },
+          {
+            "text": "سيارة أجرة"
+          },
+          {
+            "text": "سيارة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"koca\":",
+        "options": [
+          {
+            "text": "زوج"
+          },
+          {
+            "text": "عم"
+          },
+          {
+            "text": "زوجة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"lütfen\" بالتركية؟",
+        "options": [
+          {
+            "text": "من فضلك"
+          },
+          {
+            "text": "مرحبًا"
+          },
+          {
+            "text": "تصبح على خير"
+          },
+          {
+            "text": "حسنًا"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "كلمة \"hiçbir zaman\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "أمس"
+          },
+          {
+            "text": "اليوم"
+          },
+          {
+            "text": "أبدًا"
+          },
+          {
+            "text": "ثانية"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"dört\"؟",
+        "options": [
+          {
+            "text": "خمسون"
+          },
+          {
+            "text": "أربعة"
+          },
+          {
+            "text": "تسعة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"ödev\":",
+        "options": [
+          {
+            "text": "كتاب"
+          },
+          {
+            "text": "واجب"
+          },
+          {
+            "text": "عطلة"
+          },
+          {
+            "text": "خريطة"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"iyiyim\" بالتركية؟",
+        "options": [
+          {
+            "text": "صباح الخير"
+          },
+          {
+            "text": "من فضلك"
+          },
+          {
+            "text": "أنا بخير"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ما معنى \"yılan\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "عنكبوت"
+          },
+          {
+            "text": "ثعبان"
+          },
+          {
+            "text": "طائر"
+          },
+          {
+            "text": "خروف"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "أي خيار يطابق معنى كلمة \"nerede\"؟",
+        "options": [
+          {
+            "text": "نحن"
+          },
+          {
+            "text": "لماذا"
+          },
+          {
+            "text": "أين"
+          },
+          {
+            "text": "لي/ملكي"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"konuşmak\":",
+        "options": [
+          {
+            "text": "يتكلم"
+          },
+          {
+            "text": "يريد"
+          },
+          {
+            "text": "يستمع"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ماذا تعني كلمة \"meyve suyu\" بالتركية؟",
+        "options": [
+          {
+            "text": "ماء"
+          },
+          {
+            "text": "طماطم"
+          },
+          {
+            "text": "زيت"
+          },
+          {
+            "text": "عصير"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "ما معنى \"kaşık\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "ملعقة"
+          },
+          {
+            "text": "سكين"
+          },
+          {
+            "text": "مطبخ"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "كلمة \"boks\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "اليوغا"
+          },
+          {
+            "text": "السباحة"
+          },
+          {
+            "text": "الملاكمة"
+          },
+          {
+            "text": "ركوب الدراجة"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"tren\":",
+        "options": [
+          {
+            "text": "سيارة"
+          },
+          {
+            "text": "دراجة"
+          },
+          {
+            "text": "حافلة"
+          },
+          {
+            "text": "قطار"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "ماذا تعني كلمة \"hastane\" بالتركية؟",
+        "options": [
+          {
+            "text": "نهر"
+          },
+          {
+            "text": "مستشفى"
+          },
+          {
+            "text": "مطعم"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ما معنى \"yol\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "سيارة أجرة"
+          },
+          {
+            "text": "طائرة"
+          },
+          {
+            "text": "طريق"
+          },
+          {
+            "text": "مترو"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"patates\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "موز"
+          },
+          {
+            "text": "تفاح"
+          },
+          {
+            "text": "بطاطا"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"güçlü\"؟",
+        "options": [
+          {
+            "text": "خطأ"
+          },
+          {
+            "text": "ضعيف"
+          },
+          {
+            "text": "قوي"
+          },
+          {
+            "text": "جميل"
+          }
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ماذا تعني كلمة \"on dört\" بالتركية؟",
+        "options": [
+          {
+            "text": "مئتان"
+          },
+          {
+            "text": "مئة"
+          },
+          {
+            "text": "أربعة عشر"
+          },
+          {
+            "text": "تسعون"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ما معنى \"senin\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "أين"
+          },
+          {
+            "text": "كم"
+          },
+          {
+            "text": "لك/ملكك"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"sormak\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "يجري"
+          },
+          {
+            "text": "يعلّم"
+          },
+          {
+            "text": "يسأل"
+          },
+          {
+            "text": "يساعد"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"havuç\"؟",
+        "options": [
+          {
+            "text": "آيس كريم"
+          },
+          {
+            "text": "جزر"
+          },
+          {
+            "text": "أرز"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"kahve\":",
+        "options": [
+          {
+            "text": "ماء"
+          },
+          {
+            "text": "شوربة"
+          },
+          {
+            "text": "زبدة"
+          },
+          {
+            "text": "قهوة"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "ما معنى \"Kasım\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "سبتمبر"
+          },
+          {
+            "text": "فبراير"
+          },
+          {
+            "text": "نوفمبر"
+          },
+          {
+            "text": "مارس"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "كلمة \"yirmi\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "عشرون"
+          },
+          {
+            "text": "خمسة"
+          },
+          {
+            "text": "ثلاثة عشر"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"otuz\"؟",
+        "options": [
+          {
+            "text": "مئة"
+          },
+          {
+            "text": "سبعون"
+          },
+          {
+            "text": "أربعة"
+          },
+          {
+            "text": "ثلاثون"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"tabak\":",
+        "options": [
+          {
+            "text": "حديقة"
+          },
+          {
+            "text": "صحن"
+          },
+          {
+            "text": "حمّام"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"ne zaman\" بالتركية؟",
+        "options": [
+          {
+            "text": "متى"
+          },
+          {
+            "text": "هذا"
+          },
+          {
+            "text": "لي/ملكي"
+          },
+          {
+            "text": "كيف"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "كلمة \"Ağustos\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "سبتمبر"
+          },
+          {
+            "text": "أغسطس"
+          },
+          {
+            "text": "فبراير"
+          },
+          {
+            "text": "مارس"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"temiz\"؟",
+        "options": [
+          {
+            "text": "سهل"
+          },
+          {
+            "text": "نظيف"
+          },
+          {
+            "text": "قصير"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"sol\":",
+        "options": [
+          {
+            "text": "فوق"
+          },
+          {
+            "text": "يسار"
+          },
+          {
+            "text": "يمين"
+          },
+          {
+            "text": "إلى الأمام"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"müzik\" بالتركية؟",
+        "options": [
+          {
+            "text": "تربية بدنية"
+          },
+          {
+            "text": "عربي"
+          },
+          {
+            "text": "موسيقى"
+          }
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "ما معنى \"çarşı\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "سوق تجاري"
+          },
+          {
+            "text": "نهر"
+          },
+          {
+            "text": "صيدلية"
+          },
+          {
+            "text": "بحيرة"
+          }
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "أي خيار يطابق معنى كلمة \"sarı\"؟",
+        "options": [
+          {
+            "text": "أحمر"
+          },
+          {
+            "text": "ذهبي"
+          },
+          {
+            "text": "أخضر"
+          },
+          {
+            "text": "أصفر"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"yıl\":",
+        "options": [
+          {
+            "text": "مبكرًا"
+          },
+          {
+            "text": "سنة"
+          },
+          {
+            "text": "شهر"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "ماذا تعني كلمة \"dede\" بالتركية؟",
+        "options": [
+          {
+            "text": "جد"
+          },
+          {
+            "text": "ابنة"
+          },
+          {
+            "text": "زوجة"
+          },
+          {
+            "text": "أخت"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"tereyağı\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "قهوة"
+          },
+          {
+            "text": "زبدة"
+          },
+          {
+            "text": "أرز"
+          }
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "كلمة \"köpek\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "تمساح"
+          },
+          {
+            "text": "كلب"
+          },
+          {
+            "text": "ماعز"
+          },
+          {
+            "text": "أرنب"
+          }
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  {
+    "type": "quiz-question",
+    "background": "/assets/backgrounds/quizzes/quiz-question.png",
+    "questions": [
+      {
+        "question": "اختر المعنى الصحيح لكلمة \"keçi\":",
+        "options": [
+          {
+            "text": "عنكبوت"
+          },
+          {
+            "text": "زرافة"
+          },
+          {
+            "text": "تمساح"
+          },
+          {
+            "text": "ماعز"
+          }
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "question": "ماذا تعني كلمة \"öğle\" بالتركية؟",
+        "options": [
+          {
+            "text": "ظهر"
+          },
+          {
+            "text": "مبكرًا"
+          },
+          {
+            "text": "شهر"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "ما معنى \"on üç\" باللغة العربية؟",
+        "options": [
+          {
+            "text": "ثلاثة عشر"
+          },
+          {
+            "text": "خمسون"
+          },
+          {
+            "text": "خمسة"
+          },
+          {
+            "text": "ثلاثون"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "كلمة \"pembe\" بالتركية تعني:",
+        "options": [
+          {
+            "text": "وردي"
+          },
+          {
+            "text": "أصفر"
+          },
+          {
+            "text": "بني"
+          }
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "أي خيار يطابق معنى كلمة \"pilot\"؟",
+        "options": [
+          {
+            "text": "خياط"
+          },
+          {
+            "text": "معلم"
+          },
+          {
+            "text": "سائق"
+          },
+          {
+            "text": "طيار"
+          }
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  }
+]
